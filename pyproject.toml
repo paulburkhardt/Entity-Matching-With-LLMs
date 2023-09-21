@@ -1,0 +1,22 @@
+[tool.poetry]
+name = "entity-matching-with-llms"
+version = "0.1.0"
+description = ""
+authors = ["paulburkhardt <92929336+paulburkhardt@users.noreply.github.com>"]
+readme = "README.md"
+packages = [{include = "entity_matching_with_llms"}]
+
+[tool.poetry.dependencies]
+python = "^3.9"
+pandas = "^2.1.0"
+langchain = "^0.0.292"
+python-dotenv = "^1.0.0"
+openai = "^0.28.0"
+
+
+[tool.poetry.group.dev.dependencies]
+jupyter = "^1.0.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
