@@ -1,0 +1,6 @@
+Model,Prompt,Accuracy,precision,recall,F1,confusion_matrix,Dataset,Time
+openAI - gpt 3.5,prompt_1_zero_shot_CoT,0.8461538461538461,0.4042553191489361,0.76,0.5277777777777778,"[[168  28]
+ [  6  19]]",,
+openAI - gpt 3.5,prompt_2_zeroshot_rules_ralph,0.8461538461538461,0.30434782608695654,0.28,0.2916666666666667,"[[180  16]
+ [ 18   7]]",,
+
