@@ -1,6 +1,17 @@
 from langchain.prompts import PromptTemplate
 
-#GPT-3.5-turbo
+
+prompt0_en_baseline = PromptTemplate(
+    input_variables=["p1", "p2"],
+    template=
+     """Could you please tell me if the following two products are the same one?
+Product 1: {p1}
+Product 2: {p2}
+
+Please answer my question only with True or False."""
+)
+
+
 prompt_1_zero_shot_CoT = PromptTemplate(
     input_variables=["p1", "p2"],
     template="""Could you please tell me if the following two products are the same one?
@@ -30,11 +41,7 @@ Product 2: {p1}
 """
 )
 
-prompt1_en_roleModel_Chat_1 = """
-You are an expert in e-commerce, known for consistently delivering exceptional work and being someone that people can count on. 
-Clients come to you throughout the day, seeking your opinion on whether two products they've found on the internet are the same in the real world. That is going to be your task for today.
-Good Luck!
-"""
+
 
 # product1 = "Title: " + cut_length(str(df["title_left"][1] or "none")) + "\nDescription: " + cut_length(str(df["description_left"][1] or "none")) + "\nBrand:" + str(df["brand_left"][1] or "none") 
 
