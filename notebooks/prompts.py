@@ -21,6 +21,16 @@ Product 2: {p2}
 Answer with 'True' or 'False'."""
 )
 
+prompt2_en_short_mustafa = PromptTemplate(
+    input_variables=["p1", "p2"],
+    template=
+     """Are the following two products the same?
+Product 1: {p1}
+Product 2: {p2}
+
+Answer with 'True' or 'False.'"""
+)
+
 
 prompt_1_zero_shot_CoT = PromptTemplate(
     input_variables=["p1", "p2"],
