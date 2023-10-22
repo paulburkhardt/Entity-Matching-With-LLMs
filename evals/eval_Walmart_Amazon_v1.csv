@@ -1,0 +1,3 @@
+Model,Prompt,Accuracy,precision,recall,F1,confusion_matrix,Dataset,Time
+openAI - gpt-3.5-turbo-0301,prompt1_en_short_temp_0_gpt3.5-0301_maxtok-15,0.9432098765432099,0.7428571428571429,0.65,0.6933333333333334,"[[356   9]
+ [ 14  26]]",WalmartAmazon,2023-10-22 17:29:04.083573
