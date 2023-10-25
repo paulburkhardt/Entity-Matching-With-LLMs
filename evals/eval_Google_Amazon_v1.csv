@@ -1,3 +1,5 @@
 Model,Prompt,Accuracy,precision,recall,F1,confusion_matrix,Dataset,Time
 openAI - gpt-3.5-turbo-0301,prompt1_en_short_temp_0_gpt3.5-0301_maxtok-15,0.9125,0.5454545454545454,0.75,0.631578947368421,"[[335  25]
  [ 10  30]]",GoogleAmazon,2023-10-22 16:59:39.414990
+openAI - gpt-3.5-turbo-0301,match_prompt_manual_fewshot_1_eval2_temp_0_gpt3.5_0301_maxtok-15,0.8525,0.379746835443038,0.75,0.5042016806722689,"[[311  49]
+ [ 10  30]]",GoogleAmazon,2023-10-23 11:53:13.652323

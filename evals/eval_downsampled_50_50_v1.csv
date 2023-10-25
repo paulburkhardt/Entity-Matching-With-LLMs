@@ -1,17 +1,5 @@
 Model,Prompt,Accuracy,precision,recall,F1,confusion_matrix,Dataset,Time
-openAI - gpt 3.5-0301,prompt_1_zero_shot_CoT,0.8461538461538461,0.4042553191489361,0.76,0.5277777777777778,"[[168  28]
- [  6  19]]",,
-openAI - gpt 3.5-0301,prompt_2_zeroshot_rules_ralph,0.8461538461538461,0.3043478260869565,0.28,0.2916666666666667,"[[180  16]
- [ 18   7]]",,
-openAI - gpt 3.5-0301,prompt0_en_baseline_GPT-3.5-turbo_maxtok-10_temp-0,0.8914027149321267,1.0,0.04,0.0769230769230769,"[[196   0]
- [ 24   1]]",downsampled_50_50,
-openAI - gpt 3.5-0301,prompt0_en_baseline_GPT-3.5-turbo_maxtok-10_temp-0,0.8914027149321267,1.0,0.04,0.0769230769230769,"[[196   0]
- [ 24   1]]",downsampled_50_50,
-openAI - gpt 3.5-0301,prompt0_en_baseline_GPT-3.5-turbo_maxtok-15_temp-0,0.8959276018099548,1.0,0.08,0.1481481481481481,"[[196   0]
- [ 23   2]]",downsampled_50_50,
-openAI - gpt 3.5-0301,prompt1_en_short_temp_0_gpt3.5-turbo_maxtok-15,0.9095022624434388,0.631578947368421,0.48,0.5454545454545454,"[[189   7]
- [ 13  12]]",downsampled_50_50,
-openAI - gpt 3.5-0301,prompt1_en_short_temp_0_gpt3.5-turbo-0301_maxtok-15,0.9457013574660632,0.76,0.76,0.76,"[[190   6]
+openAI - gpt-3.5-turbo-0301,prompt1_en_short_temp_0_gpt3.5-turbo-0301_maxtok-15,0.9457013574660632,0.76,0.76,0.76,"[[190   6]
  [  6  19]]",downsampled_50_50,
 openAI - gpt 3.5-0301,prompt0_en_baseline_temp_0_gpt3.5-0301_maxtok-15,0.9457013574660632,0.9333333333333332,0.56,0.7000000000000001,"[[195   1]
  [ 11  14]]",downsampled_50_50,
@@ -25,7 +13,7 @@ openAI - gpt 3.5-0301,prompt2_en_short_mustafa_temp_0_gpt3.5-0301_maxtok-15,0.93
  [ 13  12]]",downsampled_50_50,
 llama,prompt0_en_short_mustafa_temp_0_llama_maxtok-15,0.7692307692307693,0.3088235294117647,0.84,0.4516129032258064,"[[149  47]
  [  4  21]]",downsampled_50_50,
-openAI - gpt 3.5-0301,prompt1_cot_manual_temp_0_gpt3.5-0301_maxtok-15,0.9140271493212668,0.5833333333333334,0.84,0.6885245901639344,"[[181  15]
+openAI - gpt-3.5-turbo-0301,prompt1_cot_manual_temp_0_gpt3.5-0301_maxtok-15,0.9140271493212668,0.5833333333333334,0.84,0.6885245901639344,"[[181  15]
  [  4  21]]",downsampled_50_50,
 openAI - gpt 3.5-0301,prompt_basic_sequential_cot_temp_0_gpt3.5-0301_maxtok-15,0.8868778280542986,0.0,0.0,0.0,"[[196   0]
  [ 25   0]]",downsampled_50_50,
@@ -47,5 +35,9 @@ openAI - gpt-4-0613,match_prompt_autogpt4_fewshot_1_eval2_temp_0_gpt-4-0613_maxt
  [  8  17]]",downsampled_50_50,
 openAI - gpt-3.5-turbo-instruct,prompt1_en_short_temp_0_gpt-3.5-turbo-instruct_maxtok-15,0.9004524886877828,0.7142857142857143,0.2,0.3125,"[[194   2]
  [ 20   5]]",downsampled_50_50,
-openAI - gpt-3.5-turbo-0301,prompt1_en_short_temp_0_gpt3.5-0301_v2_maxtok-15,0.9457013574660633,0.782608695652174,0.72,0.7499999999999999,"[[191   5]
+openAI - gpt-3.5-turbo-0301,prompt1_en_short_temp_0_gpt3.5-0301_v2_maxtok-15,0.9457013574660632,0.782608695652174,0.72,0.7499999999999999,"[[191   5]
  [  7  18]]",downsampled_50_50,
+openAI - gpt-3.5-turbo-0301,match_prompt_manual_fewshot_2_eval2_temp_0_gpt3.5_0301_maxtok-15,0.9095022624434388,0.5714285714285714,0.8,0.6666666666666666,"[[181  15]
+ [  5  20]]",downsampled_50_50,
+openAI - gpt-3.5-turbo-0301,match_prompt_autogpt3_fewshot_2_eval2_temp_0_gpt3.5_0301_maxtok-15,0.9321266968325792,0.75,0.6,0.6666666666666665,"[[191   5]
+ [ 10  15]]",downsampled_50_50,
