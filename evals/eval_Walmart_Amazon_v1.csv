@@ -5,5 +5,7 @@ openAI - gpt-3.5-turbo-0301,match_prompt_manual_fewshot_1_eval2_temp_0_gpt3.5_03
  [ 14  26]]",WalmartAmazon,2023-10-23 13:41:58.270270
 openAI - gpt-3.5-turbo-0301,match_prompt_auto_fewshot_1_eval2_temp_0_gpt3.5_0301_maxtok-15,0.9407407407407408,0.9444444444444444,0.425,0.5862068965517241,"[[364   1]
  [ 23  17]]",WalmartAmazon,2023-10-23 16:23:44.737390
-openAI - gpt-3.5-turbo-0301,match_prompt_auto_fewshot_2_ama_wal_eval2_temp_0_gpt3.5_0301_maxtok-15,0.945679012345679,0.9090909090909091,0.5,0.6451612903225806,"[[363   2]
+openAI - gpt-3.5-turbo-0301,match_prompt_auto_fewshot_2_ama_wal_eval2_temp_0_gpt3.5_0301_maxtok-15,0.945679012345679,0.9090909090909092,0.5,0.6451612903225806,"[[363   2]
  [ 20  20]]",WalmartAmazon,2023-10-23 18:23:15.746861
+openAI - gpt-3.5-turbo-0301,match_prompt_auto_fewshot_ama_wal_4examples_eval2_temp_0_gpt3.5_0301_maxtok-15,0.9580246913580247,0.8484848484848485,0.7,0.7671232876712328,"[[360   5]
+ [ 12  28]]",WalmartAmazon,2023-10-25 17:57:16.630795
