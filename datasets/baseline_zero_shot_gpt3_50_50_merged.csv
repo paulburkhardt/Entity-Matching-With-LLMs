@@ -1,0 +1,1548 @@
+Unnamed: 0,traceId,model,startTime,endTime,prompt,completion,predicted_label,label,error,similarity,confidence
+0,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:05:58.793Z,2023-10-22T13:05:59.340Z,"Are the following two products the same?
+Product 1: Title: Traveler's Lined Notebook Refill - Regular Size
+Description: Think about the days you went to school. Based on people’s past experience as a student, we receive comments saying that this is the most easy type of notebook to use. The lines are printed with an interval of 6.5mm, and the paper is our originally m
+Product 2: Title: Traveler's Company Traveler's Company Notebook Accessories
+Description: none
+
+Answer with 'True' or 'False'.",False.,False,True,FN,30%,50%
+1,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:05:58.216Z,2023-10-22T13:05:58.791Z,"Are the following two products the same?
+Product 1: Title: MINION DHR II 29 X 2.30 3C TERRA TR DD FOLD
+Description: Refined and redesigned; ready to shred any lineRamped and siped tread to roll fast and track straight under brakingSingle-ply, DoubleDown, and DH casings available3C MaxxTerra, 3C MaxxGrip, and Super Tacky available on select modelsWide trail (WT) ca
+Product 2: Title: Maxxis Minion DHR II 29\"" DD/3C/TR
+Description: Minion DHR II 29 x 2.35 tubeless ready tyre with Double down casing and 3C Maxx Terra.For our full range of Bike Accessories visit Evans Cycles
+
+Answer with 'True' or 'False'.",True,True,True,NONE,90%,80%
+2,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:05:57.825Z,2023-10-22T13:05:58.212Z,"Are the following two products the same?
+Product 1: Title: Traveler's Company 014. CRAFT PAPER (64PG) MIDORI TRAVELER'S NOTEBOOK
+Description: none
+Product 2: Title: Refill #014: Kraft Paper Notebook
+Description: Cardboard Paper notebook refill for the Traveler's Notebook.Various cuttings, stickers, photos, scribbles and more sophisticated drawings suit it well.Contains 64 pages and its dimensions (210 x 110 mm) make it suitable for the classic version, not f
+
+Answer with 'True' or 'False'.",True,True,True,NONE,100%,90%
+3,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:05:57.322Z,2023-10-22T13:05:57.823Z,"Are the following two products the same?
+Product 1: Title: Traveler's Refills: MD Paper - 002 / grid
+Description: These notebooks aremade in Japan, where there is a rich tradition of elevating basic craft to perfected art form. MD Paper is no exception,meticulously engineered for the finest writing experience. There is no detail overlooked: the paper is made fro
+Product 2: Title: 002 TN Regular Refill Grid Notebook Basic Item TRC
+Description: Traveler's company
+
+Answer with 'True' or 'False'.",True,True,True,NONE,95%,90%
+4,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:05:56.925Z,2023-10-22T13:05:57.320Z,"Are the following two products the same?
+Product 1: Title: TAG Heuer Formula 1 CAZ1010.FT8024
+Description: Find Authentic TAG Heuer Formula 1 CAZ1010.FT8024 with TAG Heuer Warranty at lowest prices. Fast & FREE Shipping. 14-day Return Policy. Tax Free & Worldwide Delivery. Lowest Prices on all watches and brands. (Model CAZ1010.FT8024)
+Product 2: Title: TAG Heuer Formula 1 Chronograph 43mm CAZ1010.FT8024
+Description: none
+
+Answer with 'True' or 'False'.",True,True,True,NONE,100%,90%
+5,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:05:56.511Z,2023-10-22T13:05:56.923Z,"Are the following two products the same?
+Product 1: Title: Cle Usb Wifi Tp-Link N300 Tl-Wn821n
+Description: Cle Usb Wifi Tp-Link N300 Tl-Wn821n
+Product 2: Title: Tp-Link Wireless N USB Adapter 300Mbps
+Description: none
+
+Answer with 'True' or 'False'.",True,True,True,NONE,90%,80%
+6,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:05:56.149Z,2023-10-22T13:05:56.508Z,"Are the following two products the same?
+Product 1: Title: Adattatore USB Wireless TP-Link TL-WN725N 150Mbps 2.4GHz
+Description: none
+Product 2: Title: ADATTATORE USB2.0 WIRELESS N 150M LAN 802.11BGN 1T1R 2.4GHZ-NANO SIZE-PROVIDE USB2.0 INTERF.-WPS-SUPP. XP/VISTA/7
+Description: none
+
+Answer with 'True' or 'False'.",True,True,True,NONE,95%,90%
+7,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:05:55.711Z,2023-10-22T13:05:56.147Z,"Are the following two products the same?
+Product 1: Title: 5 Port, Hikvision PoE Network Switch
+Description: Switch with 4 PoE ports + 1 x Uplink port 10/100Mbps RJ45 ports 58 watts total Max Extend On, up to 250m distance 2 Years Manufacturers Warranty
+Product 2: Title: Hikvision 4 Port Unmanaged PoE Switch,1*100M Uplink [DS-3E0105P-E]
+Description: Key FeaturesLayer 2 unmanaged PoE switch4x 10/100Mbps Ethernet ports1x 100Mbps uplinkIEEE 802.3af or 802.3at PoE standard802.3af or 802.3at
+
+Answer with 'True' or 'False'.",False.,False,True,FN,85%,80%
+8,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:05:55.246Z,2023-10-22T13:05:55.698Z,"Are the following two products the same?
+Product 1: Title: Jabra Biz 2400 II Mono 3-1, NC, 82 mic, Wideband, QD
+Description: none
+Product 2: Title: Jabra BIZ 2400 II Mono 3-in-1 Wideband
+Description: Jabra BIZ 2400 II Mono 3-in-1 Wideband from Headset Store. Next Day Delivery. Part Code:2486-820-209
+
+Answer with 'True' or 'False'.",False.,False,True,FN,90%,80%
+9,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:05:54.849Z,2023-10-22T13:05:55.245Z,"Are the following two products the same?
+Product 1: Title: WIRELESS AC600 DUAL BAND TP-LINK ARCHER T2U NANO USB2.0 150MBPS A 2.4GHZ + 433MBPS A 5GHZ 802.11AC/A/B/G/N
+Description: none
+Product 2: Title: ADATT. WIFI TP-LINK AC600 NANO WRLS USB
+Description: none
+
+Answer with 'True' or 'False'.",True,True,True,NONE,90%,95%
+10,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:05:54.434Z,2023-10-22T13:05:54.847Z,"Are the following two products the same?
+Product 1: Title: Fujifilm Instax Mini Instant Film - Monochrome (10 Shots)
+Description: Monochrome (Black & White) Instant Film for Fujifilm Mini Instant Cameras10 Shots per PackISO 800High Gloss FinishSuperb Grain QualityFast Image FormationGreater Resistance to Age-Induced ChangesSingle-plastic Composition for Easier Disposal
+Product 2: Title: Fujifilm 16531958 instant picture film 54 x 86 mm 10 pc(s)
+Description: This single pack of FUJIFILM INSTAX Mini Monochrome Instant Film contains 10 sheets of instant black & white film that is compatible for use with the FUJIFILM INSTAX Mini series of cameras or INSTAX SHARE printers. This film features neutral gray ton
+
+Answer with 'True' or 'False'.",True,True,True,NONE,95%,90%
+11,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:05:53.960Z,2023-10-22T13:05:54.432Z,"Are the following two products the same?
+Product 1: Title: SanDisk Extreme PRO UHS-II SD Card Reader USB 3.0
+Description: Maximize workflow efficiencyThe SanDisk Extreme PRO® SDTM UHS-II Card Reader/Writer is designed to increase workflow efficiency for professional photographers and videographers. Small enough for fieldwork, the compact reader is built to handle the hi
+Product 2: Title: SanDisk Extreme PRO SD UHS-II USB 3.0
+Description: none
+
+Answer with 'True' or 'False'.",False.,False,True,FN,80%,70%
+12,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:05:53.462Z,2023-10-22T13:05:53.956Z,"Are the following two products the same?
+Product 1: Title: WD 250GB Blue Series m.2 SSD WDS250G2B0B
+Description: HDSSD00250WDC003
+Product 2: Title: WD Blue 3D NAND 250GB Internal SSD - SATA III 6Gb/s M.2 2280 Solid State Drive - WDS250G2B0B
+Description: WD Blue 3D NAND 250GB Internal SSD - SATA III 6Gb/s M.2 2280 Solid State Drive - WDS250G2B0B
+
+Answer with 'True' or 'False'.",True.,True,True,NONE,100%,100%
+13,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:05:53.017Z,2023-10-22T13:05:53.460Z,"Are the following two products the same?
+Product 1: Title: TP-Link Archer T9UH AC1900 High Gain Wireless Dual Band USB Network Adapter 1900Mbps (600Mpbs @ 2.4GHz & 1300Mbps @ 5GHz) USB3.0 Omni Directional Ant.
+Description: TP-Link Archer T9UH AC1900 High Gain Wireless Dual Band USB Network Adapter 1900Mbps (600Mpbs @ 2...
+Product 2: Title: TP-Link Archer-T9UH AC1900 USB 3.0 Adaptr
+Description: ArabirimUSBVeri Hz1300 MbpsVeri Hz600 Mbpsalma Frekans2.4 GHzalma Frekans5 GHzGaranti Sresi24 Ay
+
+Answer with 'True' or 'False'.",True,True,True,NONE,85%,90%
+14,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:05:52.543Z,2023-10-22T13:05:53.015Z,"Are the following two products the same?
+Product 1: Title: Fujifilm Instax Mini Rainbow (10 sheets) Film
+Description: Fujifilm instax mini film is for all instax mini cameras and comes in a handy cartridge. It offers stunning instant pictures that you can fit into a purse, wallet or mini photo frame. instax film ensures sharp, clear reproduction, vivid color and nat
+Product 2: Title: Instax Mini Rainbow Film 10 Pack
+Description: Brighten the place up with this pack of rainbow coloured film! Top tip: one of these would look fab in our Instax Mini Acrylic Photo Block!Includes pack of 10 shots
+
+Answer with 'True' or 'False'.",True,True,True,NONE,95%,90%
+15,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:05:52.095Z,2023-10-22T13:05:52.541Z,"Are the following two products the same?
+Product 1: Title: 1 Fujifilm Instax Square Film Black Frame
+Description: none
+Product 2: Title: Instax Fujifilm | Instax SQUARE Instant Film - Black Border (10 Exposures)
+Description: none
+
+Answer with 'True' or 'False'.",True.,True,True,NONE,100%,100%
+16,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:05:51.524Z,2023-10-22T13:05:52.094Z,"Are the following two products the same?
+Product 1: Title: Fujifilm Instax Square Film for SQ10 Hybrid Cameras 20 Shot Pack
+Description: EXTRA VALUE 2x 10 Shot Packs (giving you 20 shots in total). FRESH UK STOCKS AND LONG DATED. Fujifilm Instax \""SQUARE\"" film is for use in only square format instant print cameras such as the new SQ10, SQ6 cameras...Note: Not for use in Fuji Instax \
+Product 2: Title: Fujifilm Instax Square Instant Film - 10 Exposures
+Description: INSTAX Square Instant Film contains 10 sheets of instant color film that is compatible for use with INSTAX SQUARE cameras. This film features vivid color reproduction with natural skin tones, and its refined grain structure provides high image sharpn
+
+Answer with 'True' or 'False'.",False.,False,True,FN,60%,80%
+17,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:05:50.963Z,2023-10-22T13:05:51.521Z,"Are the following two products the same?
+Product 1: Title: TRAVELER'S COMPANY Notebook - Blue
+Description: TRAVELER’S notebook Blue was released as a limited edition in 2015 and the blue color was well-received as a refreshing, new tone of TRAVELER’S notebook. Even after the conclusion of sale, so many requests were received for re-launch of blue during T
+Product 2: Title: Traveler's Notebook Starter Kit (Passport Size) - Blue
+Description: Travel with Traveler's Notebook, you can jot down your precious memories along your journey. Easy to hold in your hand, it's the perfect size to bring along for you to write thoughts and observations from your trips. You can carry maps, tickets, and 
+
+Answer with 'True' or 'False'.",True.,True,True,NONE,80%,85%
+18,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:05:50.471Z,2023-10-22T13:05:50.960Z,"Are the following two products the same?
+Product 1: Title: Adaptador WiFi N PCI Express 150 Mbps 20dBm, 802.11b/g/n Chipset Atheros, 1 Antena 2 dBi desmontable.
+Description: Adaptador WiFi N PCI Express 150 Mbps 20dBm, 802.11b/g/n Chipset Atheros, 1 Antena 2 dBi desmontable.
+Product 2: Title: TP-Link TL-WN781ND Netcard PCI-eX Wireless 150 mb
+Description: none
+
+Answer with 'True' or 'False'.",False.,False,True,FN,50%,70%
+19,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:05:49.974Z,2023-10-22T13:05:50.469Z,"Are the following two products the same?
+Product 1: Title: [Fujifilm]100 Sheet Fujifilm Instax Square Plain White Instant Polaroid Film for SQ 10 Camera | SP3 Printer
+Description: 100 sheet instax Square Film
+Product 2: Title: Fujifilm Instax Square Film Twin Pack 20 Shots
+Description: The Fujifilm Instax Film Square Twin Pack 20 Shots is designed for the Fujifilm Instax Square SQ6 instant camera. The film boasts the same professional high quality found in all Instax
+
+Answer with 'True' or 'False'.",False.,False,True,FN,60%,80%
+20,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:05:49.552Z,2023-10-22T13:05:49.973Z,"Are the following two products the same?
+Product 1: Title: Western Digital Blue PC 2.5\"" 250 GB Serial ATA III
+Description: 250 GB, 2.5\"", SATA 6Gb/s, 540/500 MB/s
+Product 2: Title: WD Blue 250GB - [WDS250G1B0A] SSD
+Description: (Solid, -, 2.5\"", 250GB, Blue, Drive), SATA, SSD, State, WD, Western Digital, [WDS250G1B0A]
+
+Answer with 'True' or 'False'.",True,True,True,NONE,100%,100%
+21,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:05:49.049Z,2023-10-22T13:05:49.548Z,"Are the following two products the same?
+Product 1: Title: Western Digital WD Blue SN550 1TB NVMe SSD
+Description: none
+Product 2: Title: Western Digital Blue SN550 M.2-2280 1TB
+Description: Huge 1TB storage capacity and super Rapid 2400Mbps read speed and amazingly Rapid 1950Mbps write speed.
+
+Answer with 'True' or 'False'.",True.,True,True,NONE,100%,95%
+22,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:05:48.645Z,2023-10-22T13:05:49.048Z,"Are the following two products the same?
+Product 1: Title: Refill #012: Sketch Paper Notebook
+Description: Notebook with quality sketch paper - another useful refill for the Traveler's Notebook. When does it come in handy?If you draw, paint and do not want to be restricted by plain paper. This one is thick, so it can bear even water based paints. It's als
+Product 2: Title: 012 Traveler's Notebook Regular- Refill - Sketch Notebook
+Description: TheTRAVELER'S Notebook SketchRefillallows you to bring your sketching wherever you go. Each sketchbook refill has 48 stitch-bound pages of perforated paper, with a more substantial thickness that is suitable for fountain pen ink or light water media.
+
+Answer with 'True' or 'False'.",True,True,True,NONE,90%,80%
+23,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:05:48.137Z,2023-10-22T13:05:48.643Z,"Are the following two products the same?
+Product 1: Title: Western Digital SSD M.22TB Blue 3D NAND
+Description: none
+Product 2: Title: WD Blue 3D - 2048 GB - M.2 - 560 MB/s - 6 Gbit/s WDS200T2B0B
+Description: WD Blue 3D - 2048 GB - M.2 - 560 MB/s - 6 Gbit/s TB - M.2 - SATA 6Gb/s - 560/530 MB/s Western Digital Blue 3D. SSD capacity: 2048 GB, SSD form factor: M.2, Read speed: 560 MB/s, Write speed: 530 MB/s, Data transfer rate: 6 Gbit/s, Component for: PC/n
+
+Answer with 'True' or 'False'.",True.,True,True,NONE,100%,90%
+24,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:05:47.714Z,2023-10-22T13:05:48.136Z,"Are the following two products the same?
+Product 1: Title: SSD WD Blue, Western Digital / 1 TB
+Description: Ready for your high performance computing needs, a WD Blue™ 3D NAND SATA SSD offers high capacity, enhanced reliability, and blazing speed.
+Product 2: Title: Western Digital Blue SSD 1TB 2.5\"" 7mm SATA III 6GB/s 3D Nand Flash
+Description: WD Blue 3D NAND Internal SSD 2.5 Inch SATA - 1 TBUses 3D NAND technology not only for higher capacities (up to 2TB) than the previous generation WD Blue SSDs, but also to help reduce cell-to-cell interference for enhanced reliability.Offering improve
+
+Answer with 'True' or 'False'.",True,True,True,NONE,95%,90%
+25,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:05:47.256Z,2023-10-22T13:05:47.711Z,"Are the following two products the same?
+Product 1: Title: Epson - Tanica - magenta - C13T692300 - 110ml
+Description: Tanica inchiostro a pigmenti magentaEpson ULTRACHROME XD (110ML)
+Product 2: Title: Refill #012: Sketch Paper Notebook
+Description: Notebook with quality sketch paper - another useful refill for the Traveler's Notebook. When does it come in handy?If you draw, paint and do not want to be restricted by plain paper. This one is thick, so it can bear even water based paints. It's als
+
+Answer with 'True' or 'False'.",False.,False,False,NONE,0%,20%
+26,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:05:46.703Z,2023-10-22T13:05:47.255Z,"Are the following two products the same?
+Product 1: Title: SanDisk Extreme PRO UHS-II SD Card Reader USB 3.0
+Description: Maximize workflow efficiencyThe SanDisk Extreme PRO® SDTM UHS-II Card Reader/Writer is designed to increase workflow efficiency for professional photographers and videographers. Small enough for fieldwork, the compact reader is built to handle the hi
+Product 2: Title: Instax Fujifilm | Instax SQUARE Instant Film - Black Border (10 Exposures)
+Description: none
+
+Answer with 'True' or 'False'.",False.,False,False,NONE,0%,40%
+27,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:05:45.988Z,2023-10-22T13:05:46.700Z,"Are the following two products the same?
+Product 1: Title: Traveler's Company 014. CRAFT PAPER (64PG) MIDORI TRAVELER'S NOTEBOOK
+Description: none
+Product 2: Title: Refill #012: Sketch Paper Notebook
+Description: Notebook with quality sketch paper - another useful refill for the Traveler's Notebook. When does it come in handy?If you draw, paint and do not want to be restricted by plain paper. This one is thick, so it can bear even water based paints. It's als
+
+Answer with 'True' or 'False'.",False.,False,False,NONE,50%,70%
+28,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:05:45.263Z,2023-10-22T13:05:45.986Z,"Are the following two products the same?
+Product 1: Title: Western Digital SSD M.22TB Blue 3D NAND
+Description: none
+Product 2: Title: 256GB, PCIe Gen3x4 Gaming SSD 3D NAND XPG SX8200 PRO
+Description: 256GB, PCIe Gen3x4 Gaming SSD 3D NAND XPG SX8200 PROThe SX8200 Pro M.2 2280 SSD is XPG’s fastest SSD to date and is designed for avid PC enthusiasts, gamers, and overclockers. It features an ultra-fast PCIe Gen3x4 interface that offers sustained peak
+
+Answer with 'True' or 'False'.",False.,False,False,NONE,30%,50%
+29,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:05:44.749Z,2023-10-22T13:05:45.262Z,"Are the following two products the same?
+Product 1: Title: 002 TN Regular Refill Grid Notebook Basic Item TRC
+Description: Traveler's company
+Product 2: Title: 008 Traveler's Notebook Regular- Refill - Zipper Case
+Description: Take your TRAVELER'S Notebook beyond the normal use of a notebook. The ZipperCase transforms your TRAVELER'S Notebook into a convenient storage for pens, pencils, tickets receipts, keys, coins, and so much more. A thin pocket is included on the other
+
+Answer with 'True' or 'False'.",False.,False,False,NONE,50%,70%
+30,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:05:44.210Z,2023-10-22T13:05:44.748Z,"Are the following two products the same?
+Product 1: Title: TAG Heuer Carrera Chronograph Calibre Automatic Men's Watch
+Description: Just as exciting as the race that inspired it, this watch breaks traditional watchmaking rules and is the first chronograph specifically designed for professional drivers, but is also perfect for speeding down the open road or cruising through daily 
+Product 2: Title: Traveler's Notebook Starter Kit (Passport Size) - Blue
+Description: Travel with Traveler's Notebook, you can jot down your precious memories along your journey. Easy to hold in your hand, it's the perfect size to bring along for you to write thoughts and observations from your trips. You can carry maps, tickets, and 
+
+Answer with 'True' or 'False'.",False.,False,False,NONE,0%,0% 
+31,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:05:43.711Z,2023-10-22T13:05:44.208Z,"Are the following two products the same?
+Product 1: Title: SanDisk Extreme PRO UHS-II SD Card Reader USB 3.0
+Description: Maximize workflow efficiencyThe SanDisk Extreme PRO® SDTM UHS-II Card Reader/Writer is designed to increase workflow efficiency for professional photographers and videographers. Small enough for fieldwork, the compact reader is built to handle the hi
+Product 2: Title: Shimano BB-MT800 Threaded Bottom Bracket
+Description: Genuine Shimano HollowTech II bottom bracket; enjoy maintenance free performance from this XT MT800 Bottom Bracket that has sealed cups to prevent water and mud ingress.Features:Set includes left and right hand cups, spacers, inner cover, and inner O
+
+Answer with 'True' or 'False'.",False.,False,False,NONE,10%,40%
+32,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:05:42.888Z,2023-10-22T13:05:43.709Z,"Are the following two products the same?
+Product 1: Title: Toner Original Oki Ciano (44844507)
+Description: Toner C831/C841 Cyan
+Product 2: Title: Instax Mini Rainbow Film 10 Pack
+Description: Brighten the place up with this pack of rainbow coloured film! Top tip: one of these would look fab in our Instax Mini Acrylic Photo Block!Includes pack of 10 shots
+
+Answer with 'True' or 'False'.",False.,False,False,NONE,20%,80%
+33,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:05:42.388Z,2023-10-22T13:05:42.882Z,"Are the following two products the same?
+Product 1: Title: SanDisk Extreme PRO UHS-II SD Card Reader USB 3.0
+Description: Maximize workflow efficiencyThe SanDisk Extreme PRO® SDTM UHS-II Card Reader/Writer is designed to increase workflow efficiency for professional photographers and videographers. Small enough for fieldwork, the compact reader is built to handle the hi
+Product 2: Title: SanDisk Extreme PRO SDHC 32GB 300MB UHS-II SDSDXPK-032G-GN4IN
+Description: SanDisk Extreme PRO SDHC 32GB 300MB UHS-II SDSDXPK-032G-GN4IN
+
+Answer with 'True' or 'False'.",False.,False,False,NONE,90%,80%
+34,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:05:41.715Z,2023-10-22T13:05:42.387Z,"Are the following two products the same?
+Product 1: Title: 002 TN Regular Refill Grid Notebook Basic Item TRC
+Description: Traveler's company
+Product 2: Title: 012 Traveler's Notebook Regular- Refill - Sketch Notebook
+Description: TheTRAVELER'S Notebook SketchRefillallows you to bring your sketching wherever you go. Each sketchbook refill has 48 stitch-bound pages of perforated paper, with a more substantial thickness that is suitable for fountain pen ink or light water media.
+
+Answer with 'True' or 'False'.",False.,False,False,NONE,50%,70%
+35,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:05:41.266Z,2023-10-22T13:05:41.714Z,"Are the following two products the same?
+Product 1: Title: Fujifilm Instax Mini Rainbow (10 sheets) Film
+Description: Fujifilm instax mini film is for all instax mini cameras and comes in a handy cartridge. It offers stunning instant pictures that you can fit into a purse, wallet or mini photo frame. instax film ensures sharp, clear reproduction, vivid color and nat
+Product 2: Title: Cooler Master MasterBox TD500 Mid Tower Windowed PC Case
+Description: Cooler Master MasterBox TD500 Mesh, Black, Mid Tower /w Tempered Glass Window, 120mm Fans, USB 3.2, mITX/mATX/ATX/E-ATX
+
+Answer with 'True' or 'False'.",False.,False,False,NONE,10%,40%
+36,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:05:40.732Z,2023-10-22T13:05:41.264Z,"Are the following two products the same?
+Product 1: Title: Jabra BIZ 2400 II Mono 3-in-1 Wideband
+Description: Jabra BIZ 2400 II Mono 3-in-1 Wideband from Headset Store. Next Day Delivery. Part Code:2486-820-209
+Product 2: Title: SEAGATE IRONWOLF 6TB 3.5 Inch SATA HDD 7200rpm 256MB Cache (ST6000VN0033)
+Description: Model: ST6000VN0033Capacity: 6TBInterface: SATA 6GB/sForm Factor: 3.5 InchRPM Class: 7200Cache: 256 MBLimited Warranty: 3 Year
+
+Answer with 'True' or 'False'.",False.,False,False,NONE,10%,40%
+37,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:05:40.247Z,2023-10-22T13:05:40.731Z,"Are the following two products the same?
+Product 1: Title: Fujifilm Instax Mini Instant Film - Monochrome (10 Shots)
+Description: Monochrome (Black & White) Instant Film for Fujifilm Mini Instant Cameras10 Shots per PackISO 800High Gloss FinishSuperb Grain QualityFast Image FormationGreater Resistance to Age-Induced ChangesSingle-plastic Composition for Easier Disposal
+Product 2: Title: Relógio Garmin Vivoactive 010-01769-10 Vívoactive 3
+Description: GPS Smartwatch with heartrate monitor
+
+Answer with 'True' or 'False'.",False.,False,False,NONE,0%,0% 
+38,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:05:39.770Z,2023-10-22T13:05:40.246Z,"Are the following two products the same?
+Product 1: Title: Access Point|TP-LINK|300 Mbps|IEEE 802.3af|IEEE 802.11b|IEEE 802.11g|IEEE 802.11n|1xRJ45|Number of antennas 2|EAP115
+Description: Type Wireless Access Point | Data transmission speed 300 Mbps | IEEE 802.3af | IEEE 802.11b | IEEE 802.11g | IEEE 802.11n | 64, 128, 152-bit WEP | WPA - Wi-Fi Protected Access | WPA2 - Wi-Fi Protected Access | Antenna Type Built-in | Antenna Gain 3 d
+Product 2: Title: TP-Link Archer T9UH AC1900 High Gain Wireless Dual Band USB Network Adapter 1900Mbps (600Mpbs @ 2.4GHz & 1300Mbps @ 5GHz) USB3.0 Omni Directional Ant.
+Description: TP-Link Archer T9UH AC1900 High Gain Wireless Dual Band USB Network Adapter 1900Mbps (600Mpbs @ 2...
+
+Answer with 'True' or 'False'.",False.,False,False,NONE,30%,50%
+39,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:05:39.016Z,2023-10-22T13:05:39.766Z,"Are the following two products the same?
+Product 1: Title: SAMSUNG 65\"" 4K UHD Smart QLED TV (QN65Q70T)
+Description: Quantum Processor 4KDual LEDAdaptive PictureActive Voice Amplifier
+Product 2: Title: Maxxis Minion DHR II 29\"" DD/3C/TR
+Description: Minion DHR II 29 x 2.35 tubeless ready tyre with Double down casing and 3C Maxx Terra.For our full range of Bike Accessories visit Evans Cycles
+
+Answer with 'True' or 'False'.",False.,False,False,NONE,0%,50%
+40,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:05:38.050Z,2023-10-22T13:05:39.014Z,"Are the following two products the same?
+Product 1: Title: Adata XPG SX6000 Lite 1TB M.2 PCIe GEN3x4 SSD ASX6000LNP-1TT-C
+Description: ADATA XPG SX6000 Lite 1TB M.2 PCIe GEN3x4 SSD ASX6000LNP-1TT-C - Form Factor: M.2 2280 - NAND Flash: 3D NAND - Total Capacity: 1TB - Dimensions: 80 x 22 x 2.15mm - Interface: PCIe Gen3x4 - MTBF: 1,800,000 Hours - NVMe 1.3 Support - Low-Density Parity
+Product 2: Title: Jabra Biz 2400 II Mono 3-1, NC, 82 mic, Wideband, QD
+Description: none
+
+Answer with 'True' or 'False'.",False. The second product does not have a description provided.,False,False,NONE,50%,70% 
+41,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:05:37.576Z,2023-10-22T13:05:38.048Z,"Are the following two products the same?
+Product 1: Title: Remo Clear Pinstripe 10 Inch Drum Head Skin PS-0310
+Description: none
+Product 2: Title: Instax Mini Rainbow Film 10 Pack
+Description: Brighten the place up with this pack of rainbow coloured film! Top tip: one of these would look fab in our Instax Mini Acrylic Photo Block!Includes pack of 10 shots
+
+Answer with 'True' or 'False'.",False.,False,False,NONE,0%,50% 
+42,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:05:37.099Z,2023-10-22T13:05:37.575Z,"Are the following two products the same?
+Product 1: Title: APC RT 20000 VA RM 230V Smart-UPS
+Description: APCSmart-UPS On-Line,16 kW /20 kVA,Input230V, 400V 3PH /Output230V, Interface Port DB-9 RS-232, RJ-45 10/100 Base-T, Smart-Slot, Extended runtime model, Rack Height 12U
+Product 2: Title: Traveler's Company Traveler's Company Notebook Accessories
+Description: none
+
+Answer with 'True' or 'False'.",False.,False,False,NONE,0%,30%
+43,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:05:36.630Z,2023-10-22T13:05:37.097Z,"Are the following two products the same?
+Product 1: Title: Fujifilm Instax Mini Rainbow (10 sheets) Film
+Description: Fujifilm instax mini film is for all instax mini cameras and comes in a handy cartridge. It offers stunning instant pictures that you can fit into a purse, wallet or mini photo frame. instax film ensures sharp, clear reproduction, vivid color and nat
+Product 2: Title: Fujifilm Instax Square Film Twin Pack 20 Shots
+Description: The Fujifilm Instax Film Square Twin Pack 20 Shots is designed for the Fujifilm Instax Square SQ6 instant camera. The film boasts the same professional high quality found in all Instax
+
+Answer with 'True' or 'False'.",False.,False,False,NONE,50%,80%
+44,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:05:36.133Z,2023-10-22T13:05:36.629Z,"Are the following two products the same?
+Product 1: Title: SanDisk Extreme PRO UHS-II SD Card Reader USB 3.0
+Description: Maximize workflow efficiencyThe SanDisk Extreme PRO® SDTM UHS-II Card Reader/Writer is designed to increase workflow efficiency for professional photographers and videographers. Small enough for fieldwork, the compact reader is built to handle the hi
+Product 2: Title: APC - Schneider SMART-UPS 1000VA LCD 230V
+Description: Part Number :SMT1000I
+
+Answer with 'True' or 'False'.",False.,False,False,NONE,"I apologize, but I cannot provide a similarity score or confidence score without additional information. The two products provided are completely different and do not have any common features or attributes to compare. Please provide more relevant information or products to compare.","I apologize, but I cannot provide a similarity score or confidence score without additional information. The two products provided are completely different and do not have any common features or attributes to compare. Please provide more relevant information or products to compare."
+45,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:05:35.704Z,2023-10-22T13:05:36.131Z,"Are the following two products the same?
+Product 1: Title: COOLER MASTER MASTERLIQUID ML120L RGB CPU COOLER V2
+Description: MASTERLIQUID ML120L V2 RGBNew Generation Dual Chamber PumpEnlarged Surface Area on RadiatorNew SickleFlow 120 RGBReinforced Sealing for Anti-Leaking Prevention
+Product 2: Title: Western Digital Blue SN550 M.2-2280 1TB
+Description: Huge 1TB storage capacity and super Rapid 2400Mbps read speed and amazingly Rapid 1950Mbps write speed.
+
+Answer with 'True' or 'False'.",False.,False,False,NONE,10%,50%
+46,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:05:35.218Z,2023-10-22T13:05:35.702Z,"Are the following two products the same?
+Product 1: Title: WD Blue 250GB - [WDS250G1B0A] SSD
+Description: (Solid, -, 2.5\"", 250GB, Blue, Drive), SATA, SSD, State, WD, Western Digital, [WDS250G1B0A]
+Product 2: Title: Epson T603700 Light Black Ink 220ml UltraChrome for SP 7800, 7880 & 9800, 9880
+Description: none
+
+Answer with 'True' or 'False'.",False.,False,False,NONE,20%,50%
+47,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:05:34.560Z,2023-10-22T13:05:35.213Z,"Are the following two products the same?
+Product 1: Title: TRAVELER'S COMPANY Notebook - Blue
+Description: TRAVELER’S notebook Blue was released as a limited edition in 2015 and the blue color was well-received as a refreshing, new tone of TRAVELER’S notebook. Even after the conclusion of sale, so many requests were received for re-launch of blue during T
+Product 2: Title: ASUS AMD ATX ROG STRIX B550 F Gaming Motherboard AM4 Dual DDR4, HDMI, Dual M.2
+Description: Mpn: 90MB14S0-M0UAY0Vendor:AsusASUS AMD ATX ROG STRIX B550 F Gaming Motherboard AM4 Dual DDR4, HDMI, Dual M.2ROG Strix B550 Gaming series motherboards offer a feature-set usually found in the higher-end ROG Strix X570 Gaming series, including the lat
+
+Answer with 'True' or 'False'.",False.,False,False,NONE,0%,0% 
+48,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:05:34.074Z,2023-10-22T13:05:34.559Z,"Are the following two products the same?
+Product 1: Title: Traveler's Lined Notebook Refill - Regular Size
+Description: Think about the days you went to school. Based on people’s past experience as a student, we receive comments saying that this is the most easy type of notebook to use. The lines are printed with an interval of 6.5mm, and the paper is our originally m
+Product 2: Title: 012 Traveler's Notebook Regular- Refill - Sketch Notebook
+Description: TheTRAVELER'S Notebook SketchRefillallows you to bring your sketching wherever you go. Each sketchbook refill has 48 stitch-bound pages of perforated paper, with a more substantial thickness that is suitable for fountain pen ink or light water media.
+
+Answer with 'True' or 'False'.",False.,False,False,NONE,30%,70%
+49,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:05:33.508Z,2023-10-22T13:05:34.072Z,"Are the following two products the same?
+Product 1: Title: \""Evolis Black Monochrome Ribbon - K - 2,000 prints\""
+Description: Manufacturer and item#Evolis RCT023NAArn2,000 prints per rollrnBlack monochrome printing on the front or front and backrnResin black for barcode printingrnFor use with the Evolis Primacy and Zenius series of printers
+Product 2: Title: Refill #014: Kraft Paper Notebook
+Description: Cardboard Paper notebook refill for the Traveler's Notebook.Various cuttings, stickers, photos, scribbles and more sophisticated drawings suit it well.Contains 64 pages and its dimensions (210 x 110 mm) make it suitable for the classic version, not f
+
+Answer with 'True' or 'False'.",False.,False,False,NONE,10%,40%
+50,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:05:33.030Z,2023-10-22T13:05:33.507Z,"Are the following two products the same?
+Product 1: Title: TAG Heuer Formula 1 Calibre 5 Automatic Grey Dial Men's Watch - WAZ2011.BA0842
+Description: Reference number WAZ2011.BA0842 Carbon Automatic Watch with original box Watch with original papers 43mm
+Product 2: Title: TAG Heuer Formula 1 CAZ1010.FT8024
+Description: Find Authentic TAG Heuer Formula 1 CAZ1010.FT8024 with TAG Heuer Warranty at lowest prices. Fast & FREE Shipping. 14-day Return Policy. Tax Free & Worldwide Delivery. Lowest Prices on all watches and brands. (Model CAZ1010.FT8024)
+
+Answer with 'True' or 'False'.",False.,False,False,NONE,50%,70%
+51,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:05:32.544Z,2023-10-22T13:05:33.028Z,"Are the following two products the same?
+Product 1: Title: Fujifilm Instax Square Instant Film - 10 Exposures
+Description: INSTAX Square Instant Film contains 10 sheets of instant color film that is compatible for use with INSTAX SQUARE cameras. This film features vivid color reproduction with natural skin tones, and its refined grain structure provides high image sharpn
+Product 2: Title: Instax Fujifilm | Instax SQUARE Instant Film - Black Border (10 Exposures)
+Description: none
+
+Answer with 'True' or 'False'.",False.,False,False,NONE,60%,80%
+52,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:05:32.050Z,2023-10-22T13:05:32.543Z,"Are the following two products the same?
+Product 1: Title: ADATT. WIFI TP-LINK AC600 NANO WRLS USB
+Description: none
+Product 2: Title: TP-Link Archer-T9UH AC1900 USB 3.0 Adaptr
+Description: ArabirimUSBVeri Hz1300 MbpsVeri Hz600 Mbpsalma Frekans2.4 GHzalma Frekans5 GHzGaranti Sresi24 Ay
+
+Answer with 'True' or 'False'.",False.,False,False,NONE,50%,70%
+53,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:05:31.548Z,2023-10-22T13:05:32.049Z,"Are the following two products the same?
+Product 1: Title: 012 Traveler's Notebook Regular- Refill - Sketch Notebook
+Description: TheTRAVELER'S Notebook SketchRefillallows you to bring your sketching wherever you go. Each sketchbook refill has 48 stitch-bound pages of perforated paper, with a more substantial thickness that is suitable for fountain pen ink or light water media.
+Product 2: Title: TRAVELER'S COMPANY Notebook - Blue
+Description: TRAVELER’S notebook Blue was released as a limited edition in 2015 and the blue color was well-received as a refreshing, new tone of TRAVELER’S notebook. Even after the conclusion of sale, so many requests were received for re-launch of blue during T
+
+Answer with 'True' or 'False'.",False.,False,False,NONE,30%,50%
+54,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:05:31.077Z,2023-10-22T13:05:31.546Z,"Are the following two products the same?
+Product 1: Title: SanDisk Extreme PRO UHS-II SD Card Reader USB 3.0
+Description: Maximize workflow efficiencyThe SanDisk Extreme PRO® SDTM UHS-II Card Reader/Writer is designed to increase workflow efficiency for professional photographers and videographers. Small enough for fieldwork, the compact reader is built to handle the hi
+Product 2: Title: GoPro Dual Battery Charger (for HERO4)
+Description: Dual Battery Charger for HERO 4 conveniently charge two GoPro batteries simultaneously. Charges via any USB port. For up to 45% faster charging, use with GoPro Supercharger (International Dual-Port Charger). Dual LED indicator lights display the char
+
+Answer with 'True' or 'False'.",False.,False,False,NONE,20%,50%
+55,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:05:30.592Z,2023-10-22T13:05:31.075Z,"Are the following two products the same?
+Product 1: Title: Seagate IronWolf PRO 8TB NAS 3.5\"" SATA HDD/Hard Drive
+Description: 8TB Seagate IronWolf PRO ST8000NE001 NAS Hard Drive, 3.5\"" HDD, SATA III 6Gb/s, 7200rpm, 256MB Cache, OEM
+Product 2: Title: Western Digital SSD M.22TB Blue 3D NAND
+Description: none
+
+Answer with 'True' or 'False'.",False.,False,False,NONE,0%,50%
+56,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:05:29.689Z,2023-10-22T13:05:30.589Z,"Are the following two products the same?
+Product 1: Title: Traveler's Lined Notebook Refill - Regular Size
+Description: Think about the days you went to school. Based on people’s past experience as a student, we receive comments saying that this is the most easy type of notebook to use. The lines are printed with an interval of 6.5mm, and the paper is our originally m
+Product 2: Title: Traveler's Company 014. CRAFT PAPER (64PG) MIDORI TRAVELER'S NOTEBOOK
+Description: none
+
+Answer with 'True' or 'False'.",False. The two products are different.,False,False,NONE,40%,80%
+57,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:05:28.784Z,2023-10-22T13:05:29.686Z,"Are the following two products the same?
+Product 1: Title: Western Digital Blue SSD 1TB 2.5\"" 7mm SATA III 6GB/s 3D Nand Flash
+Description: WD Blue 3D NAND Internal SSD 2.5 Inch SATA - 1 TBUses 3D NAND technology not only for higher capacities (up to 2TB) than the previous generation WD Blue SSDs, but also to help reduce cell-to-cell interference for enhanced reliability.Offering improve
+Product 2: Title: Seagate 6TB 7200rpm SATA-600 256MB NAS HDD ST6000NE000
+Description: none
+
+Answer with 'True' or 'False'.",False. The second product is missing a description.,False,False,NONE,80%,70%
+58,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:05:27.665Z,2023-10-22T13:05:28.781Z,"Are the following two products the same?
+Product 1: Title: WD Blue 3D - 2048 GB - M.2 - 560 MB/s - 6 Gbit/s WDS200T2B0B
+Description: WD Blue 3D - 2048 GB - M.2 - 560 MB/s - 6 Gbit/s TB - M.2 - SATA 6Gb/s - 560/530 MB/s Western Digital Blue 3D. SSD capacity: 2048 GB, SSD form factor: M.2, Read speed: 560 MB/s, Write speed: 530 MB/s, Data transfer rate: 6 Gbit/s, Component for: PC/n
+Product 2: Title: SanDisk ""Plus"" SSD Hard Drive, 120GB, SATA 3 (6Gbit, s)
+Description: RELIABLE, FAST AND PLENTY OF CAPACITYSanDisk, a pioneer in solid state storage technologies and the brand pros trust, delivers improved speed and performance with the SanDisk SSD Plus. With sequential read speeds of up to 535MB/s, this solid state dr
+
+Answer with 'True' or 'False'.","False. The two products have different titles, capacities, and specifications.",False,False,NONE,20%,80%
+59,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:05:27.207Z,2023-10-22T13:05:27.663Z,"Are the following two products the same?
+Product 1: Title: Traveler's Company Traveler's Company Notebook Accessories
+Description: none
+Product 2: Title: Traveler's Company 014. CRAFT PAPER (64PG) MIDORI TRAVELER'S NOTEBOOK
+Description: none
+
+Answer with 'True' or 'False'.",False.,False,False,NONE,50%,70%
+60,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:05:26.679Z,2023-10-22T13:05:27.206Z,"Are the following two products the same?
+Product 1: Title: Adattatore USB Wireless TP-Link TL-WN725N 150Mbps 2.4GHz
+Description: none
+Product 2: Title: ASUS ROG Strix B550-F Gaming B550 - Motherboard - AMD Socket AM4 (Ryzen) (90MB14S0-M0EAY0)
+Description: none
+
+Answer with 'True' or 'False'.",False.,False,False,NONE,10%,50%
+61,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:05:26.103Z,2023-10-22T13:05:26.677Z,"Are the following two products the same?
+Product 1: Title: WD Blue 250GB - [WDS250G1B0A] SSD
+Description: (Solid, -, 2.5\"", 250GB, Blue, Drive), SATA, SSD, State, WD, Western Digital, [WDS250G1B0A]
+Product 2: Title: WD 250GB Blue Series m.2 SSD WDS250G2B0B
+Description: HDSSD00250WDC003
+
+Answer with 'True' or 'False'.",False.,False,False,NONE,80%,80%
+62,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:05:25.582Z,2023-10-22T13:05:26.099Z,"Are the following two products the same?
+Product 1: Title: Tp-Link Wireless N USB Adapter 300Mbps
+Description: none
+Product 2: Title: TP-Link EAP110 300Mbps Wireless N300 Ceiling Mount Access Point 1x1Gbps RJ45 PoE 1x Console Port 2x4dBi Omni Internal Antenna
+Description: 300Mbps Wireless N Ceiling Mount Access Point EAP110EAP Controller Software enables administrators to easily manage hundreds of EAPsSupports passive PoE for convenient installation up to 100metersCeiling mounting design with chassis make it easy to d
+
+Answer with 'True' or 'False'.",False.,False,False,NONE,50%,70%
+63,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:05:24.588Z,2023-10-22T13:05:25.580Z,"Are the following two products the same?
+Product 1: Title: Traveler's Notebook Starter Kit (Passport Size) - Blue
+Description: Travel with Traveler's Notebook, you can jot down your precious memories along your journey. Easy to hold in your hand, it's the perfect size to bring along for you to write thoughts and observations from your trips. You can carry maps, tickets, and 
+Product 2: Title: Logitech BRIO 4K Stream Edition
+Description: none
+
+Answer with 'True' or 'False'.",False. The descriptions are for two different products.,False,False,NONE,0%,100%
+64,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:05:24.108Z,2023-10-22T13:05:24.587Z,"Are the following two products the same?
+Product 1: Title: WD Blue 250GB - [WDS250G1B0A] SSD
+Description: (Solid, -, 2.5\"", 250GB, Blue, Drive), SATA, SSD, State, WD, Western Digital, [WDS250G1B0A]
+Product 2: Title: Johnnie Walker Blue Label 0,7 ltr.
+Description: none
+
+Answer with 'True' or 'False'.",False.,False,False,NONE,0%,50%
+65,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:05:23.611Z,2023-10-22T13:05:24.106Z,"Are the following two products the same?
+Product 1: Title: Instax Fujifilm | Instax SQUARE Instant Film - Black Border (10 Exposures)
+Description: none
+Product 2: Title: Fujifilm 16531958 instant picture film 54 x 86 mm 10 pc(s)
+Description: This single pack of FUJIFILM INSTAX Mini Monochrome Instant Film contains 10 sheets of instant black & white film that is compatible for use with the FUJIFILM INSTAX Mini series of cameras or INSTAX SHARE printers. This film features neutral gray ton
+
+Answer with 'True' or 'False'.",False.,False,False,NONE,50%,70%
+66,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:05:22.334Z,2023-10-22T13:05:23.605Z,"Are the following two products the same?
+Product 1: Title: Sandisk 128gb Extreme Pro USB 3.1 Solid State Flash Drive, 420MB/s
+Description: The SanDisk Extreme PRO® USB 3.1 Solid State Flash Drive delivers the super-fast solid state performance in a USB 3.1 flash drive1. A game-changer in the USB storage category, this flash drive offers read speeds of up to 420MB/s, and write speeds of 
+Product 2: Title: SanDisk Extreme PRO SD UHS-II USB 3.0
+Description: none
+
+Answer with 'True' or 'False'.",False. The descriptions indicate that the two products are different.,False,False,NONE,30%,80%
+67,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:05:21.786Z,2023-10-22T13:05:22.332Z,"Are the following two products the same?
+Product 1: Title: Traveler's Company Traveler's Company Notebook Accessories
+Description: none
+Product 2: Title: Traveler's Notebook Starter Kit (Passport Size) - Blue
+Description: Travel with Traveler's Notebook, you can jot down your precious memories along your journey. Easy to hold in your hand, it's the perfect size to bring along for you to write thoughts and observations from your trips. You can carry maps, tickets, and 
+
+Answer with 'True' or 'False'.",False.,False,False,NONE,50%,70%
+68,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:05:21.247Z,2023-10-22T13:05:21.784Z,"Are the following two products the same?
+Product 1: Title: Fujifilm Instax Square Instant Film - 10 Exposures
+Description: INSTAX Square Instant Film contains 10 sheets of instant color film that is compatible for use with INSTAX SQUARE cameras. This film features vivid color reproduction with natural skin tones, and its refined grain structure provides high image sharpn
+Product 2: Title: Epson T6037 Patron Light Black 220ml (Eredeti)
+Description: 220mlStylus Pro 7800/7880/9800/9880
+
+Answer with 'True' or 'False'.",False.,False,False,NONE,10%,40%
+69,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:05:20.762Z,2023-10-22T13:05:21.246Z,"Are the following two products the same?
+Product 1: Title: Fujifilm Instax Square Instant Film - 10 Exposures
+Description: INSTAX Square Instant Film contains 10 sheets of instant color film that is compatible for use with INSTAX SQUARE cameras. This film features vivid color reproduction with natural skin tones, and its refined grain structure provides high image sharpn
+Product 2: Title: CFL SQUARE 16 W/835 GR10Q
+Description: Ledvance CFL SQUARE 16 W/835 GR10Q, EAN: 4050300816876
+
+Answer with 'True' or 'False'.",False.,False,False,NONE,10%,20%
+70,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:05:20.190Z,2023-10-22T13:05:20.760Z,"Are the following two products the same?
+Product 1: Title: 1 Fujifilm Instax Square Film Black Frame
+Description: none
+Product 2: Title: Fujifilm Instax Mini Rainbow (10 sheets) Film
+Description: Fujifilm instax mini film is for all instax mini cameras and comes in a handy cartridge. It offers stunning instant pictures that you can fit into a purse, wallet or mini photo frame. instax film ensures sharp, clear reproduction, vivid color and nat
+
+Answer with 'True' or 'False'.",False.,False,False,NONE,20%,50%
+71,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:05:19.736Z,2023-10-22T13:05:20.188Z,"Are the following two products the same?
+Product 1: Title: Traveler's Lined Notebook Refill - Regular Size
+Description: Think about the days you went to school. Based on people’s past experience as a student, we receive comments saying that this is the most easy type of notebook to use. The lines are printed with an interval of 6.5mm, and the paper is our originally m
+Product 2: Title: 002 TN Regular Refill Grid Notebook Basic Item TRC
+Description: Traveler's company
+
+Answer with 'True' or 'False'.",False.,False,False,NONE,50%,70%
+72,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:05:19.208Z,2023-10-22T13:05:19.735Z,"Are the following two products the same?
+Product 1: Title: TP-Link Archer T9UH AC1900 High Gain Wireless Dual Band USB Network Adapter 1900Mbps (600Mpbs @ 2.4GHz & 1300Mbps @ 5GHz) USB3.0 Omni Directional Ant.
+Description: TP-Link Archer T9UH AC1900 High Gain Wireless Dual Band USB Network Adapter 1900Mbps (600Mpbs @ 2...
+Product 2: Title: Adattatore USB Wireless TP-Link TL-WN725N 150Mbps 2.4GHz
+Description: none
+
+Answer with 'True' or 'False'.",False.,False,False,NONE,20%,50%
+73,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:05:18.387Z,2023-10-22T13:05:19.205Z,"Are the following two products the same?
+Product 1: Title: Traveler's Lined Notebook Refill - Regular Size
+Description: Think about the days you went to school. Based on people’s past experience as a student, we receive comments saying that this is the most easy type of notebook to use. The lines are printed with an interval of 6.5mm, and the paper is our originally m
+Product 2: Title: Traveler's Notebook Starter Kit (Passport Size) - Blue
+Description: Travel with Traveler's Notebook, you can jot down your precious memories along your journey. Easy to hold in your hand, it's the perfect size to bring along for you to write thoughts and observations from your trips. You can carry maps, tickets, and 
+
+Answer with 'True' or 'False'.",False.,False,False,NONE,30%,50%
+74,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:05:17.892Z,2023-10-22T13:05:18.385Z,"Are the following two products the same?
+Product 1: Title: 1 Fujifilm Instax Square Film Black Frame
+Description: none
+Product 2: Title: Fujifilm Instax Square Film Twin Pack 20 Shots
+Description: The Fujifilm Instax Film Square Twin Pack 20 Shots is designed for the Fujifilm Instax Square SQ6 instant camera. The film boasts the same professional high quality found in all Instax
+
+Answer with 'True' or 'False'.",False.,False,False,NONE,50%,80%
+75,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:05:17.404Z,2023-10-22T13:05:17.890Z,"Are the following two products the same?
+Product 1: Title: Western Digital SSD M.22TB Blue 3D NAND
+Description: none
+Product 2: Title: Blaze Professional 27"" 2 Burner Grill
+Description: Blaze Professional 27"" 2 Burner Built-In Gas GrillBlaze presents the Blaze Professional Grill as a leader in the industry regarding the thickness of its components resulting in irrefutable durability while providing an effective cooking system. By th
+
+Answer with 'True' or 'False'.",False.,False,False,NONE,0%,50%
+76,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:05:16.939Z,2023-10-22T13:05:17.400Z,"Are the following two products the same?
+Product 1: Title: Maxxis Minion DHR II 29\"" DD/3C/TR
+Description: Minion DHR II 29 x 2.35 tubeless ready tyre with Double down casing and 3C Maxx Terra.For our full range of Bike Accessories visit Evans Cycles
+Product 2: Title: Maxxis High Roller II 27.5"" Tire - 3C MT EXO TR / 2.4""
+Description: An open and aggressive tread design gives the High Roller II excellent soil penetration and mud-clearing ability. A square profile provides a solid consistent feel across the knobs. Modified knobs on the shoulder and center improve braking performanc
+
+Answer with 'True' or 'False'.",False.,False,False,NONE,40%,50%
+77,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:05:15.880Z,2023-10-22T13:05:16.935Z,"Are the following two products the same?
+Product 1: Title: Fujifilm Instax Square Film Twin Pack 20 Shots
+Description: The Fujifilm Instax Film Square Twin Pack 20 Shots is designed for the Fujifilm Instax Square SQ6 instant camera. The film boasts the same professional high quality found in all Instax
+Product 2: Title: HP 80A (CF280A) Black Original Toner Cartridge
+Description: HP 80A (CF280A) Black Original Toner Cartridge. HP 80A (CF280A) toner cartridges work with: HP LaserJet Pro M401, M425. Original HP toner cartridges produce an average of 71% more usable pages than non-HP cartridges. Cartridge yield (approx.): 2,700 
+
+Answer with 'True' or 'False'.",False. The two products are not the same.,False,False,NONE,20%,80%
+78,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:05:15.351Z,2023-10-22T13:05:15.879Z,"Are the following two products the same?
+Product 1: Title: Johnnie Walker - Blue Label 70cl
+Description: none
+Product 2: Title: WD Blue 250GB - [WDS250G1B0A] SSD
+Description: (Solid, -, 2.5\"", 250GB, Blue, Drive), SATA, SSD, State, WD, Western Digital, [WDS250G1B0A]
+
+Answer with 'True' or 'False'.",False.,False,False,NONE,20%,50%
+79,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:05:14.859Z,2023-10-22T13:05:15.349Z,"Are the following two products the same?
+Product 1: Title: WD 250GB Blue Series m.2 SSD WDS250G2B0B
+Description: HDSSD00250WDC003
+Product 2: Title: Reifen Maxxis 29x2.50 Highroller II DoubleDown
+Description: none
+
+Answer with 'True' or 'False'.",False.,False,False,NONE,0%,50%
+80,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:05:14.335Z,2023-10-22T13:05:14.858Z,"Are the following two products the same?
+Product 1: Title: Maxxis High Roller II 27.5"" Tire - 3C MT EXO TR / 2.4""
+Description: An open and aggressive tread design gives the High Roller II excellent soil penetration and mud-clearing ability. A square profile provides a solid consistent feel across the knobs. Modified knobs on the shoulder and center improve braking performanc
+Product 2: Title: Refill #014: Kraft Paper Notebook
+Description: Cardboard Paper notebook refill for the Traveler's Notebook.Various cuttings, stickers, photos, scribbles and more sophisticated drawings suit it well.Contains 64 pages and its dimensions (210 x 110 mm) make it suitable for the classic version, not f
+
+Answer with 'True' or 'False'.",False.,False,False,NONE,10%,30%
+81,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:05:13.794Z,2023-10-22T13:05:14.332Z,"Are the following two products the same?
+Product 1: Title: Instax Fujifilm | Instax SQUARE Instant Film - Black Border (10 Exposures)
+Description: none
+Product 2: Title: Fujifilm Instax Mini Instant Film - Monochrome (10 Shots)
+Description: Monochrome (Black & White) Instant Film for Fujifilm Mini Instant Cameras10 Shots per PackISO 800High Gloss FinishSuperb Grain QualityFast Image FormationGreater Resistance to Age-Induced ChangesSingle-plastic Composition for Easier Disposal
+
+Answer with 'True' or 'False'.",False.,False,False,NONE,40%,80%
+82,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:05:13.197Z,2023-10-22T13:05:13.793Z,"Are the following two products the same?
+Product 1: Title: Fujifilm Instax Square Film Twin Pack 20 Shots
+Description: The Fujifilm Instax Film Square Twin Pack 20 Shots is designed for the Fujifilm Instax Square SQ6 instant camera. The film boasts the same professional high quality found in all Instax
+Product 2: Title: Fujifilm Instax Mini Instant Film - Monochrome (10 Shots)
+Description: Monochrome (Black & White) Instant Film for Fujifilm Mini Instant Cameras10 Shots per PackISO 800High Gloss FinishSuperb Grain QualityFast Image FormationGreater Resistance to Age-Induced ChangesSingle-plastic Composition for Easier Disposal
+
+Answer with 'True' or 'False'.",False.,False,False,NONE,30%,80%
+83,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:05:12.672Z,2023-10-22T13:05:13.195Z,"Are the following two products the same?
+Product 1: Title: Adaptador WiFi N PCI Express 150 Mbps 20dBm, 802.11b/g/n Chipset Atheros, 1 Antena 2 dBi desmontable.
+Description: Adaptador WiFi N PCI Express 150 Mbps 20dBm, 802.11b/g/n Chipset Atheros, 1 Antena 2 dBi desmontable.
+Product 2: Title: TP-Link TL-WA860RE 300Mbps Wireless N Wall Plug Range Extender with AC Passthrough, QCA(Atheros), 2T2R, 2.4GHz, 802.11n/g/b, Ranger Extender button, Range extender mode, with 2 fixed Antennas
+Description: Product DescriptionTL-WA860RE 300Mbps Wireless N Wall Plugged Range ExtenderSpecification:300Mbps Wireless N Wall Plugged Range Extender with AC Passthrough, QCA(Atheros), 2T2R, 2.4GHz, 802.11n/g/b, Ranger Extender button, Range extender mode, with 2
+
+Answer with 'True' or 'False'.",False.,False,False,NONE,50%,70%
+84,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:05:12.069Z,2023-10-22T13:05:12.669Z,"Are the following two products the same?
+Product 1: Title: Gigabyte SSD 240GB 2.5\"" Serial ATA III
+Description: none
+Product 2: Title: Western Digital Blue PC 2.5\"" 250 GB Serial ATA III
+Description: 250 GB, 2.5\"", SATA 6Gb/s, 540/500 MB/s
+
+Answer with 'True' or 'False'.",False.,False,False,NONE,80%,90%
+85,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:05:11.288Z,2023-10-22T13:05:12.066Z,"Are the following two products the same?
+Product 1: Title: 5 Port, Hikvision PoE Network Switch
+Description: Switch with 4 PoE ports + 1 x Uplink port 10/100Mbps RJ45 ports 58 watts total Max Extend On, up to 250m distance 2 Years Manufacturers Warranty
+Product 2: Title: ES-16-150W - EdgeSwitch 16 Port PoE 150W
+Description: ES-16-150W -Managed PoE+ Gigabit Switch with SFP• (16) Gigabit RJ45 Ports • (2) SFP Ports • (1) Serial Console Port• Non-Blocking Throughput: 18 Gbps • Switching Capacity: 36 Gbps • Forwarding Rate: 26.78 Mpps• Maximum Power Consumption: 150W • Suppo
+
+Answer with 'True' or 'False'.",False.,False,False,NONE,50%,70%
+86,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:05:10.697Z,2023-10-22T13:05:11.285Z,"Are the following two products the same?
+Product 1: Title: Jabra BIZ 2400 II Duo Wideband Corded Headset
+Description: Jabra BIZ 2400 II Duo Wideband Corded Headset from Headset Store. Next Day Delivery. Part Code:2489-820-209
+Product 2: Title: Jabra BIZ 2400 II Mono 3-in-1 Wideband
+Description: Jabra BIZ 2400 II Mono 3-in-1 Wideband from Headset Store. Next Day Delivery. Part Code:2486-820-209
+
+Answer with 'True' or 'False'.",False.,False,False,NONE,60%,80%
+87,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:05:10.213Z,2023-10-22T13:05:10.696Z,"Are the following two products the same?
+Product 1: Title: Traveler's Company 014. CRAFT PAPER (64PG) MIDORI TRAVELER'S NOTEBOOK
+Description: none
+Product 2: Title: Traveler's Notebook Accessories - Slip Case
+Description: A popular addition for all Traveler's notebook. The transparent slip case has 3 pockets. One end has a zipper pocket and the other end has two open pockets.An additional notebook can be inserted in the back pocket.Great for storing tickets, a key or 
+
+Answer with 'True' or 'False'.",False.,False,False,NONE,30%,80%
+88,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:05:09.268Z,2023-10-22T13:05:10.211Z,"Are the following two products the same?
+Product 1: Title: WD Blue 3D NAND 250GB Internal SSD - SATA III 6Gb/s M.2 2280 Solid State Drive - WDS250G2B0B
+Description: WD Blue 3D NAND 250GB Internal SSD - SATA III 6Gb/s M.2 2280 Solid State Drive - WDS250G2B0B
+Product 2: Title: Gigabyte SSD 240GB 2.5\"" Serial ATA III
+Description: none
+
+Answer with 'True' or 'False'.",False.,False,False,NONE,50%,70%
+89,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:05:08.806Z,2023-10-22T13:05:09.267Z,"Are the following two products the same?
+Product 1: Title: WD Blue 3D - 2048 GB - M.2 - 560 MB/s - 6 Gbit/s WDS200T2B0B
+Description: WD Blue 3D - 2048 GB - M.2 - 560 MB/s - 6 Gbit/s TB - M.2 - SATA 6Gb/s - 560/530 MB/s Western Digital Blue 3D. SSD capacity: 2048 GB, SSD form factor: M.2, Read speed: 560 MB/s, Write speed: 530 MB/s, Data transfer rate: 6 Gbit/s, Component for: PC/n
+Product 2: Title: WD 250GB Blue Series m.2 SSD WDS250G2B0B
+Description: HDSSD00250WDC003
+
+Answer with 'True' or 'False'.",False.,False,False,NONE,80%,85%
+90,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:05:08.316Z,2023-10-22T13:05:08.804Z,"Are the following two products the same?
+Product 1: Title: Tp-Link Wireless N USB Adapter 300Mbps
+Description: none
+Product 2: Title: TP-Link Archer-T9UH AC1900 USB 3.0 Adaptr
+Description: ArabirimUSBVeri Hz1300 MbpsVeri Hz600 Mbpsalma Frekans2.4 GHzalma Frekans5 GHzGaranti Sresi24 Ay
+
+Answer with 'True' or 'False'.",False.,False,False,NONE,50%,70%
+91,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:05:07.841Z,2023-10-22T13:05:08.309Z,"Are the following two products the same?
+Product 1: Title: Seagate EXOS 10TB 3.5\"" SATA Enterprise HDD/Hard Drive 7200rpm
+Description: 10TB Seagate EXOS ST10000NM0016, 3.5\"" Enterprise HDD, SATA III - 6GB/s, 7200rpm, 256MB Cache, 512E, 4.16ms, OEM
+Product 2: Title: [Fujifilm]100 Sheet Fujifilm Instax Square Plain White Instant Polaroid Film for SQ 10 Camera | SP3 Printer
+Description: 100 sheet instax Square Film
+
+Answer with 'True' or 'False'.",False.,False,False,NONE,30%,80%
+92,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:05:07.372Z,2023-10-22T13:05:07.839Z,"Are the following two products the same?
+Product 1: Title: 1 Fujifilm Instax Square Film Black Frame
+Description: none
+Product 2: Title: Fujifilm Instax Square Film for SQ10 Hybrid Cameras 20 Shot Pack
+Description: EXTRA VALUE 2x 10 Shot Packs (giving you 20 shots in total). FRESH UK STOCKS AND LONG DATED. Fujifilm Instax \""SQUARE\"" film is for use in only square format instant print cameras such as the new SQ10, SQ6 cameras...Note: Not for use in Fuji Instax \
+
+Answer with 'True' or 'False'.",False.,False,False,NONE,50%,70%
+93,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:05:06.885Z,2023-10-22T13:05:07.370Z,"Are the following two products the same?
+Product 1: Title: Western Digital Blue PC 2.5\"" 250 GB Serial ATA III
+Description: 250 GB, 2.5\"", SATA 6Gb/s, 540/500 MB/s
+Product 2: Title: SSD WD Blue, Western Digital / 1 TB
+Description: Ready for your high performance computing needs, a WD Blue™ 3D NAND SATA SSD offers high capacity, enhanced reliability, and blazing speed.
+
+Answer with 'True' or 'False'.",False.,False,False,NONE,40%,70%
+94,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:05:06.331Z,2023-10-22T13:05:06.884Z,"Are the following two products the same?
+Product 1: Title: Asus 24\"" ROG Swift LED Gaming Monitor (PG248Q)
+Description: 24-inch Full HD gaming monitor with an ultra-fast 1ms response time to eliminate smearing and motion blur. Astonishing overclockable 180Hz refresh rate and G-SYNC technology for super-smooth gameplay. Perfect for the high frames per second produced b
+Product 2: Title: TAG Heuer Formula 1 CAZ1010.FT8024
+Description: Find Authentic TAG Heuer Formula 1 CAZ1010.FT8024 with TAG Heuer Warranty at lowest prices. Fast & FREE Shipping. 14-day Return Policy. Tax Free & Worldwide Delivery. Lowest Prices on all watches and brands. (Model CAZ1010.FT8024)
+
+Answer with 'True' or 'False'.",False.,False,False,NONE,10%,50%
+95,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:05:05.826Z,2023-10-22T13:05:06.329Z,"Are the following two products the same?
+Product 1: Title: TP-Link TL-WN781ND Netcard PCI-eX Wireless 150 mb
+Description: none
+Product 2: Title: TP-LINK Wireless Access Point (TL-WA901ND)
+Description: 450Mbps wireless transmission rate | 1x 10/100M Ethernet Port RJ45 | Multiple operating modes: Access Point, Client, Universal/ WDS Repeater, Wireless Bridge
+
+Answer with 'True' or 'False'.",False.,False,False,NONE,30%,70%
+96,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:05:05.311Z,2023-10-22T13:05:05.822Z,"Are the following two products the same?
+Product 1: Title: Fujifilm Instax Square Film for SQ10 Hybrid Cameras 20 Shot Pack
+Description: EXTRA VALUE 2x 10 Shot Packs (giving you 20 shots in total). FRESH UK STOCKS AND LONG DATED. Fujifilm Instax \""SQUARE\"" film is for use in only square format instant print cameras such as the new SQ10, SQ6 cameras...Note: Not for use in Fuji Instax \
+Product 2: Title: Fujifilm Instax Mini Rainbow (10 sheets) Film
+Description: Fujifilm instax mini film is for all instax mini cameras and comes in a handy cartridge. It offers stunning instant pictures that you can fit into a purse, wallet or mini photo frame. instax film ensures sharp, clear reproduction, vivid color and nat
+
+Answer with 'True' or 'False'.",False.,False,False,NONE,30%,70%
+97,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:05:04.074Z,2023-10-22T13:05:05.309Z,"Are the following two products the same?
+Product 1: Title: [Fujifilm]100 Sheet Fujifilm Instax Square Plain White Instant Polaroid Film for SQ 10 Camera | SP3 Printer
+Description: 100 sheet instax Square Film
+Product 2: Title: SPD SL Cleats - Pair - Self Aligning / Black & Yellow
+Description: Repacement cleats for all Shimano SPD-SL pedals.Supplied with fixing bolts.SM-SH10 - Red & Black - Fixed Cleat.SM-SH11 - Yellow & Black - Self Aligning.SM-SH12 - Blue & Black - Front Pivot Centre.
+
+Answer with 'True' or 'False'.",False. The two products are not the same.,False,False,NONE,0%,90%
+98,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:05:03.152Z,2023-10-22T13:05:04.070Z,"Are the following two products the same?
+Product 1: Title: Genuine Light Grey Canon Pro-1 Ink Cartridge 352 Pages
+Description: none
+Product 2: Title: SanDisk Extreme PRO SD UHS-II USB 3.0
+Description: none
+
+Answer with 'True' or 'False'.",False.,False,False,NONE,0%,50%
+99,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:05:02.209Z,2023-10-22T13:05:03.147Z,"Are the following two products the same?
+Product 1: Title: Replica watch TAG Heuer Carrera Automatic Blue Dial Men's Watch CBK2112.BA0715
+Description: Buy a High quality fake TAG Heuer Carrera Automatic Blue Dial Men's Watch CBK2112.BA0715 I think is the best choice when you have no enough budget to buy a Genuine watch,We only offer AAA 1:1 replica watch,perfect functions,1:1 look and only cost you
+Product 2: Title: SSD WD Blue, Western Digital / 1 TB
+Description: Ready for your high performance computing needs, a WD Blue™ 3D NAND SATA SSD offers high capacity, enhanced reliability, and blazing speed.
+
+Answer with 'True' or 'False'.",False. The two products are not the same.,False,False,NONE,10%,80%
+100,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:05:01.726Z,2023-10-22T13:05:02.207Z,"Are the following two products the same?
+Product 1: Title: Extreme Sdxc 128Gb 150Mb/S C10 U3
+Description: SanDisk 128GB 150MB/s Extreme SDXC UHS-I CardThe SanDisk Extreme SD UHS-I memory card delivers performance that lets you take control of your creativity. With shot speeds of up to 70MB/s and UHS speed Class 3 (U3) recording youâre ready to capture 
+Product 2: Title: TAG Heuer Formula 1 CAZ1010.FT8024
+Description: Find Authentic TAG Heuer Formula 1 CAZ1010.FT8024 with TAG Heuer Warranty at lowest prices. Fast & FREE Shipping. 14-day Return Policy. Tax Free & Worldwide Delivery. Lowest Prices on all watches and brands. (Model CAZ1010.FT8024)
+
+Answer with 'True' or 'False'.",False.,False,False,NONE,50%,70%
+101,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:05:01.117Z,2023-10-22T13:05:01.724Z,"Are the following two products the same?
+Product 1: Title: Epson Seahorse Multipack 6-kleur T0487
+Description: Epson Seahorse Multipack 6-kleur T0487
+Product 2: Title: WD Blue 3D - 2048 GB - M.2 - 560 MB/s - 6 Gbit/s WDS200T2B0B
+Description: WD Blue 3D - 2048 GB - M.2 - 560 MB/s - 6 Gbit/s TB - M.2 - SATA 6Gb/s - 560/530 MB/s Western Digital Blue 3D. SSD capacity: 2048 GB, SSD form factor: M.2, Read speed: 560 MB/s, Write speed: 530 MB/s, Data transfer rate: 6 Gbit/s, Component for: PC/n
+
+Answer with 'True' or 'False'.",False.,False,False,NONE,0%,50%
+102,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:05:00.662Z,2023-10-22T13:05:01.116Z,"Are the following two products the same?
+Product 1: Title: Zebra Black Monochrome Ribbon 800011-101 - 1000 Prints
+Description: none
+Product 2: Title: Fujifilm 16531958 instant picture film 54 x 86 mm 10 pc(s)
+Description: This single pack of FUJIFILM INSTAX Mini Monochrome Instant Film contains 10 sheets of instant black & white film that is compatible for use with the FUJIFILM INSTAX Mini series of cameras or INSTAX SHARE printers. This film features neutral gray ton
+
+Answer with 'True' or 'False'.",False.,False,False,NONE,10%,40%
+103,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:05:00.237Z,2023-10-22T13:05:00.661Z,"Are the following two products the same?
+Product 1: Title: TP-LINK ARCHER C60 IEEE 802.11AC ETHERNET WIRELESS ROUTER - 2.40 GHZ ISM BAND - 5 GHZ UNII BAND(5 X EXTERNAL) - 168.75 MB/S WIRELESS SPEED - 4 X NETWORK PORT - 1 X BROADBAND PORT - FAST ETHERNET - VPN SUPPORTED - DESKTOP
+Description: TP-LINK ARCHER C60 IEEE 802.11AC ETHERNET WIRELESS ROUTER - 2.40 GHZ ISM BAND - 5 GHZ UNII BAND(5 X EXTERNAL) - 168.75 MB/S WIRELESS SPEED - 4 X NETWORK PORT - 1 X BROADBAND PORT - FAST ETHERNET - VPN SUPPORTED - DESKTOP
+Product 2: Title: TP-Link Archer T9UH AC1900 High Gain Wireless Dual Band USB Network Adapter 1900Mbps (600Mpbs @ 2.4GHz & 1300Mbps @ 5GHz) USB3.0 Omni Directional Ant.
+Description: TP-Link Archer T9UH AC1900 High Gain Wireless Dual Band USB Network Adapter 1900Mbps (600Mpbs @ 2...
+
+Answer with 'True' or 'False'.",False.,False,False,NONE,85%,90%
+104,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:04:59.745Z,2023-10-22T13:05:00.235Z,"Are the following two products the same?
+Product 1: Title: Maxxis Minion DHR II 29\"" DD/3C/TR
+Description: Minion DHR II 29 x 2.35 tubeless ready tyre with Double down casing and 3C Maxx Terra.For our full range of Bike Accessories visit Evans Cycles
+Product 2: Title: Maxxis High Roller II Tire - 29 x 2.5, Tubeless, Folding, Black, 3C Maxx Terra, DD, Wide Trail
+Description: none
+
+Answer with 'True' or 'False'.",False.,False,False,NONE,60%,70%
+105,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:04:58.735Z,2023-10-22T13:04:59.743Z,"Are the following two products the same?
+Product 1: Title: Fujifilm Instax Square Film for SQ10 Hybrid Cameras 20 Shot Pack
+Description: EXTRA VALUE 2x 10 Shot Packs (giving you 20 shots in total). FRESH UK STOCKS AND LONG DATED. Fujifilm Instax \""SQUARE\"" film is for use in only square format instant print cameras such as the new SQ10, SQ6 cameras...Note: Not for use in Fuji Instax \
+Product 2: Title: Fujifilm Instax Square Film Twin Pack 20 Shots
+Description: The Fujifilm Instax Film Square Twin Pack 20 Shots is designed for the Fujifilm Instax Square SQ6 instant camera. The film boasts the same professional high quality found in all Instax
+
+Answer with 'True' or 'False'.",True,True,False,FP,90%,80%
+106,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:04:58.230Z,2023-10-22T13:04:58.732Z,"Are the following two products the same?
+Product 1: Title: WD Blue 3D - 2048 GB - M.2 - 560 MB/s - 6 Gbit/s WDS200T2B0B
+Description: WD Blue 3D - 2048 GB - M.2 - 560 MB/s - 6 Gbit/s TB - M.2 - SATA 6Gb/s - 560/530 MB/s Western Digital Blue 3D. SSD capacity: 2048 GB, SSD form factor: M.2, Read speed: 560 MB/s, Write speed: 530 MB/s, Data transfer rate: 6 Gbit/s, Component for: PC/n
+Product 2: Title: Western Digital Blue SN550 M.2-2280 1TB
+Description: Huge 1TB storage capacity and super Rapid 2400Mbps read speed and amazingly Rapid 1950Mbps write speed.
+
+Answer with 'True' or 'False'.",False.,False,False,NONE,60%,80%
+107,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:04:57.691Z,2023-10-22T13:04:58.229Z,"Are the following two products the same?
+Product 1: Title: Hikvision 4 Port Unmanaged PoE Switch,1*100M Uplink [DS-3E0105P-E]
+Description: Key FeaturesLayer 2 unmanaged PoE switch4x 10/100Mbps Ethernet ports1x 100Mbps uplinkIEEE 802.3af or 802.3at PoE standard802.3af or 802.3at
+Product 2: Title: Maxxis Maxxis Dissector Tire 29
+Description: none
+
+Answer with 'True' or 'False'.",False.,False,False,NONE,0%,0% 
+108,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:04:57.207Z,2023-10-22T13:04:57.687Z,"Are the following two products the same?
+Product 1: Title: TAG Heuer Formula 1 Chronograph 43mm CAZ1010.FT8024
+Description: none
+Product 2: Title: Sony 24-240mm f/3.5-6.3 Zoom Lens
+Description: This Sonyzoomlens is perfect for all of the obstacles of youreverydaylife, with a range wide enough to capture all from landscapes, to portraits and sports. Compatible with allSony E-Mountcameras, including the full-frame options, the Sony FE 24-240m
+
+Answer with 'True' or 'False'.",False.,False,False,NONE,0%,0% 
+109,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:04:56.340Z,2023-10-22T13:04:57.205Z,"Are the following two products the same?
+Product 1: Title: Blaze Grill Cart for 40\"" Gas Grill
+Description: With the Blaze Grill Cart for 40\"" Gas Grill you'll be able to effortlessly support your 40\"" grill. This grill cart boasts a heavy gauge 304 grade stainless steel construction, which not only gives you superior durability but will also give you the 
+Product 2: Title: Traveler's Refills: MD Paper - 002 / grid
+Description: These notebooks aremade in Japan, where there is a rich tradition of elevating basic craft to perfected art form. MD Paper is no exception,meticulously engineered for the finest writing experience. There is no detail overlooked: the paper is made fro
+
+Answer with 'True' or 'False'.",False. The two products are not the same.,False,False,NONE,10%,40%
+110,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:04:55.817Z,2023-10-22T13:04:56.336Z,"Are the following two products the same?
+Product 1: Title: Traveler's Lined Notebook Refill - Regular Size
+Description: Think about the days you went to school. Based on people’s past experience as a student, we receive comments saying that this is the most easy type of notebook to use. The lines are printed with an interval of 6.5mm, and the paper is our originally m
+Product 2: Title: Refill #012: Sketch Paper Notebook
+Description: Notebook with quality sketch paper - another useful refill for the Traveler's Notebook. When does it come in handy?If you draw, paint and do not want to be restricted by plain paper. This one is thick, so it can bear even water based paints. It's als
+
+Answer with 'True' or 'False'.",False.,False,False,NONE,30%,50%
+111,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:04:55.332Z,2023-10-22T13:04:55.816Z,"Are the following two products the same?
+Product 1: Title: 008 Traveler's Notebook Regular- Refill - Zipper Case
+Description: Take your TRAVELER'S Notebook beyond the normal use of a notebook. The ZipperCase transforms your TRAVELER'S Notebook into a convenient storage for pens, pencils, tickets receipts, keys, coins, and so much more. A thin pocket is included on the other
+Product 2: Title: Traveler's Company Traveler's Company Notebook Accessories
+Description: none
+
+Answer with 'True' or 'False'.",False.,False,False,NONE,40%,50%
+112,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:04:54.854Z,2023-10-22T13:04:55.330Z,"Are the following two products the same?
+Product 1: Title: SanDisk Extreme microSDHC 32GB 100/60 MB/s A1 V30 GoPro
+Description: SanDisk Extreme microSDHC 32GB 100/60 MB/s A1 V30 GoPro
+Product 2: Title: ADATTATORE USB2.0 WIRELESS N 150M LAN 802.11BGN 1T1R 2.4GHZ-NANO SIZE-PROVIDE USB2.0 INTERF.-WPS-SUPP. XP/VISTA/7
+Description: none
+
+Answer with 'True' or 'False'.",False.,False,False,NONE,50%,70%
+113,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:04:54.418Z,2023-10-22T13:04:54.852Z,"Are the following two products the same?
+Product 1: Title: Hikvision 4 Port Unmanaged PoE Switch,1*100M Uplink [DS-3E0105P-E]
+Description: Key FeaturesLayer 2 unmanaged PoE switch4x 10/100Mbps Ethernet ports1x 100Mbps uplinkIEEE 802.3af or 802.3at PoE standard802.3af or 802.3at
+Product 2: Title: Ubiquiti EdgeSwitch 16-Port 150-Watt Managed PoE+ Gigabit Switch with SFP
+Description: BackUbiquiti ES-16-150WUbiquiti Networks EdgeSwitch 16-Port 150-Watt Managed PoE+ Gigabit Switch with SFPAdvanced Switching TechnologyBuild and expand your network with Ubiquiti Networks EdgeSwitch, part of the EdgeMAX line of products. The EdgeSwitc
+
+Answer with 'True' or 'False'.",False.,False,False,NONE,50%,70%
+114,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:04:53.840Z,2023-10-22T13:04:54.416Z,"Are the following two products the same?
+Product 1: Title: Externe SSD Portable T7, 2 TB, Touch Black, USB 3.2 Gen 2
+Description: Fingerabdruckscanner
+Product 2: Title: SSD WD Blue, Western Digital / 1 TB
+Description: Ready for your high performance computing needs, a WD Blue™ 3D NAND SATA SSD offers high capacity, enhanced reliability, and blazing speed.
+
+Answer with 'True' or 'False'.",False.,False,False,NONE,20%,50%
+115,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:04:53.417Z,2023-10-22T13:04:53.837Z,"Are the following two products the same?
+Product 1: Title: TAG Heuer Formula 1 Chronograph 43mm CAZ1010.FT8024
+Description: none
+Product 2: Title: Memory Card SD 32 Kingston SDS2/32GB
+Description: none
+
+Answer with 'True' or 'False'.",False.,False,False,NONE,0%,95%
+116,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:04:52.904Z,2023-10-22T13:04:53.416Z,"Are the following two products the same?
+Product 1: Title: Kingston Micro Sd Card Canvas Select Plus 128 Gb 100 Mb/S Limited Lifetime
+Description: KINGSTON MICRO SD CARD CANVAS SELECT PLUS 128GB 100MB/S LIMITED LIFETIME
+Product 2: Title: Adaptador WiFi N PCI Express 150 Mbps 20dBm, 802.11b/g/n Chipset Atheros, 1 Antena 2 dBi desmontable.
+Description: Adaptador WiFi N PCI Express 150 Mbps 20dBm, 802.11b/g/n Chipset Atheros, 1 Antena 2 dBi desmontable.
+
+Answer with 'True' or 'False'.",False.,False,False,NONE,0%,50%
+117,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:04:52.393Z,2023-10-22T13:04:52.902Z,"Are the following two products the same?
+Product 1: Title: Western Digital Blue SN550 M.2-2280 1TB
+Description: Huge 1TB storage capacity and super Rapid 2400Mbps read speed and amazingly Rapid 1950Mbps write speed.
+Product 2: Title: Western Digital Blue SSD 1TB 2.5\"" 7mm SATA III 6GB/s 3D Nand Flash
+Description: WD Blue 3D NAND Internal SSD 2.5 Inch SATA - 1 TBUses 3D NAND technology not only for higher capacities (up to 2TB) than the previous generation WD Blue SSDs, but also to help reduce cell-to-cell interference for enhanced reliability.Offering improve
+
+Answer with 'True' or 'False'.",False.,False,False,NONE,80%,85%
+118,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:04:51.739Z,2023-10-22T13:04:52.391Z,"Are the following two products the same?
+Product 1: Title: Fujifilm Instax Square Instant Film - 10 Exposures
+Description: INSTAX Square Instant Film contains 10 sheets of instant color film that is compatible for use with INSTAX SQUARE cameras. This film features vivid color reproduction with natural skin tones, and its refined grain structure provides high image sharpn
+Product 2: Title: Fujifilm 16531958 instant picture film 54 x 86 mm 10 pc(s)
+Description: This single pack of FUJIFILM INSTAX Mini Monochrome Instant Film contains 10 sheets of instant black & white film that is compatible for use with the FUJIFILM INSTAX Mini series of cameras or INSTAX SHARE printers. This film features neutral gray ton
+
+Answer with 'True' or 'False'.",False.,False,False,NONE,40%,70%
+119,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:04:51.288Z,2023-10-22T13:04:51.738Z,"Are the following two products the same?
+Product 1: Title: TRAVELER'S COMPANY Notebook - Blue
+Description: TRAVELER’S notebook Blue was released as a limited edition in 2015 and the blue color was well-received as a refreshing, new tone of TRAVELER’S notebook. Even after the conclusion of sale, so many requests were received for re-launch of blue during T
+Product 2: Title: Johnnie Walker Blue Label 0,7 ltr.
+Description: none
+
+Answer with 'True' or 'False'.",False.,False,False,NONE,10%,30%
+120,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:04:50.774Z,2023-10-22T13:04:51.286Z,"Are the following two products the same?
+Product 1: Title: Western Digital Blue PC 2.5\"" 250 GB Serial ATA III
+Description: 250 GB, 2.5\"", SATA 6Gb/s, 540/500 MB/s
+Product 2: Title: Apple iPad Air - 256GB - WiFi Tablet (10,5\"", 256 GB, iOS)
+Description: none
+
+Answer with 'True' or 'False'.",False.,False,False,NONE,10%,50%
+121,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:04:50.310Z,2023-10-22T13:04:50.773Z,"Are the following two products the same?
+Product 1: Title: Switch TP-Link TL-SF1024D
+Description: 24-port 10/100M Switch, 24 10/100M RJ45 ports, 13-inch steel case
+Product 2: Title: Cle Usb Wifi Tp-Link N300 Tl-Wn821n
+Description: Cle Usb Wifi Tp-Link N300 Tl-Wn821n
+
+Answer with 'True' or 'False'.",False.,False,False,NONE,10%,50%
+122,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:04:49.857Z,2023-10-22T13:04:50.309Z,"Are the following two products the same?
+Product 1: Title: TP-Link Archer-T9UH AC1900 USB 3.0 Adaptr
+Description: ArabirimUSBVeri Hz1300 MbpsVeri Hz600 Mbpsalma Frekans2.4 GHzalma Frekans5 GHzGaranti Sresi24 Ay
+Product 2: Title: SHIMANO Adaptateur Frein Disc 160mm AV SM-MA90-F160 Post/Standard
+Description: Rf. :ISMMA90F160PSDescription
+
+Answer with 'True' or 'False'.",False.,False,False,NONE,10%,40%
+123,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:04:49.447Z,2023-10-22T13:04:49.855Z,"Are the following two products the same?
+Product 1: Title: Corsair Carbide SPEC-01 Red LED
+Description: none
+Product 2: Title: Refill #012: Sketch Paper Notebook
+Description: Notebook with quality sketch paper - another useful refill for the Traveler's Notebook. When does it come in handy?If you draw, paint and do not want to be restricted by plain paper. This one is thick, so it can bear even water based paints. It's als
+
+Answer with 'True' or 'False'.",False,False,False,NONE,0%,0% 
+124,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:04:48.977Z,2023-10-22T13:04:49.445Z,"Are the following two products the same?
+Product 1: Title: Western Digital Blue SSD 1TB 2.5\"" 7mm SATA III 6GB/s 3D Nand Flash
+Description: WD Blue 3D NAND Internal SSD 2.5 Inch SATA - 1 TBUses 3D NAND technology not only for higher capacities (up to 2TB) than the previous generation WD Blue SSDs, but also to help reduce cell-to-cell interference for enhanced reliability.Offering improve
+Product 2: Title: Western Digital SSD M.22TB Blue 3D NAND
+Description: none
+
+Answer with 'True' or 'False'.",False.,False,False,NONE,50%,70%
+125,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:04:48.492Z,2023-10-22T13:04:48.976Z,"Are the following two products the same?
+Product 1: Title: WD Blue 3D NAND 250GB Internal SSD - SATA III 6Gb/s M.2 2280 Solid State Drive - WDS250G2B0B
+Description: WD Blue 3D NAND 250GB Internal SSD - SATA III 6Gb/s M.2 2280 Solid State Drive - WDS250G2B0B
+Product 2: Title: WD Blue 250GB - [WDS250G1B0A] SSD
+Description: (Solid, -, 2.5\"", 250GB, Blue, Drive), SATA, SSD, State, WD, Western Digital, [WDS250G1B0A]
+
+Answer with 'True' or 'False'.",True,True,False,FP,100%,100%
+126,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:04:48.017Z,2023-10-22T13:04:48.491Z,"Are the following two products the same?
+Product 1: Title: TRAVELER'S COMPANY Notebook - Blue
+Description: TRAVELER’S notebook Blue was released as a limited edition in 2015 and the blue color was well-received as a refreshing, new tone of TRAVELER’S notebook. Even after the conclusion of sale, so many requests were received for re-launch of blue during T
+Product 2: Title: 008 Traveler's Notebook Regular- Refill - Zipper Case
+Description: Take your TRAVELER'S Notebook beyond the normal use of a notebook. The ZipperCase transforms your TRAVELER'S Notebook into a convenient storage for pens, pencils, tickets receipts, keys, coins, and so much more. A thin pocket is included on the other
+
+Answer with 'True' or 'False'.",False.,False,False,NONE,20%,50%
+127,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:04:47.549Z,2023-10-22T13:04:48.016Z,"Are the following two products the same?
+Product 1: Title: WD Blue 3D NAND 250GB Internal SSD - SATA III 6Gb/s M.2 2280 Solid State Drive - WDS250G2B0B
+Description: WD Blue 3D NAND 250GB Internal SSD - SATA III 6Gb/s M.2 2280 Solid State Drive - WDS250G2B0B
+Product 2: Title: APC - Smart-UPS RT 192V RM Battery Pack - Batterihölje ( kan monteras i rack ) - 4 x Bly-syra - 6U - 19\""
+Description: APC Smart-UPS RT 192V RM Battery Pack - Batterihölje ( kan monteras i rack ) - 4 x Bly-syra - 6U - 19\"" (SURT192RMXLBP2) - Kapacitet: 0VA - Produkt: Extra batteri
+
+Answer with 'True' or 'False'.",False.,False,False,NONE,0%,50%
+128,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:04:47.005Z,2023-10-22T13:04:47.546Z,"Are the following two products the same?
+Product 1: Title: Seagate IronWolf 12TB 256MB Cache 3.5 inch Internal NAS Hard Disk Drive - SATA III 6 Gb/s Interface, Up to 180 MB/s Data Transfer Rate , , 3 year warranty
+Description: Seagate IronWolf 12TB 256MB Cache 3.5 inch Internal NAS Hard Disk Drive - SATA III 6 Gb/s Interface, Up to 180 MB/s Data Transfer Rate , , 3 year warranty
+Product 2: Title: WD 250GB Blue Series m.2 SSD WDS250G2B0B
+Description: HDSSD00250WDC003
+
+Answer with 'True' or 'False'.",False.,False,False,NONE,100%,100%
+129,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:04:46.458Z,2023-10-22T13:04:47.004Z,"Are the following two products the same?
+Product 1: Title: Fujifilm Instax Mini Instant Film - Monochrome (10 Shots)
+Description: Monochrome (Black & White) Instant Film for Fujifilm Mini Instant Cameras10 Shots per PackISO 800High Gloss FinishSuperb Grain QualityFast Image FormationGreater Resistance to Age-Induced ChangesSingle-plastic Composition for Easier Disposal
+Product 2: Title: Fujifilm Instax Square Instant Film - 10 Exposures
+Description: INSTAX Square Instant Film contains 10 sheets of instant color film that is compatible for use with INSTAX SQUARE cameras. This film features vivid color reproduction with natural skin tones, and its refined grain structure provides high image sharpn
+
+Answer with 'True' or 'False'.",False.,False,False,NONE,30%,80%
+130,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:04:45.537Z,2023-10-22T13:04:46.453Z,"Are the following two products the same?
+Product 1: Title: Jabra BIZ 2400 II Mono 3-in-1 Wideband
+Description: Jabra BIZ 2400 II Mono 3-in-1 Wideband from Headset Store. Next Day Delivery. Part Code:2486-820-209
+Product 2: Title: Jabra Biz 2400 II Mono 3-1, NC, 82 mic, QD
+Description: none
+
+Answer with 'True' or 'False'.",False.,False,False,NONE,60%,70%
+131,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:04:44.613Z,2023-10-22T13:04:45.533Z,"Are the following two products the same?
+Product 1: Title: Seagate IronWolf Pro ST4000NE001 - Hard drive - 4 TB - internal - 3.5\"" - SATA 6Gb/s - 7200 rpm - buffer_ 128 MB - with 2 years Rescue Data Recovery Service Plan
+Description: Product InformationTough. Ready. ScalableFor everything NAS, there's IronWolf and IronWolf Pro. Always on and always working, IronWolf is enhanced with AgileArray technology for optimal reliability and system agility. Multi-user technology and extrem
+Product 2: Title: Instax Fujifilm | Instax SQUARE Instant Film - Black Border (10 Exposures)
+Description: none
+
+Answer with 'True' or 'False'.",False. The two products are not the same.,False,False,NONE,0%,90%
+132,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:04:44.050Z,2023-10-22T13:04:44.610Z,"Are the following two products the same?
+Product 1: Title: TP-Link Archer T9UH AC1900 High Gain Wireless Dual Band USB Network Adapter 1900Mbps (600Mpbs @ 2.4GHz & 1300Mbps @ 5GHz) USB3.0 Omni Directional Ant.
+Description: TP-Link Archer T9UH AC1900 High Gain Wireless Dual Band USB Network Adapter 1900Mbps (600Mpbs @ 2...
+Product 2: Title: TP-LINK TL-WR841N wireless router Single-band (2.4 GHz) Fast Ethernet Zwart, Wit
+Description: TP-LINK TL-WR841N wireless router Single-band (2.4 GHz) Fast Ethernet Zwart, Wit
+
+Answer with 'True' or 'False'.",False.,False,False,NONE,20%,50%
+133,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:04:43.590Z,2023-10-22T13:04:44.049Z,"Are the following two products the same?
+Product 1: Title: 5 Port, Hikvision PoE Network Switch
+Description: Switch with 4 PoE ports + 1 x Uplink port 10/100Mbps RJ45 ports 58 watts total Max Extend On, up to 250m distance 2 Years Manufacturers Warranty
+Product 2: Title: Philips 243V7QDSB/00 23.8 \"", IPS, FHD, 1920 x 1080 pixels, 16:9, 5 ms, 250 cd/m², Black
+Description: Philips 243V7QDSB/00 23.8 \"", IPS, FHD, 1920 x 1080 pixels, 16:9, 5 ms, 250 cd/m², Black
+
+Answer with 'True' or 'False'.",False.,False,False,NONE,10%,50%
+134,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:04:42.952Z,2023-10-22T13:04:43.587Z,"Are the following two products the same?
+Product 1: Title: Fujifilm Instax Mini Instant Film - Monochrome (10 Shots)
+Description: Monochrome (Black & White) Instant Film for Fujifilm Mini Instant Cameras10 Shots per PackISO 800High Gloss FinishSuperb Grain QualityFast Image FormationGreater Resistance to Age-Induced ChangesSingle-plastic Composition for Easier Disposal
+Product 2: Title: Fujifilm Instax Square Film for SQ10 Hybrid Cameras 20 Shot Pack
+Description: EXTRA VALUE 2x 10 Shot Packs (giving you 20 shots in total). FRESH UK STOCKS AND LONG DATED. Fujifilm Instax \""SQUARE\"" film is for use in only square format instant print cameras such as the new SQ10, SQ6 cameras...Note: Not for use in Fuji Instax \
+
+Answer with 'True' or 'False'.",False.,False,False,NONE,30%,70%
+135,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:04:42.432Z,2023-10-22T13:04:42.948Z,"Are the following two products the same?
+Product 1: Title: Intel Core i9-9900X Skylake X 10-Core 3.5 GHz (4.4 GHz Turbo) LGA 2066 165W BX80673I99900X Desktop Processor
+Description: Intel Core i9-9900X Skylake X 10-Core 3.5 GHz (4.4 GHz Turbo) LGA 2066 165W BX80673I99900X Desktop Processor
+Product 2: Title: Fujifilm 16531958 instant picture film 54 x 86 mm 10 pc(s)
+Description: This single pack of FUJIFILM INSTAX Mini Monochrome Instant Film contains 10 sheets of instant black & white film that is compatible for use with the FUJIFILM INSTAX Mini series of cameras or INSTAX SHARE printers. This film features neutral gray ton
+
+Answer with 'True' or 'False'.",False.,False,False,NONE,0%,20%
+136,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:04:41.994Z,2023-10-22T13:04:42.431Z,"Are the following two products the same?
+Product 1: Title: Switch TP-Link TL-SF1024D
+Description: 24-port 10/100M Switch, 24 10/100M RJ45 ports, 13-inch steel case
+Product 2: Title: TP-Link TL-WN781ND Netcard PCI-eX Wireless 150 mb
+Description: none
+
+Answer with 'True' or 'False'.",False.,False,False,NONE,20%,50%
+137,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:04:40.823Z,2023-10-22T13:04:41.993Z,"Are the following two products the same?
+Product 1: Title: Cle Usb Wifi Tp-Link N300 Tl-Wn821n
+Description: Cle Usb Wifi Tp-Link N300 Tl-Wn821n
+Product 2: Title: Adattatore USB Wireless TP-Link TL-WN725N 150Mbps 2.4GHz
+Description: none
+
+Answer with 'True' or 'False'.",False.,False,False,NONE,50%,70%
+138,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:04:39.902Z,2023-10-22T13:04:40.820Z,"Are the following two products the same?
+Product 1: Title: WD 2TB Elements Portable External Hard Drive
+Description: WD 2TB Elements Portable External Hard Drive USB 3.0 and USB 2.0 compatibility Fast data transfers Improve PC performance High Capacity 2-year manufacturer's limited warranty WD quality and reliability  
+Product 2: Title: Fujifilm Instax Mini Rainbow (10 sheets) Film
+Description: Fujifilm instax mini film is for all instax mini cameras and comes in a handy cartridge. It offers stunning instant pictures that you can fit into a purse, wallet or mini photo frame. instax film ensures sharp, clear reproduction, vivid color and nat
+
+Answer with 'True' or 'False'.",False. The two products are not the same.,False,False,NONE,10%,50%
+139,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:04:39.382Z,2023-10-22T13:04:39.900Z,"Are the following two products the same?
+Product 1: Title: WIRELESS AC600 DUAL BAND TP-LINK ARCHER T2U NANO USB2.0 150MBPS A 2.4GHZ + 433MBPS A 5GHZ 802.11AC/A/B/G/N
+Description: none
+Product 2: Title: TP-Link Archer T9UH AC1900 High Gain Wireless Dual Band USB Network Adapter 1900Mbps (600Mpbs @ 2.4GHz & 1300Mbps @ 5GHz) USB3.0 Omni Directional Ant.
+Description: TP-Link Archer T9UH AC1900 High Gain Wireless Dual Band USB Network Adapter 1900Mbps (600Mpbs @ 2...
+
+Answer with 'True' or 'False'.",False.,False,False,NONE,60%,70%
+140,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:04:38.895Z,2023-10-22T13:04:39.380Z,"Are the following two products the same?
+Product 1: Title: TP-Link TL-WN781ND Netcard PCI-eX Wireless 150 mb
+Description: none
+Product 2: Title: TP-Link TL-WA860RE 300Mbps Wi-Fi Range Extender
+Description: TP-LINK TL-WA860RE 300Mbps Wi-Fi Range Extender with AC PassthroughRange Extender mode boosts wireless signal to previously unreachable or hard-to-wire areas flawlesslyMiniature size and wall-mo...
+
+Answer with 'True' or 'False'.",False.,False,False,NONE,20%,80%
+141,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:04:38.372Z,2023-10-22T13:04:38.893Z,"Are the following two products the same?
+Product 1: Title: MINION DHR II 29 X 2.30 3C TERRA TR DD FOLD
+Description: Refined and redesigned; ready to shred any lineRamped and siped tread to roll fast and track straight under brakingSingle-ply, DoubleDown, and DH casings available3C MaxxTerra, 3C MaxxGrip, and Super Tacky available on select modelsWide trail (WT) ca
+Product 2: Title: Kingston SOD 4GB DDR4 2400MHz
+Description: Kingston SOD 4GB DDR4 2400MHz Memorije
+
+Answer with 'True' or 'False'.",False.,False,False,NONE,10%,50%
+142,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:04:37.862Z,2023-10-22T13:04:38.371Z,"Are the following two products the same?
+Product 1: Title: \""Evolis Black Monochrome Ribbon - K - 2,000 prints\""
+Description: Manufacturer and item#Evolis RCT023NAArn2,000 prints per rollrnBlack monochrome printing on the front or front and backrnResin black for barcode printingrnFor use with the Evolis Primacy and Zenius series of printers
+Product 2: Title: Traveler's Lined Notebook Refill - Regular Size
+Description: Think about the days you went to school. Based on people’s past experience as a student, we receive comments saying that this is the most easy type of notebook to use. The lines are printed with an interval of 6.5mm, and the paper is our originally m
+
+Answer with 'True' or 'False'.",False.,False,False,NONE,10%,40%
+143,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:04:37.339Z,2023-10-22T13:04:37.860Z,"Are the following two products the same?
+Product 1: Title: TP-Link Archer T9UH AC1900 High Gain Wireless Dual Band USB Network Adapter 1900Mbps (600Mpbs @ 2.4GHz & 1300Mbps @ 5GHz) USB3.0 Omni Directional Ant.
+Description: TP-Link Archer T9UH AC1900 High Gain Wireless Dual Band USB Network Adapter 1900Mbps (600Mpbs @ 2...
+Product 2: Title: Tp-Link Wireless N USB Adapter 300Mbps
+Description: none
+
+Answer with 'True' or 'False'.",False.,False,False,NONE,20%,50%
+144,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:04:36.844Z,2023-10-22T13:04:37.337Z,"Are the following two products the same?
+Product 1: Title: Seagate 2TB FireCuda 3.5"" SATA 6Gb/s SSHD
+Description: Seagate 2TB FireCuda 3.5"" SATA 6Gb/s SSHD
+Product 2: Title: WD Blue 3D NAND 250GB Internal SSD - SATA III 6Gb/s M.2 2280 Solid State Drive - WDS250G2B0B
+Description: WD Blue 3D NAND 250GB Internal SSD - SATA III 6Gb/s M.2 2280 Solid State Drive - WDS250G2B0B
+
+Answer with 'True' or 'False'.",False.,False,False,NONE,50%,80%
+145,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:04:35.749Z,2023-10-22T13:04:36.837Z,"Are the following two products the same?
+Product 1: Title: Instax Mini Rainbow Film 10 Pack
+Description: Brighten the place up with this pack of rainbow coloured film! Top tip: one of these would look fab in our Instax Mini Acrylic Photo Block!Includes pack of 10 shots
+Product 2: Title: Jabra Biz 2300 USB UC Duo Binaural Headset2399-823-109
+Description: ****CONTACT US FOR SPECIAL PRICING 0FFERS****Provide your contact center agents with a lightweight, durable headset that delivers HD voice/wideband speaker performance and noise cancellation with the BIZ 2300 Microsoft Lync Duo Headset from Jabra. Wo
+
+Answer with 'True' or 'False'.",False. The two products are not the same. Only one product is described,False,False,NONE,I cannot provide a similarity score or confidence score as only one product was described.,I cannot provide a similarity score or confidence score as only one product was described.
+146,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:04:35.197Z,2023-10-22T13:04:35.747Z,"Are the following two products the same?
+Product 1: Title: MINION DHR II 29 X 2.30 3C TERRA TR DD FOLD
+Description: Refined and redesigned; ready to shred any lineRamped and siped tread to roll fast and track straight under brakingSingle-ply, DoubleDown, and DH casings available3C MaxxTerra, 3C MaxxGrip, and Super Tacky available on select modelsWide trail (WT) ca
+Product 2: Title: Maxxis High Roller II Tire - 29 x 2.5, Tubeless, Folding, Black, 3C Maxx Terra, DD, Wide Trail
+Description: none
+
+Answer with 'True' or 'False'.",False.,False,False,NONE,80%,70%
+147,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:04:34.681Z,2023-10-22T13:04:35.196Z,"Are the following two products the same?
+Product 1: Title: TP-link range extender 300mbps wi-fi TL-WA850RE
+Description: TP-link range extender 300mbps wi-fi TL-WA850RE
+Product 2: Title: Cle Usb Wifi Tp-Link N300 Tl-Wn821n
+Description: Cle Usb Wifi Tp-Link N300 Tl-Wn821n
+
+Answer with 'True' or 'False'.",False.,False,False,NONE,50%,80%
+148,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:04:34.177Z,2023-10-22T13:04:34.679Z,"Are the following two products the same?
+Product 1: Title: CORSAIR Desktop Ram Vengeance RGB Series - 16GB (8GBx2) DDR4 3000MHz RAM (CMW16GX4M2C3000C15W)
+Description: CORSAIR Desktop Ram Vengeance RGB Series - 16GB (8GBx2) DDR4 3000MHz RAM (CMW16GX4M2C3000C15W)FEATURESStunning RGB. Striking Speed.Whether you are upgrading a system, building an ultra fast gaming rig, or attempting to break overclocking world record
+Product 2: Title: 002 TN Regular Refill Grid Notebook Basic Item TRC
+Description: Traveler's company
+
+Answer with 'True' or 'False'.",False.,False,False,NONE,0%,50%
+149,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:04:33.656Z,2023-10-22T13:04:34.176Z,"Are the following two products the same?
+Product 1: Title: Western Digital Blue PC 2.5\"" 250 GB Serial ATA III
+Description: 250 GB, 2.5\"", SATA 6Gb/s, 540/500 MB/s
+Product 2: Title: Kingston Technology A400 SSD 240GB Serial ATA III
+Description: Kingston Technology A400 SSD 240GB, 240 GB, Serial ATA III, 500 MB/s, 350 MB/s, PC/PC portatile, 6 Gbit/s
+
+Answer with 'True' or 'False'.",False.,False,False,NONE,70%,80%
+150,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:04:33.162Z,2023-10-22T13:04:33.655Z,"Are the following two products the same?
+Product 1: Title: SanDisk Extreme PRO 300MBs UHSII Class 10 U3 SDHC Card 32GB
+Description: SanDisk Extreme PRO 300MBs UHS-II Class 10 U3 SDHC Card - 32GB has speeds of up to 300 MB/s, and write speeds of up to 260 MB/s
+Product 2: Title: WD Blue 3D - 2048 GB - M.2 - 560 MB/s - 6 Gbit/s WDS200T2B0B
+Description: WD Blue 3D - 2048 GB - M.2 - 560 MB/s - 6 Gbit/s TB - M.2 - SATA 6Gb/s - 560/530 MB/s Western Digital Blue 3D. SSD capacity: 2048 GB, SSD form factor: M.2, Read speed: 560 MB/s, Write speed: 530 MB/s, Data transfer rate: 6 Gbit/s, Component for: PC/n
+
+Answer with 'True' or 'False'.",False.,False,False,NONE,20%,50%
+151,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:04:32.625Z,2023-10-22T13:04:33.159Z,"Are the following two products the same?
+Product 1: Title: TP-LINK TL-WR841N 300Mbps Wireless N Router (BAZAR)
+Description: none
+Product 2: Title: Adattatore USB Wireless TP-Link TL-WN725N 150Mbps 2.4GHz
+Description: none
+
+Answer with 'True' or 'False'.",False.,False,False,NONE,20%,50%
+152,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:04:32.146Z,2023-10-22T13:04:32.623Z,"Are the following two products the same?
+Product 1: Title: ADATTATORE USB2.0 WIRELESS N 150M LAN 802.11BGN 1T1R 2.4GHZ-NANO SIZE-PROVIDE USB2.0 INTERF.-WPS-SUPP. XP/VISTA/7
+Description: none
+Product 2: Title: Apple Inst. Lightning to VGA Adapter
+Description: none
+
+Answer with 'True' or 'False'.",False.,False,False,NONE,0%,50%
+153,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:04:31.622Z,2023-10-22T13:04:32.145Z,"Are the following two products the same?
+Product 1: Title: TRAVELER'S COMPANY Notebook - Blue
+Description: TRAVELER’S notebook Blue was released as a limited edition in 2015 and the blue color was well-received as a refreshing, new tone of TRAVELER’S notebook. Even after the conclusion of sale, so many requests were received for re-launch of blue during T
+Product 2: Title: Traveler's Company 014. CRAFT PAPER (64PG) MIDORI TRAVELER'S NOTEBOOK
+Description: none
+
+Answer with 'True' or 'False'.",False.,False,False,NONE,30%,50%
+154,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:04:31.101Z,2023-10-22T13:04:31.620Z,"Are the following two products the same?
+Product 1: Title: TN-200 sort lasertoner, original Brother TN200 (2200 sider)
+Description: Ny original Brother sort tonerpatron til Brother HL-720,Brother HL-730,Brother HL-760 ,Brother Fax-8000,Brother P8250,Brother MFC-9050,Brother MFC-9060,Brother MFC-9500.
+Product 2: Title: 012 Traveler's Notebook Regular- Refill - Sketch Notebook
+Description: TheTRAVELER'S Notebook SketchRefillallows you to bring your sketching wherever you go. Each sketchbook refill has 48 stitch-bound pages of perforated paper, with a more substantial thickness that is suitable for fountain pen ink or light water media.
+
+Answer with 'True' or 'False'.",False.,False,False,NONE,0%,50%
+155,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:04:30.593Z,2023-10-22T13:04:31.099Z,"Are the following two products the same?
+Product 1: Title: Traveler's Company 014. CRAFT PAPER (64PG) MIDORI TRAVELER'S NOTEBOOK
+Description: none
+Product 2: Title: Traveler's Refills: MD Paper - 002 / grid
+Description: These notebooks aremade in Japan, where there is a rich tradition of elevating basic craft to perfected art form. MD Paper is no exception,meticulously engineered for the finest writing experience. There is no detail overlooked: the paper is made fro
+
+Answer with 'True' or 'False'.",False.,False,False,NONE,50%,70%
+156,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:04:30.108Z,2023-10-22T13:04:30.590Z,"Are the following two products the same?
+Product 1: Title: 1 Fujifilm Instax Square Film Black Frame
+Description: none
+Product 2: Title: TAG Heuer Aquaracer Quartz Steel 40.5mm Watch
+Description: none
+
+Answer with 'True' or 'False'.",False.,False,False,NONE,0%,95%
+157,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:04:29.633Z,2023-10-22T13:04:30.107Z,"Are the following two products the same?
+Product 1: Title: TP-Link TL-WN781ND Netcard PCI-eX Wireless 150 mb
+Description: none
+Product 2: Title: KINGSTON - CanvSelect Plus 32GB SDHC, 100R
+Description: KINGSTON CanvSelect Plus 32GB SDHC, 100R (SDS2/32GB) - Minnestørrelse: 32GB - Type: SDHC
+
+Answer with 'True' or 'False'.",False.,False,False,NONE,20%,50%
+158,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:04:28.782Z,2023-10-22T13:04:29.631Z,"Are the following two products the same?
+Product 1: Title: TP-LINK ARCHER C60 IEEE 802.11AC ETHERNET WIRELESS ROUTER - 2.40 GHZ ISM BAND - 5 GHZ UNII BAND(5 X EXTERNAL) - 168.75 MB/S WIRELESS SPEED - 4 X NETWORK PORT - 1 X BROADBAND PORT - FAST ETHERNET - VPN SUPPORTED - DESKTOP
+Description: TP-LINK ARCHER C60 IEEE 802.11AC ETHERNET WIRELESS ROUTER - 2.40 GHZ ISM BAND - 5 GHZ UNII BAND(5 X EXTERNAL) - 168.75 MB/S WIRELESS SPEED - 4 X NETWORK PORT - 1 X BROADBAND PORT - FAST ETHERNET - VPN SUPPORTED - DESKTOP
+Product 2: Title: ADATTATORE USB2.0 WIRELESS N 150M LAN 802.11BGN 1T1R 2.4GHZ-NANO SIZE-PROVIDE USB2.0 INTERF.-WPS-SUPP. XP/VISTA/7
+Description: none
+
+Answer with 'True' or 'False'.",False. The two products are not the same.,False,False,NONE,30%,80%
+159,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:04:28.371Z,2023-10-22T13:04:28.781Z,"Are the following two products the same?
+Product 1: Title: Fujifilm Instax Square Instant Film - 10 Exposures
+Description: INSTAX Square Instant Film contains 10 sheets of instant color film that is compatible for use with INSTAX SQUARE cameras. This film features vivid color reproduction with natural skin tones, and its refined grain structure provides high image sharpn
+Product 2: Title: Fujifilm Instax Square Film Twin Pack 20 Shots
+Description: The Fujifilm Instax Film Square Twin Pack 20 Shots is designed for the Fujifilm Instax Square SQ6 instant camera. The film boasts the same professional high quality found in all Instax
+
+Answer with 'True' or 'False'.",True,True,False,FP,90%,95%
+160,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:04:27.857Z,2023-10-22T13:04:28.369Z,"Are the following two products the same?
+Product 1: Title: TP-Link EAP225-Outdoor Wireless AP
+Description: AC1200 Weatherproof IP55, PoE adapter included, Long Range
+Product 2: Title: TP-Link Archer-T9UH AC1900 USB 3.0 Adaptr
+Description: ArabirimUSBVeri Hz1300 MbpsVeri Hz600 Mbpsalma Frekans2.4 GHzalma Frekans5 GHzGaranti Sresi24 Ay
+
+Answer with 'True' or 'False'.",False.,False,False,NONE,30%,70%
+161,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:04:27.170Z,2023-10-22T13:04:27.855Z,"Are the following two products the same?
+Product 1: Title: Tp-Link Wireless N USB Adapter 300Mbps
+Description: none
+Product 2: Title: Western Digital WD Blue SN550 1TB NVMe SSD
+Description: none
+
+Answer with 'True' or 'False'.",False.,False,False,NONE,0%,50%
+162,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:04:26.694Z,2023-10-22T13:04:27.168Z,"Are the following two products the same?
+Product 1: Title: WD 250GB Blue Series m.2 SSD WDS250G2B0B
+Description: HDSSD00250WDC003
+Product 2: Title: SSD WD Blue, Western Digital / 1 TB
+Description: Ready for your high performance computing needs, a WD Blue™ 3D NAND SATA SSD offers high capacity, enhanced reliability, and blazing speed.
+
+Answer with 'True' or 'False'.",False.,False,False,NONE,30%,80%
+163,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:04:26.185Z,2023-10-22T13:04:26.692Z,"Are the following two products the same?
+Product 1: Title: Traveler's Company 014. CRAFT PAPER (64PG) MIDORI TRAVELER'S NOTEBOOK
+Description: none
+Product 2: Title: Epson Blekk Svart T7031 L - WP4000/4500
+Description: none
+
+Answer with 'True' or 'False'.",False.,False,False,NONE,0%,50%
+164,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:04:25.310Z,2023-10-22T13:04:26.180Z,"Are the following two products the same?
+Product 1: Title: Cle Usb Wifi Tp-Link N300 Tl-Wn821n
+Description: Cle Usb Wifi Tp-Link N300 Tl-Wn821n
+Product 2: Title: ADATT. WIFI TP-LINK AC600 NANO WRLS USB
+Description: none
+
+Answer with 'True' or 'False'.",False.,False,False,NONE,50%,70%
+165,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:04:24.822Z,2023-10-22T13:04:25.308Z,"Are the following two products the same?
+Product 1: Title: Fujifilm FUJINON XF56mm F1.2 R APD
+Description: none
+Product 2: Title: Fujifilm Instax Square Film for SQ10 Hybrid Cameras 20 Shot Pack
+Description: EXTRA VALUE 2x 10 Shot Packs (giving you 20 shots in total). FRESH UK STOCKS AND LONG DATED. Fujifilm Instax \""SQUARE\"" film is for use in only square format instant print cameras such as the new SQ10, SQ6 cameras...Note: Not for use in Fuji Instax \
+
+Answer with 'True' or 'False'.",False.,False,False,NONE,0%,50%
+166,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:04:24.334Z,2023-10-22T13:04:24.820Z,"Are the following two products the same?
+Product 1: Title: Maxxis Minion DHR II 29\"" DD/3C/TR
+Description: Minion DHR II 29 x 2.35 tubeless ready tyre with Double down casing and 3C Maxx Terra.For our full range of Bike Accessories visit Evans Cycles
+Product 2: Title: Maxxis Minion DHR II 29"" x 2.4"" 60TPI Tire - 3C MG DH
+Description: With side knobs borrowed from the legendary Minion DHF but widened to provide more support the DHR II corners like no other. The center tread features ramped leading edges to improve acceleration and sipes to create a smooth transition when leaning t
+
+Answer with 'True' or 'False'.",False.,False,False,NONE,60%,70%
+167,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:04:23.864Z,2023-10-22T13:04:24.333Z,"Are the following two products the same?
+Product 1: Title: Fujifilm Instax Square Film Twin Pack 20 Shots
+Description: The Fujifilm Instax Film Square Twin Pack 20 Shots is designed for the Fujifilm Instax Square SQ6 instant camera. The film boasts the same professional high quality found in all Instax
+Product 2: Title: Instax Fujifilm | Instax SQUARE Instant Film - Black Border (10 Exposures)
+Description: none
+
+Answer with 'True' or 'False'.",False.,False,False,NONE,50%,70%
+168,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:04:23.415Z,2023-10-22T13:04:23.863Z,"Are the following two products the same?
+Product 1: Title: SanDisk SSD PLUS 480 GB Sata III 2.5 Inch Internal SSD, Up to 535 MB/s
+Description: DURABLE DESIGN: SanDisk Solid State Drives have a durable solid design which is engineered to resist vibration and shock, helping to keep your data safe over time.ULTRA FAST: This solid state drive performs up to 20x faster than a typical hard disk d
+Product 2: Title: Tp-Link Wireless N USB Adapter 300Mbps
+Description: none
+
+Answer with 'True' or 'False'.",False.,False,False,NONE,10%,40%
+169,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:04:22.531Z,2023-10-22T13:04:23.411Z,"Are the following two products the same?
+Product 1: Title: Jabra Biz 2400 II Mono 3-1, NC, 82 mic, Wideband, QD
+Description: none
+Product 2: Title: Jabra Biz 2300 Mono, USB
+Description: Mono earpiece — lets you keep in touch with your surroundings while you're on the line.Noise-ca...
+
+Answer with 'True' or 'False'.",False.,False,False,NONE,40%,80%
+170,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:04:22.054Z,2023-10-22T13:04:22.529Z,"Are the following two products the same?
+Product 1: Title: Jabra Biz 2400 II Mono 3-1, NC, 82 mic, Wideband, QD
+Description: none
+Product 2: Title: Jabra BIZ 2400 II binaural NC (FreeSpin)
+Description: none
+
+Answer with 'True' or 'False'.",False.,False,False,NONE,50%,70%
+171,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:04:21.581Z,2023-10-22T13:04:22.053Z,"Are the following two products the same?
+Product 1: Title: Western Digital WD Blue SN550 1TB NVMe SSD
+Description: none
+Product 2: Title: Brother Multif. Laser Mfc-L2710Dw B/N A4 30 Ppm Fronte/Retro Adf 50Ff Usb/Ethernet/Wireless Stampante Scanner Copiatrice Fax
+Description: none
+
+Answer with 'True' or 'False'.",False.,False,False,NONE,0%,50%
+172,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:04:21.091Z,2023-10-22T13:04:21.580Z,"Are the following two products the same?
+Product 1: Title: Western Digital Blue SN550 M.2-2280 1TB
+Description: Huge 1TB storage capacity and super Rapid 2400Mbps read speed and amazingly Rapid 1950Mbps write speed.
+Product 2: Title: Shimano Shimano PD-R550 SPD-SL Pedal
+Description: Extra-wide platforms expand the contact surface between cleats and pedals, for efficient power transfer and a solid feeling when you stand on them. Whatever your road-riding level, these are good things.
+
+Answer with 'True' or 'False'.",False.,False,False,NONE,10%,50%
+173,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:04:20.605Z,2023-10-22T13:04:21.086Z,"Are the following two products the same?
+Product 1: Title: Hikvision DS-2DE5225IW-AE 2MP PTZ Hi-PoE
+Description: - Hikvision DS-2DE5225IW-AE- PTZ- 25 × optical zoom- 2 Megapixels (Full HD)- Resolution: 1920 x 1080 @ 30fps- Lens: 4.8 mm to 120 mm- Viewing angle (horizontal): 57.6 ° to 2.5 °- Compression: H.265 + / H.265 / H.264 + / H.264- Image sensor: 1 / 2.8 \
+Product 2: Title: Hikvision 4 Port Unmanaged PoE Switch,1*100M Uplink [DS-3E0105P-E]
+Description: Key FeaturesLayer 2 unmanaged PoE switch4x 10/100Mbps Ethernet ports1x 100Mbps uplinkIEEE 802.3af or 802.3at PoE standard802.3af or 802.3at
+
+Answer with 'True' or 'False'.",False.,False,False,NONE,10%,50%
+174,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:04:19.736Z,2023-10-22T13:04:20.601Z,"Are the following two products the same?
+Product 1: Title: Traveler's Notebook Starter Kit (Passport Size) - Blue
+Description: Travel with Traveler's Notebook, you can jot down your precious memories along your journey. Easy to hold in your hand, it's the perfect size to bring along for you to write thoughts and observations from your trips. You can carry maps, tickets, and 
+Product 2: Title: Full Frame E-Mount 24mm F1.4 G-Master Lens
+Description: Unsparing application of leading-edge technology achieves refined G Master performance with consistently high resolution and soft, natural bokeh even at the widest F1.4 aperture setting.
+
+Answer with 'True' or 'False'.",False. The two products are not the same.,False,False,NONE,10%,50%
+175,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:04:19.265Z,2023-10-22T13:04:19.735Z,"Are the following two products the same?
+Product 1: Title: ADATA 256GB XPG SX8200 Pro PCIe Gen3x4 M.2 2280 Solid State Drive
+Description: The SX8200 Pro M.2 2280 SSD is XPG’s fastest SSD to date and is designed for avid PC enthusiasts, gamers, and overclockers. It features an ultra-fast PCIe Gen3x4 interface that offers peak read/write speeds of 3500/3000MB per second, outpacing SATA 6
+Product 2: Title: WD Blue 3D NAND 250GB Internal SSD - SATA III 6Gb/s M.2 2280 Solid State Drive - WDS250G2B0B
+Description: WD Blue 3D NAND 250GB Internal SSD - SATA III 6Gb/s M.2 2280 Solid State Drive - WDS250G2B0B
+
+Answer with 'True' or 'False'.",False.,False,False,NONE,60%,80%
+176,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:04:18.680Z,2023-10-22T13:04:19.263Z,"Are the following two products the same?
+Product 1: Title: Refill #012: Sketch Paper Notebook
+Description: Notebook with quality sketch paper - another useful refill for the Traveler's Notebook. When does it come in handy?If you draw, paint and do not want to be restricted by plain paper. This one is thick, so it can bear even water based paints. It's als
+Product 2: Title: Refill #014: Kraft Paper Notebook
+Description: Cardboard Paper notebook refill for the Traveler's Notebook.Various cuttings, stickers, photos, scribbles and more sophisticated drawings suit it well.Contains 64 pages and its dimensions (210 x 110 mm) make it suitable for the classic version, not f
+
+Answer with 'True' or 'False'.",False.,False,False,NONE,40%,70%
+177,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:04:18.160Z,2023-10-22T13:04:18.678Z,"Are the following two products the same?
+Product 1: Title: Refill #012: Sketch Paper Notebook
+Description: Notebook with quality sketch paper - another useful refill for the Traveler's Notebook. When does it come in handy?If you draw, paint and do not want to be restricted by plain paper. This one is thick, so it can bear even water based paints. It's als
+Product 2: Title: Corsair Carbide SPEC-01 Tower Black
+Description: The essential gaming PC case.Carbide Series SPEC-01 is proof that great looks, smart design, and durable construction don’t need to be pricy, and that basic doesn’t need to be boring. You get aggressive styling, a huge side panel window for admiring 
+
+Answer with 'True' or 'False'.",False.,False,False,NONE,0%,50%
+178,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:04:17.600Z,2023-10-22T13:04:18.159Z,"Are the following two products the same?
+Product 1: Title: TAG Heuer Calibre 16 – Automatic Chronograph
+Description: Calibre 16 – Automatic Chronograph
+Product 2: Title: TAG Heuer Formula 1 Chronograph 43mm CAZ1010.FT8024
+Description: none
+
+Answer with 'True' or 'False'.",False.,False,False,NONE,50%,70%
+179,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:04:17.072Z,2023-10-22T13:04:17.594Z,"Are the following two products the same?
+Product 1: Title: Power Bank TP-LINK TL-PB20000
+Description: none
+Product 2: Title: Traveler's Refills: MD Paper - 002 / grid
+Description: These notebooks aremade in Japan, where there is a rich tradition of elevating basic craft to perfected art form. MD Paper is no exception,meticulously engineered for the finest writing experience. There is no detail overlooked: the paper is made fro
+
+Answer with 'True' or 'False'.",False.,False,False,NONE,0%,20%
+180,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:04:16.582Z,2023-10-22T13:04:17.070Z,"Are the following two products the same?
+Product 1: Title: Instax Mini Rainbow Film 10 Pack
+Description: Brighten the place up with this pack of rainbow coloured film! Top tip: one of these would look fab in our Instax Mini Acrylic Photo Block!Includes pack of 10 shots
+Product 2: Title: MAIN ASUS ROG STRIX Z390-I GAMING
+Description: LGA1151 socket for 9th/ 8th Gen Intel® Core™ desktop processorsAura Sync RGB: Synchronize LED lighting with a vast portfolio of compatible PC gear, including addressable RGB stripsComprehensive cooling: Integrated I/O shield and VRM heatsink, Double 
+
+Answer with 'True' or 'False'.",False.,False,False,NONE,0%,0% 
+181,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:04:16.084Z,2023-10-22T13:04:16.580Z,"Are the following two products the same?
+Product 1: Title: ADATT. WIFI TP-LINK AC600 NANO WRLS USB
+Description: none
+Product 2: Title: Rammount Round Plate with Ball
+Description: none
+
+Answer with 'True' or 'False'.",False.,False,False,NONE,0%,50%
+182,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:04:15.600Z,2023-10-22T13:04:16.082Z,"Are the following two products the same?
+Product 1: Title: MINION DHR II 29 X 2.30 3C TERRA TR DD FOLD
+Description: Refined and redesigned; ready to shred any lineRamped and siped tread to roll fast and track straight under brakingSingle-ply, DoubleDown, and DH casings available3C MaxxTerra, 3C MaxxGrip, and Super Tacky available on select modelsWide trail (WT) ca
+Product 2: Title: AGGRESSOR 29 X 2.3 FOLDING 60TPI EXO TR
+Description: Aggressor - the new standard in Enduro Tyre The Aggressor is designed for high-speed modern mountain bike trails. Advanced knob shaping creates extra gripping edges, and reinforced side knobs offer enhanced stability when cornering at speed. An all-a
+
+Answer with 'True' or 'False'.",False.,False,False,NONE,40%,70%
+183,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:04:15.138Z,2023-10-22T13:04:15.598Z,"Are the following two products the same?
+Product 1: Title: Tp-Link Wireless N USB Adapter 300Mbps
+Description: none
+Product 2: Title: WIRELESS AC600 DUAL BAND TP-LINK ARCHER T2U NANO USB2.0 150MBPS A 2.4GHZ + 433MBPS A 5GHZ 802.11AC/A/B/G/N
+Description: none
+
+Answer with 'True' or 'False'.",False.,False,False,NONE,90%,80%
+184,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:04:13.929Z,2023-10-22T13:04:15.131Z,"Are the following two products the same?
+Product 1: Title: Sandisk 128gb Extreme Pro USB 3.1 Solid State Flash Drive, 420MB/s
+Description: The SanDisk Extreme PRO® USB 3.1 Solid State Flash Drive delivers the super-fast solid state performance in a USB 3.1 flash drive1. A game-changer in the USB storage category, this flash drive offers read speeds of up to 420MB/s, and write speeds of 
+Product 2: Title: WIRELESS AC600 DUAL BAND TP-LINK ARCHER T2U NANO USB2.0 150MBPS A 2.4GHZ + 433MBPS A 5GHZ 802.11AC/A/B/G/N
+Description: none
+
+Answer with 'True' or 'False'.",False. The two products are not the same.,False,False,NONE,30%,70%
+185,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:04:13.389Z,2023-10-22T13:04:13.926Z,"Are the following two products the same?
+Product 1: Title: Adaptador WiFi N PCI Express 150 Mbps 20dBm, 802.11b/g/n Chipset Atheros, 1 Antena 2 dBi desmontable.
+Description: Adaptador WiFi N PCI Express 150 Mbps 20dBm, 802.11b/g/n Chipset Atheros, 1 Antena 2 dBi desmontable.
+Product 2: Title: WIRELESS AC600 DUAL BAND TP-LINK ARCHER T2U NANO USB2.0 150MBPS A 2.4GHZ + 433MBPS A 5GHZ 802.11AC/A/B/G/N
+Description: none
+
+Answer with 'True' or 'False'.",False.,False,False,NONE,50%,70%
+186,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:04:12.874Z,2023-10-22T13:04:13.387Z,"Are the following two products the same?
+Product 1: Title: Western Digital WD Blue SN550 1TB NVMe SSD
+Description: none
+Product 2: Title: SSD WD Blue, Western Digital / 1 TB
+Description: Ready for your high performance computing needs, a WD Blue™ 3D NAND SATA SSD offers high capacity, enhanced reliability, and blazing speed.
+
+Answer with 'True' or 'False'.",False.,False,False,NONE,50%,70%
+187,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:04:12.352Z,2023-10-22T13:04:12.869Z,"Are the following two products the same?
+Product 1: Title: Traveler's Company Traveler's Company Notebook Accessories
+Description: none
+Product 2: Title: Traveler's Refills: MD Paper - 002 / grid
+Description: These notebooks aremade in Japan, where there is a rich tradition of elevating basic craft to perfected art form. MD Paper is no exception,meticulously engineered for the finest writing experience. There is no detail overlooked: the paper is made fro
+
+Answer with 'True' or 'False'.",False.,False,False,NONE,40%,80%
+188,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:04:11.777Z,2023-10-22T13:04:12.350Z,"Are the following two products the same?
+Product 1: Title: LOGITECH Stereo Headset H151 – EMEA - One Plug
+Description: LOGITECH Stereo Headset H151 – EMEA - One Plug
+Product 2: Title: TP-Link Archer-T9UH AC1900 USB 3.0 Adaptr
+Description: ArabirimUSBVeri Hz1300 MbpsVeri Hz600 Mbpsalma Frekans2.4 GHzalma Frekans5 GHzGaranti Sresi24 Ay
+
+Answer with 'True' or 'False'.",False.,False,False,NONE,0%,50%
+189,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:04:11.229Z,2023-10-22T13:04:11.775Z,"Are the following two products the same?
+Product 1: Title: Western Digital Blue SN550 M.2-2280 1TB
+Description: Huge 1TB storage capacity and super Rapid 2400Mbps read speed and amazingly Rapid 1950Mbps write speed.
+Product 2: Title: ADATA XPG SX6000 Lite M.2 2280 1TB SSD
+Description: ADATA XPG SX6000 Lite M.2 2280 1TB SSD
+
+Answer with 'True' or 'False'.",False.,False,False,NONE,50%,80%
+190,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:04:10.657Z,2023-10-22T13:04:11.225Z,"Are the following two products the same?
+Product 1: Title: Seagate 2TB FireCuda 3.5"" SATA 6Gb/s SSHD
+Description: Seagate 2TB FireCuda 3.5"" SATA 6Gb/s SSHD
+Product 2: Title: Western Digital Blue SSD 1TB 2.5\"" 7mm SATA III 6GB/s 3D Nand Flash
+Description: WD Blue 3D NAND Internal SSD 2.5 Inch SATA - 1 TBUses 3D NAND technology not only for higher capacities (up to 2TB) than the previous generation WD Blue SSDs, but also to help reduce cell-to-cell interference for enhanced reliability.Offering improve
+
+Answer with 'True' or 'False'.",False.,False,False,NONE,40%,70%
+191,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:04:09.647Z,2023-10-22T13:04:10.654Z,"Are the following two products the same?
+Product 1: Title: iPhone 4 Replacement Battery - Fix Kit / Nuevo / Part Only / Nuevo
+Description: This iPhone 4 replacement battery is what you need to bring your dead iPhone 4 back to life!Install a new battery in six easy steps.Tested to confirm there are no cycles on the cell and the capacity is 95% or higher.100% factory tested with a custome
+Product 2: Title: Tp-Link Wireless N USB Adapter 300Mbps
+Description: none
+
+Answer with 'True' or 'False'.",False. The two products are not the same.,False,False,NONE,0%,"50% (since there is no description for Product 2, it is impossible to determine any similarity with Product 1. However, there is a 50% confidence that the two products are not the same based on the differences in their titles and the fact that Product 1 has a description while Product 2 does not.)"
+192,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:04:09.162Z,2023-10-22T13:04:09.646Z,"Are the following two products the same?
+Product 1: Title: Fujifilm Instax Mini Instant Film - Monochrome (10 Shots)
+Description: Monochrome (Black & White) Instant Film for Fujifilm Mini Instant Cameras10 Shots per PackISO 800High Gloss FinishSuperb Grain QualityFast Image FormationGreater Resistance to Age-Induced ChangesSingle-plastic Composition for Easier Disposal
+Product 2: Title: Fujifilm Instax Mini Rainbow (10 sheets) Film
+Description: Fujifilm instax mini film is for all instax mini cameras and comes in a handy cartridge. It offers stunning instant pictures that you can fit into a purse, wallet or mini photo frame. instax film ensures sharp, clear reproduction, vivid color and nat
+
+Answer with 'True' or 'False'.",False.,False,False,NONE,40%,70%
+193,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:04:08.669Z,2023-10-22T13:04:09.160Z,"Are the following two products the same?
+Product 1: Title: SanDisk Extreme PRO 300MBs UHSII Class 10 U3 SDHC Card 32GB
+Description: SanDisk Extreme PRO 300MBs UHS-II Class 10 U3 SDHC Card - 32GB has speeds of up to 300 MB/s, and write speeds of up to 260 MB/s
+Product 2: Title: SanDisk Extreme PRO SD UHS-II USB 3.0
+Description: none
+
+Answer with 'True' or 'False'.",False.,False,False,NONE,50%,40% 
+194,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:04:08.157Z,2023-10-22T13:04:08.667Z,"Are the following two products the same?
+Product 1: Title: Western Digital WD Blue SN550 1TB NVMe SSD
+Description: none
+Product 2: Title: WD Blue 250GB - [WDS250G1B0A] SSD
+Description: (Solid, -, 2.5\"", 250GB, Blue, Drive), SATA, SSD, State, WD, Western Digital, [WDS250G1B0A]
+
+Answer with 'True' or 'False'.",False.,False,False,NONE,50%,70%
+195,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:04:07.694Z,2023-10-22T13:04:08.155Z,"Are the following two products the same?
+Product 1: Title: 008 Traveler's Notebook Regular- Refill - Zipper Case
+Description: Take your TRAVELER'S Notebook beyond the normal use of a notebook. The ZipperCase transforms your TRAVELER'S Notebook into a convenient storage for pens, pencils, tickets receipts, keys, coins, and so much more. A thin pocket is included on the other
+Product 2: Title: 012 Traveler's Notebook Regular- Refill - Sketch Notebook
+Description: TheTRAVELER'S Notebook SketchRefillallows you to bring your sketching wherever you go. Each sketchbook refill has 48 stitch-bound pages of perforated paper, with a more substantial thickness that is suitable for fountain pen ink or light water media.
+
+Answer with 'True' or 'False'.",False.,False,False,NONE,20%,50%
+196,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:04:07.229Z,2023-10-22T13:04:07.692Z,"Are the following two products the same?
+Product 1: Title: Jabra Biz 2400 II Mono 3-in-1 Noise Canceling Mono Headset
+Description: Jabra Biz 2400 II Mono 3-in-1 Noise Canceling Mono Headset
+Product 2: Title: Jabra BIZ 2400 II Mono 3-in-1 Wideband
+Description: Jabra BIZ 2400 II Mono 3-in-1 Wideband from Headset Store. Next Day Delivery. Part Code:2486-820-209
+
+Answer with 'True' or 'False'.",True,True,False,FP,100%,100%
+197,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:04:06.459Z,2023-10-22T13:04:07.228Z,"Are the following two products the same?
+Product 1: Title: 008 Traveler's Notebook Regular- Refill - Zipper Case
+Description: Take your TRAVELER'S Notebook beyond the normal use of a notebook. The ZipperCase transforms your TRAVELER'S Notebook into a convenient storage for pens, pencils, tickets receipts, keys, coins, and so much more. A thin pocket is included on the other
+Product 2: Title: Traveler's Refills: MD Paper - 002 / grid
+Description: These notebooks aremade in Japan, where there is a rich tradition of elevating basic craft to perfected art form. MD Paper is no exception,meticulously engineered for the finest writing experience. There is no detail overlooked: the paper is made fro
+
+Answer with 'True' or 'False'.",False. The two products are different.,False,False,NONE,30%,80%
+198,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:04:05.939Z,2023-10-22T13:04:06.455Z,"Are the following two products the same?
+Product 1: Title: Western Digital Blue SSD 1TB 2.5\"" 7mm SATA III 6GB/s 3D Nand Flash
+Description: WD Blue 3D NAND Internal SSD 2.5 Inch SATA - 1 TBUses 3D NAND technology not only for higher capacities (up to 2TB) than the previous generation WD Blue SSDs, but also to help reduce cell-to-cell interference for enhanced reliability.Offering improve
+Product 2: Title: WD Blue 3D NAND 250GB Internal SSD - SATA III 6Gb/s M.2 2280 Solid State Drive - WDS250G2B0B
+Description: WD Blue 3D NAND 250GB Internal SSD - SATA III 6Gb/s M.2 2280 Solid State Drive - WDS250G2B0B
+
+Answer with 'True' or 'False'.",False.,False,False,NONE,90%,80%
+199,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:04:05.463Z,2023-10-22T13:04:05.938Z,"Are the following two products the same?
+Product 1: Title: Switch Hikvision DS-3E0318P-E 24-Port Fast Ethernet PoE + 2-Port Gigabit Combo
+Description: none
+Product 2: Title: 5 Port, Hikvision PoE Network Switch
+Description: Switch with 4 PoE ports + 1 x Uplink port 10/100Mbps RJ45 ports 58 watts total Max Extend On, up to 250m distance 2 Years Manufacturers Warranty
+
+Answer with 'True' or 'False'.",False.,False,False,NONE,40%,80%
+200,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:04:04.856Z,2023-10-22T13:04:05.461Z,"Are the following two products the same?
+Product 1: Title: Western Digital Blue SSD 1TB 2.5\"" 7mm SATA III 6GB/s 3D Nand Flash
+Description: WD Blue 3D NAND Internal SSD 2.5 Inch SATA - 1 TBUses 3D NAND technology not only for higher capacities (up to 2TB) than the previous generation WD Blue SSDs, but also to help reduce cell-to-cell interference for enhanced reliability.Offering improve
+Product 2: Title: Crucial BX500 120GB 2.5 SATA SSD
+Description: Crucial 120GB SSD, BX500, 2.5 SATAIII, Read up to 540MB/s, Write up to 500MB/s, 1.5M Hours MTTF, 40TBW
+
+Answer with 'True' or 'False'.",False.,False,False,NONE,50%,70%
+201,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:04:04.356Z,2023-10-22T13:04:04.854Z,"Are the following two products the same?
+Product 1: Title: Tp-Link Wireless N USB Adapter 300Mbps
+Description: none
+Product 2: Title: ADATT. WIFI TP-LINK AC600 NANO WRLS USB
+Description: none
+
+Answer with 'True' or 'False'.",False.,False,False,NONE,50%,70%
+202,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:04:03.794Z,2023-10-22T13:04:04.354Z,"Are the following two products the same?
+Product 1: Title: Brother Business Laser Printer Wireless Networking and Duplex Printer
+Description: ● Fast, high-quality printing.● USB 2.0 and Parallel interfaces.● Comprehensive application compatibility.● Flexible paper handlingFlexible paper handling.● Flexible paper handling.● Cost efficient output.● Automatic two-sided printing.● Outstanding 
+Product 2: Title: 5 Port, Hikvision PoE Network Switch
+Description: Switch with 4 PoE ports + 1 x Uplink port 10/100Mbps RJ45 ports 58 watts total Max Extend On, up to 250m distance 2 Years Manufacturers Warranty
+
+Answer with 'True' or 'False'.",False.,False,False,NONE,10%,50%
+203,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:04:03.323Z,2023-10-22T13:04:03.792Z,"Are the following two products the same?
+Product 1: Title: Jabra BIZ 2400 II Duo Wideband Corded Headset
+Description: Jabra BIZ 2400 II Duo Wideband Corded Headset from Headset Store. Next Day Delivery. Part Code:2489-820-209
+Product 2: Title: Jabra Biz 2400 II Mono 3-1, NC, 82 mic, Wideband, QD
+Description: none
+
+Answer with 'True' or 'False'.",False.,False,False,NONE,50%,70%
+204,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:04:02.857Z,2023-10-22T13:04:03.321Z,"Are the following two products the same?
+Product 1: Title: Adaptador WiFi N PCI Express 150 Mbps 20dBm, 802.11b/g/n Chipset Atheros, 1 Antena 2 dBi desmontable.
+Description: Adaptador WiFi N PCI Express 150 Mbps 20dBm, 802.11b/g/n Chipset Atheros, 1 Antena 2 dBi desmontable.
+Product 2: Title: ADATTATORE USB2.0 WIRELESS N 150M LAN 802.11BGN 1T1R 2.4GHZ-NANO SIZE-PROVIDE USB2.0 INTERF.-WPS-SUPP. XP/VISTA/7
+Description: none
+
+Answer with 'True' or 'False'.",False.,False,False,NONE,60%,80%
+205,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:04:02.299Z,2023-10-22T13:04:02.855Z,"Are the following two products the same?
+Product 1: Title: Switch Hikvision DS-3E0318P-E 24-Port Fast Ethernet PoE + 2-Port Gigabit Combo
+Description: none
+Product 2: Title: Hikvision 4 Port Unmanaged PoE Switch,1*100M Uplink [DS-3E0105P-E]
+Description: Key FeaturesLayer 2 unmanaged PoE switch4x 10/100Mbps Ethernet ports1x 100Mbps uplinkIEEE 802.3af or 802.3at PoE standard802.3af or 802.3at
+
+Answer with 'True' or 'False'.",False.,False,False,NONE,50%,70%
+206,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:04:01.845Z,2023-10-22T13:04:02.297Z,"Are the following two products the same?
+Product 1: Title: Fujifilm Instax Square Instant Film - 10 Exposures
+Description: INSTAX Square Instant Film contains 10 sheets of instant color film that is compatible for use with INSTAX SQUARE cameras. This film features vivid color reproduction with natural skin tones, and its refined grain structure provides high image sharpn
+Product 2: Title: 1 Fujifilm Instax Square Film Black Frame
+Description: none
+
+Answer with 'True' or 'False'.",False.,False,False,NONE,50%,70%
+207,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:04:01.269Z,2023-10-22T13:04:01.843Z,"Are the following two products the same?
+Product 1: Title: [Fujifilm]100 Sheet Fujifilm Instax Square Plain White Instant Polaroid Film for SQ 10 Camera | SP3 Printer
+Description: 100 sheet instax Square Film
+Product 2: Title: Fujifilm Instax Square Film for SQ10 Hybrid Cameras 20 Shot Pack
+Description: EXTRA VALUE 2x 10 Shot Packs (giving you 20 shots in total). FRESH UK STOCKS AND LONG DATED. Fujifilm Instax \""SQUARE\"" film is for use in only square format instant print cameras such as the new SQ10, SQ6 cameras...Note: Not for use in Fuji Instax \
+
+Answer with 'True' or 'False'.",True.,True,False,FP,80%,90%
+208,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:04:00.677Z,2023-10-22T13:04:01.268Z,"Are the following two products the same?
+Product 1: Title: Tissot Mens T-Classic Tradition Strap Watch T063.617.16.057.00
+Description: SS SW BLK DL CHRN
+Product 2: Title: Cle Usb Wifi Tp-Link N300 Tl-Wn821n
+Description: Cle Usb Wifi Tp-Link N300 Tl-Wn821n
+
+Answer with 'True' or 'False'.",False.,False,False,NONE,0%,50% 
+209,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:03:59.630Z,2023-10-22T13:04:00.675Z,"Are the following two products the same?
+Product 1: Title: TAG Heuer Formula 1 CAZ1010.FT8024
+Description: Find Authentic TAG Heuer Formula 1 CAZ1010.FT8024 with TAG Heuer Warranty at lowest prices. Fast & FREE Shipping. 14-day Return Policy. Tax Free & Worldwide Delivery. Lowest Prices on all watches and brands. (Model CAZ1010.FT8024)
+Product 2: Title: Kingston HyperX Fury Series CL10,
+Description: none
+
+Answer with 'True' or 'False'.",False. The second product does not have a description.,False,False,NONE,"I'm sorry, but I cannot provide a similarity and confidence score without comparing two items. Please provide me with two items to compare.","I'm sorry, but I cannot provide a similarity and confidence score without comparing two items. Please provide me with two items to compare."
+210,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:03:59.152Z,2023-10-22T13:03:59.629Z,"Are the following two products the same?
+Product 1: Title: Tp-Link Wireless N USB Adapter 300Mbps
+Description: none
+Product 2: Title: Kingston Canvas Select Plus MicroSD 100MBs Class 10 128GB
+Description: The Kingston Canvas Select Plus MicroSDXC Class 10 128GB with SD Adapter included has a Read Speed of 100MB/s and is compatible with Android devices
+
+Answer with 'True' or 'False'.",False.,False,False,NONE,0%,50%
+211,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:03:58.653Z,2023-10-22T13:03:59.151Z,"Are the following two products the same?
+Product 1: Title: Refill #014: Kraft Paper Notebook
+Description: Cardboard Paper notebook refill for the Traveler's Notebook.Various cuttings, stickers, photos, scribbles and more sophisticated drawings suit it well.Contains 64 pages and its dimensions (210 x 110 mm) make it suitable for the classic version, not f
+Product 2: Title: Brother TN-241M (prentar:1,400 síður) rautt dufthylki
+Description: Nánari lýsing frá framleiðanda:Barcode: 4977766718424Compatible Brand: BrotherCompatible Printer(s): HL-3140CW • HL-3150CDW • HL-3170CDW • DCP-9020CDW • MFC-9140CDN • MFC9330CDW • MFC9340CDWEC Commodity Code: 84439990Form Factor: CartridgeModel Name:
+
+Answer with 'True' or 'False'.",False.,False,False,NONE,0%,0% 
+212,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:03:58.018Z,2023-10-22T13:03:58.651Z,"Are the following two products the same?
+Product 1: Title: TP-Link TL-WN781ND Netcard PCI-eX Wireless 150 mb
+Description: none
+Product 2: Title: Adattatore USB Wireless TP-Link TL-WN725N 150Mbps 2.4GHz
+Description: none
+
+Answer with 'True' or 'False'.",False.,False,False,NONE,50%,70%
+213,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:03:57.506Z,2023-10-22T13:03:58.015Z,"Are the following two products the same?
+Product 1: Title: TN-200 sort lasertoner, original Brother TN200 (2200 sider)
+Description: Ny original Brother sort tonerpatron til Brother HL-720,Brother HL-730,Brother HL-760 ,Brother Fax-8000,Brother P8250,Brother MFC-9050,Brother MFC-9060,Brother MFC-9500.
+Product 2: Title: MINION DHR II 29 X 2.30 3C TERRA TR DD FOLD
+Description: Refined and redesigned; ready to shred any lineRamped and siped tread to roll fast and track straight under brakingSingle-ply, DoubleDown, and DH casings available3C MaxxTerra, 3C MaxxGrip, and Super Tacky available on select modelsWide trail (WT) ca
+
+Answer with 'True' or 'False'.",False.,False,False,NONE,0%,50%
+214,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:03:57.022Z,2023-10-22T13:03:57.505Z,"Are the following two products the same?
+Product 1: Title: SanDisk Extreme PRO SD UHS-II USB 3.0
+Description: none
+Product 2: Title: SanDisk Extreme Pro CFAST 2.0 VPG130 - 64GB
+Description: For those working in high-performance industries such as broadcasting, cinema, and photography, the 64GB Extreme PRO CFast 2.0 Memory Card from SanDisk combines the speed, capacity, and performance needed to record uninterrupted DCI 4K video, which h
+
+Answer with 'True' or 'False'.",False.,False,False,NONE,0%,50%
+215,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:03:56.537Z,2023-10-22T13:03:57.021Z,"Are the following two products the same?
+Product 1: Title: TAG Heuer Formula 1 Chronograph 43mm CAZ1010.FT8024
+Description: none
+Product 2: Title: Sony 30mm f/3.5 Macro Lens
+Description: Offers excellent optical sharpness and clarity as well as bokeh effect– whether you’re shooting portraits, street scenes or Full HD video .
+
+Answer with 'True' or 'False'.",False.,False,False,NONE,0%,0% 
+216,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:03:55.654Z,2023-10-22T13:03:56.530Z,"Are the following two products the same?
+Product 1: Title: Hikvision DVR 16 CH fino a 8Mpx Turbo 3.0 DS-7216HUHI-K2
+Description: Hikvision DVR 16 CH fino a 8Mpx Turbo 3.0 DS-7216HUHI-K2
+Product 2: Title: 1 Fujifilm Instax Square Film Black Frame
+Description: none
+
+Answer with 'True' or 'False'.",False,False,False,NONE,0%,50% 
+217,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:03:55.074Z,2023-10-22T13:03:55.653Z,"Are the following two products the same?
+Product 1: Title: Instax Fujifilm | Instax SQUARE Instant Film - Black Border (10 Exposures)
+Description: none
+Product 2: Title: [Fujifilm]100 Sheet Fujifilm Instax Square Plain White Instant Polaroid Film for SQ 10 Camera | SP3 Printer
+Description: 100 sheet instax Square Film
+
+Answer with 'True' or 'False'.",False.,False,False,NONE,50%,70%
+218,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:03:54.615Z,2023-10-22T13:03:55.071Z,"Are the following two products the same?
+Product 1: Title: Blackmagic Design ATEM Production Studio 4K Switcher
+Description: Blackmagic Design ATEM Production Studio 4K SwitchATEM Production Studio 4K lets you connect up to 8 SD, HD or Ultra HD 4K video cameras, disk recorders and computers to do true broadcast quality work. You get all the features you expect from a profe
+Product 2: Title: Western Digital Blue PC 2.5\"" 250 GB Serial ATA III
+Description: 250 GB, 2.5\"", SATA 6Gb/s, 540/500 MB/s
+
+Answer with 'True' or 'False'.",False.,False,False,NONE,10%,50%
+219,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:03:54.077Z,2023-10-22T13:03:54.614Z,"Are the following two products the same?
+Product 1: Title: Instax Mini Rainbow Film 10 Pack
+Description: Brighten the place up with this pack of rainbow coloured film! Top tip: one of these would look fab in our Instax Mini Acrylic Photo Block!Includes pack of 10 shots
+Product 2: Title: 1 Fujifilm Instax Square Film Black Frame
+Description: none
+
+Answer with 'True' or 'False'.",False.,False,False,NONE,25%,50%
+220,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:03:53.386Z,2023-10-22T13:03:54.071Z,"Are the following two products the same?
+Product 1: Title: DJI Mavic Mini Drone Fly More Combo
+Description: Mavic Mini, the everyday flycam. Open your sky with the compact, yet powerful Mavic Mini. Weighing under 250 grams, together with the DJI Fly APP, you'll enjoy a simplified flying experience that is almost as light as the average smartphone.
+Product 2: Title: Fujifilm Instax Mini Instant Film - Monochrome (10 Shots)
+Description: Monochrome (Black & White) Instant Film for Fujifilm Mini Instant Cameras10 Shots per PackISO 800High Gloss FinishSuperb Grain QualityFast Image FormationGreater Resistance to Age-Induced ChangesSingle-plastic Composition for Easier Disposal
+
+Answer with 'True' or 'False'.",False.,False,False,NONE,0%,0% 
