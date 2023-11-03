@@ -1,0 +1,801 @@
+Unnamed: 0,traceId,model,startTime,endTime,prompt,completion,eval,predicted_label,label,error,decision,similarity,confidence
+29,b41c8b64-772c-472d-bb44-c56218504d55,gpt-3.5-turbo-0301,2023-10-23T11:12:36.666Z,2023-10-23T11:12:39.138Z,"Q: Could you please tell me if the following two products are the same one?
+Product 1: 
+Title: Deore XT RD-M786-SGS - Shadow - rear derailleur
+Description: · compatible with 10-speed, long cage· Dyna-Sys technology· Shimano Shadow RD+ - When the switch is in the ""on"" position, it increases the rear derailleur spring tension and reduces chain movement for a quieter and more stable ride. The ""off"" pos
+Product 2: 
+Title: Switch Netgear - ProSafe Switch PLUS 8porte Gigabit
+Description: ProSafe Switch Plus Giga a 8 porte 10\/100\/1000Mbps -Management semplificato tramite utility...
+A: These products are not the same because they are from a different brand and are used for different use cases.
+Q: Could you please tell me if the following two products are the same one?
+Product 1: 
+Title: Daniel Wellington Classic St Mawes 40mm
+Description: The Classic St. Mawes, an integral part of the flagship Classic Collection, is a slim timepiece that sits perfectly on your wrist. With a flawlessly round and simple dial, a classy leather band and an elegant casing, you have a timepiece that proves 
+Product 2: 
+Title: St Mawes 40mm Rose Gold Watch - Multi
+Description: An integral part of the flagship classic Daniel Wellington collection, featuring a classy brown leather band a stunning rose gold case, perfectly engineered with a flawlessly round and simple dial.This watch sits perfectly on your wrist and has the a
+A: These two products refer to the same real life product because they are the same Model from the same brand and have the same size.
+Q: Could you please tell me if the following two products are the same one?
+Product 1: 
+Title: new wilson jones c17abl colorlife expanding a z indexed files 21 pockets letter dark blue wljc17abl
+Description: open top design for easy access and preprinted index for improved organization 3 4 mylar reinforced gussets premium moisture resistant acrylic coated material expandable file folder type open top file indexed width n a height n a material s n a a z i
+Product 2: 
+Title: wilson jones basic vinyl round ring binder w label holder
+Description: wilson jones basic vinyl round ring binder w label holder basic round ring binder with open and close triggers and two inside pockets open and close triggers for easy access to your documents two inside pockets for additional storage
+A:
+","These products are not the same one because they are from different categories and have different features. Product 1 is an expanding file folder with indexed tabs, while Product 2 is a basic vinyl binder with round rings and label holder.",No match.,False,False,NONE,,,
+34,b41c8b64-772c-472d-bb44-c56218504d55,gpt-3.5-turbo-0301,2023-10-23T11:12:22.004Z,2023-10-23T11:12:25.006Z,"Q: Could you please tell me if the following two products are the same one?
+Product 1: 
+Title: Deore XT RD-M786-SGS - Shadow - rear derailleur
+Description: · compatible with 10-speed, long cage· Dyna-Sys technology· Shimano Shadow RD+ - When the switch is in the ""on"" position, it increases the rear derailleur spring tension and reduces chain movement for a quieter and more stable ride. The ""off"" pos
+Product 2: 
+Title: Switch Netgear - ProSafe Switch PLUS 8porte Gigabit
+Description: ProSafe Switch Plus Giga a 8 porte 10\/100\/1000Mbps -Management semplificato tramite utility...
+A: These products are not the same because they are from a different brand and are used for different use cases.
+Q: Could you please tell me if the following two products are the same one?
+Product 1: 
+Title: Daniel Wellington Classic St Mawes 40mm
+Description: The Classic St. Mawes, an integral part of the flagship Classic Collection, is a slim timepiece that sits perfectly on your wrist. With a flawlessly round and simple dial, a classy leather band and an elegant casing, you have a timepiece that proves 
+Product 2: 
+Title: St Mawes 40mm Rose Gold Watch - Multi
+Description: An integral part of the flagship classic Daniel Wellington collection, featuring a classy brown leather band a stunning rose gold case, perfectly engineered with a flawlessly round and simple dial.This watch sits perfectly on your wrist and has the a
+A: These two products refer to the same real life product because they are the same Model from the same brand and have the same size.
+Q: Could you please tell me if the following two products are the same one?
+Product 1: 
+Title: new wilson jones 21400 super heavy weight sheet protector clear 50 box wlj21400
+Description: when you need ultimate protection for presentations use this sheet protector keeps important documents or overhead slide presentations safe acid free and archival safe so print won t stick pvc free load orientation top sheet capacity n a sheet protec
+Product 2: 
+Title: wilson jones super heavy weight sheet protector
+Description: wilson jones super heavy weight sheet protector sheet protector keeps documents or overhead slide presentations safe acid free archival safe pvc free
+A:
+","These two products are similar but not exactly the same. They are both Wilson Jones super heavy weight sheet protectors, but Product 1 provides more specific details such as the model number, box quantity, load orientation, and sheet capacity. Product 2 is more general and does not provide as much information.",match,True,False,FP,,,
+62,b41c8b64-772c-472d-bb44-c56218504d55,gpt-3.5-turbo-0301,2023-10-23T11:11:04.296Z,2023-10-23T11:11:05.441Z,"Q: Could you please tell me if the following two products are the same one?
+Product 1: 
+Title: Deore XT RD-M786-SGS - Shadow - rear derailleur
+Description: · compatible with 10-speed, long cage· Dyna-Sys technology· Shimano Shadow RD+ - When the switch is in the ""on"" position, it increases the rear derailleur spring tension and reduces chain movement for a quieter and more stable ride. The ""off"" pos
+Product 2: 
+Title: Switch Netgear - ProSafe Switch PLUS 8porte Gigabit
+Description: ProSafe Switch Plus Giga a 8 porte 10\/100\/1000Mbps -Management semplificato tramite utility...
+A: These products are not the same because they are from a different brand and are used for different use cases.
+Q: Could you please tell me if the following two products are the same one?
+Product 1: 
+Title: Daniel Wellington Classic St Mawes 40mm
+Description: The Classic St. Mawes, an integral part of the flagship Classic Collection, is a slim timepiece that sits perfectly on your wrist. With a flawlessly round and simple dial, a classy leather band and an elegant casing, you have a timepiece that proves 
+Product 2: 
+Title: St Mawes 40mm Rose Gold Watch - Multi
+Description: An integral part of the flagship classic Daniel Wellington collection, featuring a classy brown leather band a stunning rose gold case, perfectly engineered with a flawlessly round and simple dial.This watch sits perfectly on your wrist and has the a
+A: These two products refer to the same real life product because they are the same Model from the same brand and have the same size.
+Q: Could you please tell me if the following two products are the same one?
+Product 1: 
+Title: cobra digital hdvc6000 solar 12 mp digital camera with 4 x optical zoom black
+Description: cobra digital hdvc6000 solar 12 0 megapixel hdvc6000 solar digital camera with solar panels
+Product 2: 
+Title: cobra 4 pin microphone with noise canceling feature
+Description: 9 high flex cord heavy duty drop proof abs shell metal mesh grille left side ptt button
+A:
+",These products are not the same because they are from a different category and have different features.,no match,False,False,NONE,,,
+72,b41c8b64-772c-472d-bb44-c56218504d55,gpt-3.5-turbo-0301,2023-10-23T11:10:33.486Z,2023-10-23T11:10:35.442Z,"Q: Could you please tell me if the following two products are the same one?
+Product 1: 
+Title: Deore XT RD-M786-SGS - Shadow - rear derailleur
+Description: · compatible with 10-speed, long cage· Dyna-Sys technology· Shimano Shadow RD+ - When the switch is in the ""on"" position, it increases the rear derailleur spring tension and reduces chain movement for a quieter and more stable ride. The ""off"" pos
+Product 2: 
+Title: Switch Netgear - ProSafe Switch PLUS 8porte Gigabit
+Description: ProSafe Switch Plus Giga a 8 porte 10\/100\/1000Mbps -Management semplificato tramite utility...
+A: These products are not the same because they are from a different brand and are used for different use cases.
+Q: Could you please tell me if the following two products are the same one?
+Product 1: 
+Title: Daniel Wellington Classic St Mawes 40mm
+Description: The Classic St. Mawes, an integral part of the flagship Classic Collection, is a slim timepiece that sits perfectly on your wrist. With a flawlessly round and simple dial, a classy leather band and an elegant casing, you have a timepiece that proves 
+Product 2: 
+Title: St Mawes 40mm Rose Gold Watch - Multi
+Description: An integral part of the flagship classic Daniel Wellington collection, featuring a classy brown leather band a stunning rose gold case, perfectly engineered with a flawlessly round and simple dial.This watch sits perfectly on your wrist and has the a
+A: These two products refer to the same real life product because they are the same Model from the same brand and have the same size.
+Q: Could you please tell me if the following two products are the same one?
+Product 1: 
+Title: cobra 15 band digital radar laser detector
+Description: key features 15 band detection radar detector is undetectable lasereye provides 360 degree detection provides advance warning of emergency vehicles city highway modes easyset programming menu
+Product 2: 
+Title: cobra coiled power cord for cobra radar detectors
+Description: the cobra coiled cord fits all current and past cobra models coiled cord for cobra esd7000 pro7080 xrs 9300 xrs 9330 xrs 9340 xrs 9345 xrs 9400 xrs 9430 xrs 9440 xrs 9445 xrs 9500 xrs 9530 xrs 9540 xrs 9545 xrs 9600 xrs 9630 xrs 9640 xrs 9645 xrs 970
+A:
+","These two products are not the same because they are different products with different functions. The first product is a radar detector, while the second product is a power cord for a radar detector.",Match.,True,False,FP,,,
+80,b41c8b64-772c-472d-bb44-c56218504d55,gpt-3.5-turbo-0301,2023-10-23T11:10:08.476Z,2023-10-23T11:10:09.735Z,"Q: Could you please tell me if the following two products are the same one?
+Product 1: 
+Title: Deore XT RD-M786-SGS - Shadow - rear derailleur
+Description: · compatible with 10-speed, long cage· Dyna-Sys technology· Shimano Shadow RD+ - When the switch is in the ""on"" position, it increases the rear derailleur spring tension and reduces chain movement for a quieter and more stable ride. The ""off"" pos
+Product 2: 
+Title: Switch Netgear - ProSafe Switch PLUS 8porte Gigabit
+Description: ProSafe Switch Plus Giga a 8 porte 10\/100\/1000Mbps -Management semplificato tramite utility...
+A: These products are not the same because they are from a different brand and are used for different use cases.
+Q: Could you please tell me if the following two products are the same one?
+Product 1: 
+Title: Daniel Wellington Classic St Mawes 40mm
+Description: The Classic St. Mawes, an integral part of the flagship Classic Collection, is a slim timepiece that sits perfectly on your wrist. With a flawlessly round and simple dial, a classy leather band and an elegant casing, you have a timepiece that proves 
+Product 2: 
+Title: St Mawes 40mm Rose Gold Watch - Multi
+Description: An integral part of the flagship classic Daniel Wellington collection, featuring a classy brown leather band a stunning rose gold case, perfectly engineered with a flawlessly round and simple dial.This watch sits perfectly on your wrist and has the a
+A: These two products refer to the same real life product because they are the same Model from the same brand and have the same size.
+Q: Could you please tell me if the following two products are the same one?
+Product 1: 
+Title: lenovo thinkpad x60 tablet digitizer pen tether 3pk
+Description: lenovo thinkpad x60 tablet digitizer pen tether 3pk secures digitizer pens to x200 and x60 series tablet laptops prevents accidental loss of digitizer pen handy 3 pack set
+Product 2: 
+Title: lenovo memory 2 gb dimm 240 pin ddr2 800 mhz pc2 6400 unbuffered non ecc
+Description: 2gb 800mhz ddr2 800 pc2 6400 ddr2 sdram 240 pin dimm
+A:
+",These products are not the same because they are completely different products with different titles and descriptions.,no match,False,False,NONE,,,
+92,b41c8b64-772c-472d-bb44-c56218504d55,gpt-3.5-turbo-0301,2023-10-23T11:09:31.313Z,2023-10-23T11:09:33.281Z,"Q: Could you please tell me if the following two products are the same one?
+Product 1: 
+Title: Deore XT RD-M786-SGS - Shadow - rear derailleur
+Description: · compatible with 10-speed, long cage· Dyna-Sys technology· Shimano Shadow RD+ - When the switch is in the ""on"" position, it increases the rear derailleur spring tension and reduces chain movement for a quieter and more stable ride. The ""off"" pos
+Product 2: 
+Title: Switch Netgear - ProSafe Switch PLUS 8porte Gigabit
+Description: ProSafe Switch Plus Giga a 8 porte 10\/100\/1000Mbps -Management semplificato tramite utility...
+A: These products are not the same because they are from a different brand and are used for different use cases.
+Q: Could you please tell me if the following two products are the same one?
+Product 1: 
+Title: Daniel Wellington Classic St Mawes 40mm
+Description: The Classic St. Mawes, an integral part of the flagship Classic Collection, is a slim timepiece that sits perfectly on your wrist. With a flawlessly round and simple dial, a classy leather band and an elegant casing, you have a timepiece that proves 
+Product 2: 
+Title: St Mawes 40mm Rose Gold Watch - Multi
+Description: An integral part of the flagship classic Daniel Wellington collection, featuring a classy brown leather band a stunning rose gold case, perfectly engineered with a flawlessly round and simple dial.This watch sits perfectly on your wrist and has the a
+A: These two products refer to the same real life product because they are the same Model from the same brand and have the same size.
+Q: Could you please tell me if the following two products are the same one?
+Product 1: 
+Title: thinkpad mini dock series 3 433710u
+Description: pthe thinkpad mini dock series 3 is ideal for notebook users who need easy access to the internet lan multiple usb devices audio and video equipment and robust key lock security left corner alignment for easy system attachment p note compatible with 
+Product 2: 
+Title: lenovo matte black 15 6 thinkpad edge e520 laptop pc with intel i3 2310 processor and windows 7 professional
+Description: lenovo 15 6 hd color led backlit display intel hd graphics 3000 additional features 720p hd webcam 4 in 1 memory card reader 3 x usb 2 0 ports 1 x usb 2 0 esata combo port 1 x rj 45 ethernet port 1 x vga port 6 cell lithium ion battery up to 4 2 h ba
+A:
+","These two products are not the same one. The first product is a docking station for a ThinkPad laptop, while the second product is a Lenovo laptop with different specifications.",No match.,False,False,NONE,,,
+95,b41c8b64-772c-472d-bb44-c56218504d55,gpt-3.5-turbo-0301,2023-10-23T11:09:21.452Z,2023-10-23T11:09:23.447Z,"Q: Could you please tell me if the following two products are the same one?
+Product 1: 
+Title: Deore XT RD-M786-SGS - Shadow - rear derailleur
+Description: · compatible with 10-speed, long cage· Dyna-Sys technology· Shimano Shadow RD+ - When the switch is in the ""on"" position, it increases the rear derailleur spring tension and reduces chain movement for a quieter and more stable ride. The ""off"" pos
+Product 2: 
+Title: Switch Netgear - ProSafe Switch PLUS 8porte Gigabit
+Description: ProSafe Switch Plus Giga a 8 porte 10\/100\/1000Mbps -Management semplificato tramite utility...
+A: These products are not the same because they are from a different brand and are used for different use cases.
+Q: Could you please tell me if the following two products are the same one?
+Product 1: 
+Title: Daniel Wellington Classic St Mawes 40mm
+Description: The Classic St. Mawes, an integral part of the flagship Classic Collection, is a slim timepiece that sits perfectly on your wrist. With a flawlessly round and simple dial, a classy leather band and an elegant casing, you have a timepiece that proves 
+Product 2: 
+Title: St Mawes 40mm Rose Gold Watch - Multi
+Description: An integral part of the flagship classic Daniel Wellington collection, featuring a classy brown leather band a stunning rose gold case, perfectly engineered with a flawlessly round and simple dial.This watch sits perfectly on your wrist and has the a
+A: These two products refer to the same real life product because they are the same Model from the same brand and have the same size.
+Q: Could you please tell me if the following two products are the same one?
+Product 1: 
+Title: lenovo 65w ultraport ac adapter
+Description: lenovo 65 watt universal ac adapter for notebooks 40y7696 camera power adapters
+Product 2: 
+Title: lenovo 2gb ddr3 1333mhz sodimm sdram notebook memory module
+Description: lenovo 2gb ddr3 1333mhz sodimm sdram notebook memory module lower power consumption higher bandwidth and increased performance when compared to ddr2 memory higher bandwidth made possible by 8 bit pre fetch buffer error correcting code ecc offers prot
+A:
+",These two products are not the same because they are completely different products with different functions and specifications. One is an AC adapter for notebooks while the other is a memory module for a computer.,No match.,False,False,NONE,,,
+146,b41c8b64-772c-472d-bb44-c56218504d55,gpt-3.5-turbo-0301,2023-10-23T11:07:00.448Z,2023-10-23T11:07:01.505Z,"Q: Could you please tell me if the following two products are the same one?
+Product 1: 
+Title: Deore XT RD-M786-SGS - Shadow - rear derailleur
+Description: · compatible with 10-speed, long cage· Dyna-Sys technology· Shimano Shadow RD+ - When the switch is in the ""on"" position, it increases the rear derailleur spring tension and reduces chain movement for a quieter and more stable ride. The ""off"" pos
+Product 2: 
+Title: Switch Netgear - ProSafe Switch PLUS 8porte Gigabit
+Description: ProSafe Switch Plus Giga a 8 porte 10\/100\/1000Mbps -Management semplificato tramite utility...
+A: These products are not the same because they are from a different brand and are used for different use cases.
+Q: Could you please tell me if the following two products are the same one?
+Product 1: 
+Title: Daniel Wellington Classic St Mawes 40mm
+Description: The Classic St. Mawes, an integral part of the flagship Classic Collection, is a slim timepiece that sits perfectly on your wrist. With a flawlessly round and simple dial, a classy leather band and an elegant casing, you have a timepiece that proves 
+Product 2: 
+Title: St Mawes 40mm Rose Gold Watch - Multi
+Description: An integral part of the flagship classic Daniel Wellington collection, featuring a classy brown leather band a stunning rose gold case, perfectly engineered with a flawlessly round and simple dial.This watch sits perfectly on your wrist and has the a
+A: These two products refer to the same real life product because they are the same Model from the same brand and have the same size.
+Q: Could you please tell me if the following two products are the same one?
+Product 1: 
+Title: ds1da2 mounting arm
+Description: v7 ds1da2 mounting arm ds1da2 tv amp display mounts amp adapters
+Product 2: 
+Title: 15 rg6 video cable white
+Description: 15 rg6 video cable for f type jacks 15 long color white
+A:
+",These products are not the same because they are completely different products with different titles and descriptions.,no match,False,False,NONE,,,
+172,b41c8b64-772c-472d-bb44-c56218504d55,gpt-3.5-turbo-0301,2023-10-23T11:05:42.521Z,2023-10-23T11:05:43.797Z,"Q: Could you please tell me if the following two products are the same one?
+Product 1: 
+Title: Deore XT RD-M786-SGS - Shadow - rear derailleur
+Description: · compatible with 10-speed, long cage· Dyna-Sys technology· Shimano Shadow RD+ - When the switch is in the ""on"" position, it increases the rear derailleur spring tension and reduces chain movement for a quieter and more stable ride. The ""off"" pos
+Product 2: 
+Title: Switch Netgear - ProSafe Switch PLUS 8porte Gigabit
+Description: ProSafe Switch Plus Giga a 8 porte 10\/100\/1000Mbps -Management semplificato tramite utility...
+A: These products are not the same because they are from a different brand and are used for different use cases.
+Q: Could you please tell me if the following two products are the same one?
+Product 1: 
+Title: Daniel Wellington Classic St Mawes 40mm
+Description: The Classic St. Mawes, an integral part of the flagship Classic Collection, is a slim timepiece that sits perfectly on your wrist. With a flawlessly round and simple dial, a classy leather band and an elegant casing, you have a timepiece that proves 
+Product 2: 
+Title: St Mawes 40mm Rose Gold Watch - Multi
+Description: An integral part of the flagship classic Daniel Wellington collection, featuring a classy brown leather band a stunning rose gold case, perfectly engineered with a flawlessly round and simple dial.This watch sits perfectly on your wrist and has the a
+A: These two products refer to the same real life product because they are the same Model from the same brand and have the same size.
+Q: Could you please tell me if the following two products are the same one?
+Product 1: 
+Title: accell ultrarun usb 3 0 type a to b superspeed long length cable
+Description: usb 3 0 superspeed cable type a b 6 meters length the ultrarun superspeed usb 3 0 cables by accell feature a built in amplifier that enables the data to travel at superspeed signaling rates over a 6m cable the ultrarun active cables require no extern
+Product 2: 
+Title: accell proultra 4m hdmi ethernet cable
+Description: accell proultra 4m hdmi ethernet cable high speed up to 10 2gbps integrated hdmi ethernet and audio return channels supports 3d and 4k video supports deep color and x v color cable length 4m
+A:
+",These products are not the same because they are from a different product category and have different specifications and features.,no match,False,False,NONE,,,
+191,b41c8b64-772c-472d-bb44-c56218504d55,gpt-3.5-turbo-0301,2023-10-23T11:04:43.811Z,2023-10-23T11:04:46.558Z,"Q: Could you please tell me if the following two products are the same one?
+Product 1: 
+Title: Deore XT RD-M786-SGS - Shadow - rear derailleur
+Description: · compatible with 10-speed, long cage· Dyna-Sys technology· Shimano Shadow RD+ - When the switch is in the ""on"" position, it increases the rear derailleur spring tension and reduces chain movement for a quieter and more stable ride. The ""off"" pos
+Product 2: 
+Title: Switch Netgear - ProSafe Switch PLUS 8porte Gigabit
+Description: ProSafe Switch Plus Giga a 8 porte 10\/100\/1000Mbps -Management semplificato tramite utility...
+A: These products are not the same because they are from a different brand and are used for different use cases.
+Q: Could you please tell me if the following two products are the same one?
+Product 1: 
+Title: Daniel Wellington Classic St Mawes 40mm
+Description: The Classic St. Mawes, an integral part of the flagship Classic Collection, is a slim timepiece that sits perfectly on your wrist. With a flawlessly round and simple dial, a classy leather band and an elegant casing, you have a timepiece that proves 
+Product 2: 
+Title: St Mawes 40mm Rose Gold Watch - Multi
+Description: An integral part of the flagship classic Daniel Wellington collection, featuring a classy brown leather band a stunning rose gold case, perfectly engineered with a flawlessly round and simple dial.This watch sits perfectly on your wrist and has the a
+A: These two products refer to the same real life product because they are the same Model from the same brand and have the same size.
+Q: Could you please tell me if the following two products are the same one?
+Product 1: 
+Title: 15 amp power strip medium 10 outlet
+Description: pd 1015c ns protection circuit breaker don t wait for your power strip to be configured that s why middle atlantic has developed a comprehensive line of 16 vertical power strips in three different sizes all available and ready to ship from stock and 
+Product 2: 
+Title: middle atlantic 30 amp stand alone mpr module
+Description: df217630 amp stand alone mpr module accepts nema l 520 20 amp twistlock plugs remote 12v dc dry closure local switch control w status led 
+A:
+","These products are not the same because they have different titles, descriptions, and specifications. One is a power strip with 10 outlets and a protection circuit breaker, while the other is a stand-alone module that accepts specific types of plugs and has remote and local control options.",No match.,False,False,NONE,,,
+238,b41c8b64-772c-472d-bb44-c56218504d55,gpt-3.5-turbo-0301,2023-10-23T10:02:01.526Z,2023-10-23T10:02:02.674Z,"Q: Could you please tell me if the following two products are the same one?
+Product 1: 
+Title: Deore XT RD-M786-SGS - Shadow - rear derailleur
+Description: · compatible with 10-speed, long cage· Dyna-Sys technology· Shimano Shadow RD+ - When the switch is in the ""on"" position, it increases the rear derailleur spring tension and reduces chain movement for a quieter and more stable ride. The ""off"" pos
+Product 2: 
+Title: Switch Netgear - ProSafe Switch PLUS 8porte Gigabit
+Description: ProSafe Switch Plus Giga a 8 porte 10\/100\/1000Mbps -Management semplificato tramite utility...
+A: These products are not the same because they are from a different brand and are used for different use cases.
+Q: Could you please tell me if the following two products are the same one?
+Product 1: 
+Title: Daniel Wellington Classic St Mawes 40mm
+Description: The Classic St. Mawes, an integral part of the flagship Classic Collection, is a slim timepiece that sits perfectly on your wrist. With a flawlessly round and simple dial, a classy leather band and an elegant casing, you have a timepiece that proves 
+Product 2: 
+Title: St Mawes 40mm Rose Gold Watch - Multi
+Description: An integral part of the flagship classic Daniel Wellington collection, featuring a classy brown leather band a stunning rose gold case, perfectly engineered with a flawlessly round and simple dial.This watch sits perfectly on your wrist and has the a
+A: These two products refer to the same real life product because they are the same Model from the same brand and have the same size.
+Q: Could you please tell me if the following two products are the same one?
+Product 1: 
+Title: zax pro series subwoofer cable 4m
+Description: zax pro series subwoofer cable 4m delivers bass output from a v receivers to high performance subwoofers improves low frequencies and deep bass response dual shielding 8 cut 24k gold plated connectors split tip center pin conductor die cast metal con
+Product 2: 
+Title: zax 85525 select series 2 rca plugs to rca jack y adapter
+Description: combines or separates stereo audio signals adapts 2 rca plugs to 1 rca jack delivers interference free clear audio dual shielding reduces distortion amp interference 4 cut 24k gold plated connectors durable molded connectors for lasting connection in
+A:
+",These products are not the same because they are different types of cables with different purposes and specifications.,no match,False,False,NONE,,,
+292,b41c8b64-772c-472d-bb44-c56218504d55,gpt-3.5-turbo-0301,2023-10-23T09:59:39.660Z,2023-10-23T09:59:40.860Z,"Q: Could you please tell me if the following two products are the same one?
+Product 1: 
+Title: Deore XT RD-M786-SGS - Shadow - rear derailleur
+Description: · compatible with 10-speed, long cage· Dyna-Sys technology· Shimano Shadow RD+ - When the switch is in the ""on"" position, it increases the rear derailleur spring tension and reduces chain movement for a quieter and more stable ride. The ""off"" pos
+Product 2: 
+Title: Switch Netgear - ProSafe Switch PLUS 8porte Gigabit
+Description: ProSafe Switch Plus Giga a 8 porte 10\/100\/1000Mbps -Management semplificato tramite utility...
+A: These products are not the same because they are from a different brand and are used for different use cases.
+Q: Could you please tell me if the following two products are the same one?
+Product 1: 
+Title: Daniel Wellington Classic St Mawes 40mm
+Description: The Classic St. Mawes, an integral part of the flagship Classic Collection, is a slim timepiece that sits perfectly on your wrist. With a flawlessly round and simple dial, a classy leather band and an elegant casing, you have a timepiece that proves 
+Product 2: 
+Title: St Mawes 40mm Rose Gold Watch - Multi
+Description: An integral part of the flagship classic Daniel Wellington collection, featuring a classy brown leather band a stunning rose gold case, perfectly engineered with a flawlessly round and simple dial.This watch sits perfectly on your wrist and has the a
+A: These two products refer to the same real life product because they are the same Model from the same brand and have the same size.
+Q: Could you please tell me if the following two products are the same one?
+Product 1: 
+Title: ge 87709 high speed hdmi cable with ethernet and swivel connector 12 feet
+Description: ge 87709 high speed hdmi cable with ethernet amp swivel connector 12 ft
+Product 2: 
+Title: ge 3 way rocker switch
+Description: ge 3 way rocker switch single pole color ivory made in china 1 year warranty model 18234
+A:
+",These products are not the same because they are from a different category and have different titles and descriptions.,no match,False,False,NONE,,,
+296,b41c8b64-772c-472d-bb44-c56218504d55,gpt-3.5-turbo-0301,2023-10-23T09:59:29.578Z,2023-10-23T09:59:30.712Z,"Q: Could you please tell me if the following two products are the same one?
+Product 1: 
+Title: Deore XT RD-M786-SGS - Shadow - rear derailleur
+Description: · compatible with 10-speed, long cage· Dyna-Sys technology· Shimano Shadow RD+ - When the switch is in the ""on"" position, it increases the rear derailleur spring tension and reduces chain movement for a quieter and more stable ride. The ""off"" pos
+Product 2: 
+Title: Switch Netgear - ProSafe Switch PLUS 8porte Gigabit
+Description: ProSafe Switch Plus Giga a 8 porte 10\/100\/1000Mbps -Management semplificato tramite utility...
+A: These products are not the same because they are from a different brand and are used for different use cases.
+Q: Could you please tell me if the following two products are the same one?
+Product 1: 
+Title: Daniel Wellington Classic St Mawes 40mm
+Description: The Classic St. Mawes, an integral part of the flagship Classic Collection, is a slim timepiece that sits perfectly on your wrist. With a flawlessly round and simple dial, a classy leather band and an elegant casing, you have a timepiece that proves 
+Product 2: 
+Title: St Mawes 40mm Rose Gold Watch - Multi
+Description: An integral part of the flagship classic Daniel Wellington collection, featuring a classy brown leather band a stunning rose gold case, perfectly engineered with a flawlessly round and simple dial.This watch sits perfectly on your wrist and has the a
+A: These two products refer to the same real life product because they are the same Model from the same brand and have the same size.
+Q: Could you please tell me if the following two products are the same one?
+Product 1: 
+Title: middle atlantic fc 4 1c system fan speed controller
+Description: proportional speed thermostatic fan control controls up to 4 fans stand alone with 9 cord
+Product 2: 
+Title: middle atlantic cable management straps
+Description: df2976fasten cable bundles securely while maintaining the integrity of the cable tw12 cable management straps are perfect for managing cables that are sensitive to strain and are 8 long 12 pieces 
+A:
+",These products are not the same because they are from a different category and have different functions.,no match,False,False,NONE,,,
+299,b41c8b64-772c-472d-bb44-c56218504d55,gpt-3.5-turbo-0301,2023-10-23T09:59:20.878Z,2023-10-23T09:59:22.020Z,"Q: Could you please tell me if the following two products are the same one?
+Product 1: 
+Title: Deore XT RD-M786-SGS - Shadow - rear derailleur
+Description: · compatible with 10-speed, long cage· Dyna-Sys technology· Shimano Shadow RD+ - When the switch is in the ""on"" position, it increases the rear derailleur spring tension and reduces chain movement for a quieter and more stable ride. The ""off"" pos
+Product 2: 
+Title: Switch Netgear - ProSafe Switch PLUS 8porte Gigabit
+Description: ProSafe Switch Plus Giga a 8 porte 10\/100\/1000Mbps -Management semplificato tramite utility...
+A: These products are not the same because they are from a different brand and are used for different use cases.
+Q: Could you please tell me if the following two products are the same one?
+Product 1: 
+Title: Daniel Wellington Classic St Mawes 40mm
+Description: The Classic St. Mawes, an integral part of the flagship Classic Collection, is a slim timepiece that sits perfectly on your wrist. With a flawlessly round and simple dial, a classy leather band and an elegant casing, you have a timepiece that proves 
+Product 2: 
+Title: St Mawes 40mm Rose Gold Watch - Multi
+Description: An integral part of the flagship classic Daniel Wellington collection, featuring a classy brown leather band a stunning rose gold case, perfectly engineered with a flawlessly round and simple dial.This watch sits perfectly on your wrist and has the a
+A: These two products refer to the same real life product because they are the same Model from the same brand and have the same size.
+Q: Could you please tell me if the following two products are the same one?
+Product 1: 
+Title: middle atlantic fc 4 1c system fan speed controller
+Description: proportional speed thermostatic fan control controls up to 4 fans stand alone with 9 cord
+Product 2: 
+Title: middle atlantic 12 master slave jumper for mpr series modules sold in packs of 6
+Description: df1784allows m series slave modules to be switched remotely by an rlm series master module features 12 jumper length sold in packs of 6
+A:
+",These products are not the same because they are from a different category and have different functions.,no match,False,False,NONE,,,
+320,b41c8b64-772c-472d-bb44-c56218504d55,gpt-3.5-turbo-0301,2023-10-23T09:58:27.842Z,2023-10-23T09:58:28.972Z,"Q: Could you please tell me if the following two products are the same one?
+Product 1: 
+Title: Deore XT RD-M786-SGS - Shadow - rear derailleur
+Description: · compatible with 10-speed, long cage· Dyna-Sys technology· Shimano Shadow RD+ - When the switch is in the ""on"" position, it increases the rear derailleur spring tension and reduces chain movement for a quieter and more stable ride. The ""off"" pos
+Product 2: 
+Title: Switch Netgear - ProSafe Switch PLUS 8porte Gigabit
+Description: ProSafe Switch Plus Giga a 8 porte 10\/100\/1000Mbps -Management semplificato tramite utility...
+A: These products are not the same because they are from a different brand and are used for different use cases.
+Q: Could you please tell me if the following two products are the same one?
+Product 1: 
+Title: Daniel Wellington Classic St Mawes 40mm
+Description: The Classic St. Mawes, an integral part of the flagship Classic Collection, is a slim timepiece that sits perfectly on your wrist. With a flawlessly round and simple dial, a classy leather band and an elegant casing, you have a timepiece that proves 
+Product 2: 
+Title: St Mawes 40mm Rose Gold Watch - Multi
+Description: An integral part of the flagship classic Daniel Wellington collection, featuring a classy brown leather band a stunning rose gold case, perfectly engineered with a flawlessly round and simple dial.This watch sits perfectly on your wrist and has the a
+A: These two products refer to the same real life product because they are the same Model from the same brand and have the same size.
+Q: Could you please tell me if the following two products are the same one?
+Product 1: 
+Title: cables to go 30504 usb 2 0 to ide or serial ata drive adapter black
+Description: externally connect one 2 5in 3 5in or 5 25in ide atapi or sata drive to your computer via usb 2 0
+Product 2: 
+Title: cables to go 12 cmg rated hd15 sxga m m monitor projector cable with rounded low profile connectors
+Description: cables to go 12 cmg rated hd15 sxga m m monitor projector cable provides easier in wall installation where cmg rating is required rounded low profile connectors saves valuable space in the gang box rounded shape accommodates smaller monitor mounts su
+A:
+",These products are not the same because they are from a different category and have different descriptions and specifications.,no match,False,False,NONE,,,
+354,b41c8b64-772c-472d-bb44-c56218504d55,gpt-3.5-turbo-0301,2023-10-23T09:56:54.892Z,2023-10-23T09:56:55.993Z,"Q: Could you please tell me if the following two products are the same one?
+Product 1: 
+Title: Deore XT RD-M786-SGS - Shadow - rear derailleur
+Description: · compatible with 10-speed, long cage· Dyna-Sys technology· Shimano Shadow RD+ - When the switch is in the ""on"" position, it increases the rear derailleur spring tension and reduces chain movement for a quieter and more stable ride. The ""off"" pos
+Product 2: 
+Title: Switch Netgear - ProSafe Switch PLUS 8porte Gigabit
+Description: ProSafe Switch Plus Giga a 8 porte 10\/100\/1000Mbps -Management semplificato tramite utility...
+A: These products are not the same because they are from a different brand and are used for different use cases.
+Q: Could you please tell me if the following two products are the same one?
+Product 1: 
+Title: Daniel Wellington Classic St Mawes 40mm
+Description: The Classic St. Mawes, an integral part of the flagship Classic Collection, is a slim timepiece that sits perfectly on your wrist. With a flawlessly round and simple dial, a classy leather band and an elegant casing, you have a timepiece that proves 
+Product 2: 
+Title: St Mawes 40mm Rose Gold Watch - Multi
+Description: An integral part of the flagship classic Daniel Wellington collection, featuring a classy brown leather band a stunning rose gold case, perfectly engineered with a flawlessly round and simple dial.This watch sits perfectly on your wrist and has the a
+A: These two products refer to the same real life product because they are the same Model from the same brand and have the same size.
+Q: Could you please tell me if the following two products are the same one?
+Product 1: 
+Title: wrk sa series stand alone rack less rear door 27 32 d rack enclosure depth 27 1 2 d
+Description: wrk 44sa 27lrd rack enclosure depth 27 1 2 d select a wrk sa when mounting equipment that demands space for substantial cable bundles solid design and stylish beveled corners are ideal when aesthetics are an issue structural features fully welded con
+Product 2: 
+Title: middle atlantic 12 master slave jumper for mpr series modules sold in packs of 6
+Description: df1784allows m series slave modules to be switched remotely by an rlm series master module features 12 jumper length sold in packs of 6
+A:
+",These products are not the same because they are from different categories and have different descriptions and features.,no match,False,False,NONE,,,
+361,b41c8b64-772c-472d-bb44-c56218504d55,gpt-3.5-turbo-0301,2023-10-23T09:56:37.976Z,2023-10-23T09:56:39.198Z,"Q: Could you please tell me if the following two products are the same one?
+Product 1: 
+Title: Deore XT RD-M786-SGS - Shadow - rear derailleur
+Description: · compatible with 10-speed, long cage· Dyna-Sys technology· Shimano Shadow RD+ - When the switch is in the ""on"" position, it increases the rear derailleur spring tension and reduces chain movement for a quieter and more stable ride. The ""off"" pos
+Product 2: 
+Title: Switch Netgear - ProSafe Switch PLUS 8porte Gigabit
+Description: ProSafe Switch Plus Giga a 8 porte 10\/100\/1000Mbps -Management semplificato tramite utility...
+A: These products are not the same because they are from a different brand and are used for different use cases.
+Q: Could you please tell me if the following two products are the same one?
+Product 1: 
+Title: Daniel Wellington Classic St Mawes 40mm
+Description: The Classic St. Mawes, an integral part of the flagship Classic Collection, is a slim timepiece that sits perfectly on your wrist. With a flawlessly round and simple dial, a classy leather band and an elegant casing, you have a timepiece that proves 
+Product 2: 
+Title: St Mawes 40mm Rose Gold Watch - Multi
+Description: An integral part of the flagship classic Daniel Wellington collection, featuring a classy brown leather band a stunning rose gold case, perfectly engineered with a flawlessly round and simple dial.This watch sits perfectly on your wrist and has the a
+A: These two products refer to the same real life product because they are the same Model from the same brand and have the same size.
+Q: Could you please tell me if the following two products are the same one?
+Product 1: 
+Title: cables to go 26886 usb to db9 male serial adapter blue 0 45 meters 1 5 feet
+Description: cables to go port authority usb to db9 serial adapter 26886 cable adapters
+Product 2: 
+Title: cables to go 03131 6ft premium universal power cord
+Description: plug connector type 1 x iec 320 c13 1 x nema 5 15p compatible with computers monitors scanners printers and devices that use a 3 pin shroud power connector cord length 6 ft 
+A:
+",These products are not the same one because they are different types of cables with different connectors and purposes.,no match,False,False,NONE,,,
+368,b41c8b64-772c-472d-bb44-c56218504d55,gpt-3.5-turbo-0301,2023-10-23T09:56:18.536Z,2023-10-23T09:56:19.692Z,"Q: Could you please tell me if the following two products are the same one?
+Product 1: 
+Title: Deore XT RD-M786-SGS - Shadow - rear derailleur
+Description: · compatible with 10-speed, long cage· Dyna-Sys technology· Shimano Shadow RD+ - When the switch is in the ""on"" position, it increases the rear derailleur spring tension and reduces chain movement for a quieter and more stable ride. The ""off"" pos
+Product 2: 
+Title: Switch Netgear - ProSafe Switch PLUS 8porte Gigabit
+Description: ProSafe Switch Plus Giga a 8 porte 10\/100\/1000Mbps -Management semplificato tramite utility...
+A: These products are not the same because they are from a different brand and are used for different use cases.
+Q: Could you please tell me if the following two products are the same one?
+Product 1: 
+Title: Daniel Wellington Classic St Mawes 40mm
+Description: The Classic St. Mawes, an integral part of the flagship Classic Collection, is a slim timepiece that sits perfectly on your wrist. With a flawlessly round and simple dial, a classy leather band and an elegant casing, you have a timepiece that proves 
+Product 2: 
+Title: St Mawes 40mm Rose Gold Watch - Multi
+Description: An integral part of the flagship classic Daniel Wellington collection, featuring a classy brown leather band a stunning rose gold case, perfectly engineered with a flawlessly round and simple dial.This watch sits perfectly on your wrist and has the a
+A: These two products refer to the same real life product because they are the same Model from the same brand and have the same size.
+Q: Could you please tell me if the following two products are the same one?
+Product 1: 
+Title: ape case ac252 tri fold travel wallet digital camera case camcorder bags camera bags
+Description: ape case ac252 tri fold travel wallet amp digital camera case folds out to a multi pocket wallet with plenty of room for credit cards passport digital media cards amp more compact design with 13 pockets amp compartments includes removable deluxe comf
+Product 2: 
+Title: can be clipped onto a stroller belt or bicycle or simply hung around your neck or shoulder with the straps included in the package
+Description:  key features benefits compact design
+A:
+",These two products are not the same as they are completely different products with different titles and descriptions.,no match,False,True,FN,,,
+369,b41c8b64-772c-472d-bb44-c56218504d55,gpt-3.5-turbo-0301,2023-10-23T09:56:14.686Z,2023-10-23T09:56:17.320Z,"Q: Could you please tell me if the following two products are the same one?
+Product 1: 
+Title: Deore XT RD-M786-SGS - Shadow - rear derailleur
+Description: · compatible with 10-speed, long cage· Dyna-Sys technology· Shimano Shadow RD+ - When the switch is in the ""on"" position, it increases the rear derailleur spring tension and reduces chain movement for a quieter and more stable ride. The ""off"" pos
+Product 2: 
+Title: Switch Netgear - ProSafe Switch PLUS 8porte Gigabit
+Description: ProSafe Switch Plus Giga a 8 porte 10\/100\/1000Mbps -Management semplificato tramite utility...
+A: These products are not the same because they are from a different brand and are used for different use cases.
+Q: Could you please tell me if the following two products are the same one?
+Product 1: 
+Title: Daniel Wellington Classic St Mawes 40mm
+Description: The Classic St. Mawes, an integral part of the flagship Classic Collection, is a slim timepiece that sits perfectly on your wrist. With a flawlessly round and simple dial, a classy leather band and an elegant casing, you have a timepiece that proves 
+Product 2: 
+Title: St Mawes 40mm Rose Gold Watch - Multi
+Description: An integral part of the flagship classic Daniel Wellington collection, featuring a classy brown leather band a stunning rose gold case, perfectly engineered with a flawlessly round and simple dial.This watch sits perfectly on your wrist and has the a
+A: These two products refer to the same real life product because they are the same Model from the same brand and have the same size.
+Q: Could you please tell me if the following two products are the same one?
+Product 1: 
+Title: ape case ac252 tri fold travel wallet digital camera case
+Description: folds out to a multi pocket wallet with plenty of room for credit cards passport digital media cards amp more compact design with 13 pockets amp compartments includes removable deluxe comfort shoulder strap amp belt strap black exterior amp yellow in
+Product 2: 
+Title: can be clipped onto a stroller belt or bicycle or simply hung around your neck or shoulder with the straps included in the package
+Description:  key features benefits compact design
+A:
+","These two products are not the same because they have different titles and descriptions, and are used for different purposes. Product 1 is a camera case while Product 2 is a versatile accessory that can be clipped onto a stroller or hung around the neck or shoulder.",No match.,False,True,FN,,,
+370,b41c8b64-772c-472d-bb44-c56218504d55,gpt-3.5-turbo-0301,2023-10-23T09:56:11.353Z,2023-10-23T09:56:13.327Z,"Q: Could you please tell me if the following two products are the same one?
+Product 1: 
+Title: Deore XT RD-M786-SGS - Shadow - rear derailleur
+Description: · compatible with 10-speed, long cage· Dyna-Sys technology· Shimano Shadow RD+ - When the switch is in the ""on"" position, it increases the rear derailleur spring tension and reduces chain movement for a quieter and more stable ride. The ""off"" pos
+Product 2: 
+Title: Switch Netgear - ProSafe Switch PLUS 8porte Gigabit
+Description: ProSafe Switch Plus Giga a 8 porte 10\/100\/1000Mbps -Management semplificato tramite utility...
+A: These products are not the same because they are from a different brand and are used for different use cases.
+Q: Could you please tell me if the following two products are the same one?
+Product 1: 
+Title: Daniel Wellington Classic St Mawes 40mm
+Description: The Classic St. Mawes, an integral part of the flagship Classic Collection, is a slim timepiece that sits perfectly on your wrist. With a flawlessly round and simple dial, a classy leather band and an elegant casing, you have a timepiece that proves 
+Product 2: 
+Title: St Mawes 40mm Rose Gold Watch - Multi
+Description: An integral part of the flagship classic Daniel Wellington collection, featuring a classy brown leather band a stunning rose gold case, perfectly engineered with a flawlessly round and simple dial.This watch sits perfectly on your wrist and has the a
+A: These two products refer to the same real life product because they are the same Model from the same brand and have the same size.
+Q: Could you please tell me if the following two products are the same one?
+Product 1: 
+Title: ape case digital camera case with fold out wallet ac252
+Description: ape case digital camera case with fold out wallet ac252 leave your purse or wallet at home with norazza s digital camera case that folds out to a multi pocket wallet with plenty of room for credit cards passport digital media cards money travelers ch
+Product 2: 
+Title: can be clipped onto a stroller belt or bicycle or simply hung around your neck or shoulder with the straps included in the package
+Description:  key features benefits compact design
+A:
+","These two products are not the same because they have completely different titles and descriptions, and one is a camera case while the other is a generic product with no clear purpose or category.",no match,False,True,FN,,,
+373,b41c8b64-772c-472d-bb44-c56218504d55,gpt-3.5-turbo-0301,2023-10-23T09:56:02.139Z,2023-10-23T09:56:04.146Z,"Q: Could you please tell me if the following two products are the same one?
+Product 1: 
+Title: Deore XT RD-M786-SGS - Shadow - rear derailleur
+Description: · compatible with 10-speed, long cage· Dyna-Sys technology· Shimano Shadow RD+ - When the switch is in the ""on"" position, it increases the rear derailleur spring tension and reduces chain movement for a quieter and more stable ride. The ""off"" pos
+Product 2: 
+Title: Switch Netgear - ProSafe Switch PLUS 8porte Gigabit
+Description: ProSafe Switch Plus Giga a 8 porte 10\/100\/1000Mbps -Management semplificato tramite utility...
+A: These products are not the same because they are from a different brand and are used for different use cases.
+Q: Could you please tell me if the following two products are the same one?
+Product 1: 
+Title: Daniel Wellington Classic St Mawes 40mm
+Description: The Classic St. Mawes, an integral part of the flagship Classic Collection, is a slim timepiece that sits perfectly on your wrist. With a flawlessly round and simple dial, a classy leather band and an elegant casing, you have a timepiece that proves 
+Product 2: 
+Title: St Mawes 40mm Rose Gold Watch - Multi
+Description: An integral part of the flagship classic Daniel Wellington collection, featuring a classy brown leather band a stunning rose gold case, perfectly engineered with a flawlessly round and simple dial.This watch sits perfectly on your wrist and has the a
+A: These two products refer to the same real life product because they are the same Model from the same brand and have the same size.
+Q: Could you please tell me if the following two products are the same one?
+Product 1: 
+Title: epson amer matte presentation paper 27 lbs matte 8 1 2 x 11 100 sheets pack
+Description: epson presentation paper matte is a smooth non glare instant drying paper for scrapbooks newsletters and graphical presentations mil thickness 4 9 weight 27lb iso brightness 90 opacity 90 
+Product 2: 
+Title: epson s041062 presentation paper
+Description: bright white matte presentation paper for use with inkjet printers ideal for newsletters proposals and flyers with photos
+A:
+","These two products are not the same because they have different titles, descriptions, and product codes. Although they are both presentation papers from Epson, they have different specifications and intended uses.",No match.,False,True,FN,,,
+374,b41c8b64-772c-472d-bb44-c56218504d55,gpt-3.5-turbo-0301,2023-10-23T09:55:59.407Z,2023-10-23T09:56:00.699Z,"Q: Could you please tell me if the following two products are the same one?
+Product 1: 
+Title: Deore XT RD-M786-SGS - Shadow - rear derailleur
+Description: · compatible with 10-speed, long cage· Dyna-Sys technology· Shimano Shadow RD+ - When the switch is in the ""on"" position, it increases the rear derailleur spring tension and reduces chain movement for a quieter and more stable ride. The ""off"" pos
+Product 2: 
+Title: Switch Netgear - ProSafe Switch PLUS 8porte Gigabit
+Description: ProSafe Switch Plus Giga a 8 porte 10\/100\/1000Mbps -Management semplificato tramite utility...
+A: These products are not the same because they are from a different brand and are used for different use cases.
+Q: Could you please tell me if the following two products are the same one?
+Product 1: 
+Title: Daniel Wellington Classic St Mawes 40mm
+Description: The Classic St. Mawes, an integral part of the flagship Classic Collection, is a slim timepiece that sits perfectly on your wrist. With a flawlessly round and simple dial, a classy leather band and an elegant casing, you have a timepiece that proves 
+Product 2: 
+Title: St Mawes 40mm Rose Gold Watch - Multi
+Description: An integral part of the flagship classic Daniel Wellington collection, featuring a classy brown leather band a stunning rose gold case, perfectly engineered with a flawlessly round and simple dial.This watch sits perfectly on your wrist and has the a
+A: These two products refer to the same real life product because they are the same Model from the same brand and have the same size.
+Q: Could you please tell me if the following two products are the same one?
+Product 1: 
+Title: new avery 5029 self adhesive filing labels 1 3 cut 2 3 x 3 7 16 clear 450 pack ave5029
+Description: clear labels virtually disappear on tabs for easy color coding and a custom professional look permanent adhesive is guaranteed to stick and stay easy to use with free avery templates and software laser and inkjet compatible label size text 2 3 x 3 7 
+Product 2: 
+Title: avery self adhesive filing labels 1 3 cut 3 7 16 x 2 3 clear 450 pack
+Description: avery self adhesive filing labels clear 1 3 cut filing labels create as custom look clear labels virtually disappear on tabs labels come in a pack of 450 labels are 3 7 16
+A:
+","These two products are not the same because they have different product codes, different label sizes, and slightly different descriptions.",no match,False,True,FN,,,
+375,b41c8b64-772c-472d-bb44-c56218504d55,gpt-3.5-turbo-0301,2023-10-23T09:55:56.574Z,2023-10-23T09:55:58.074Z,"Q: Could you please tell me if the following two products are the same one?
+Product 1: 
+Title: Deore XT RD-M786-SGS - Shadow - rear derailleur
+Description: · compatible with 10-speed, long cage· Dyna-Sys technology· Shimano Shadow RD+ - When the switch is in the ""on"" position, it increases the rear derailleur spring tension and reduces chain movement for a quieter and more stable ride. The ""off"" pos
+Product 2: 
+Title: Switch Netgear - ProSafe Switch PLUS 8porte Gigabit
+Description: ProSafe Switch Plus Giga a 8 porte 10\/100\/1000Mbps -Management semplificato tramite utility...
+A: These products are not the same because they are from a different brand and are used for different use cases.
+Q: Could you please tell me if the following two products are the same one?
+Product 1: 
+Title: Daniel Wellington Classic St Mawes 40mm
+Description: The Classic St. Mawes, an integral part of the flagship Classic Collection, is a slim timepiece that sits perfectly on your wrist. With a flawlessly round and simple dial, a classy leather band and an elegant casing, you have a timepiece that proves 
+Product 2: 
+Title: St Mawes 40mm Rose Gold Watch - Multi
+Description: An integral part of the flagship classic Daniel Wellington collection, featuring a classy brown leather band a stunning rose gold case, perfectly engineered with a flawlessly round and simple dial.This watch sits perfectly on your wrist and has the a
+A: These two products refer to the same real life product because they are the same Model from the same brand and have the same size.
+Q: Could you please tell me if the following two products are the same one?
+Product 1: 
+Title: avery 5029 self adhesive filing labels 1 3 cut 2 3 x 3 7 16 clear 450 pack
+Description: clear labels virtually disappear on tabs for easy color coding and a custom professional look permanent adhesive is guaranteed to stick and stay easy to use with free avery templates and software see product package for details laser and inkjet compa
+Product 2: 
+Title: avery self adhesive filing labels 1 3 cut 3 7 16 x 2 3 clear 450 pack
+Description: avery self adhesive filing labels clear 1 3 cut filing labels create as custom look clear labels virtually disappear on tabs labels come in a pack of 450 labels are 3 7 16
+A:
+","These two products are not the same because they have different dimensions and slightly different descriptions, even though they are both Avery self-adhesive filing labels.",no match,False,True,FN,,,
+376,b41c8b64-772c-472d-bb44-c56218504d55,gpt-3.5-turbo-0301,2023-10-23T09:55:50.752Z,2023-10-23T09:55:55.343Z,"Q: Could you please tell me if the following two products are the same one?
+Product 1: 
+Title: Deore XT RD-M786-SGS - Shadow - rear derailleur
+Description: · compatible with 10-speed, long cage· Dyna-Sys technology· Shimano Shadow RD+ - When the switch is in the ""on"" position, it increases the rear derailleur spring tension and reduces chain movement for a quieter and more stable ride. The ""off"" pos
+Product 2: 
+Title: Switch Netgear - ProSafe Switch PLUS 8porte Gigabit
+Description: ProSafe Switch Plus Giga a 8 porte 10\/100\/1000Mbps -Management semplificato tramite utility...
+A: These products are not the same because they are from a different brand and are used for different use cases.
+Q: Could you please tell me if the following two products are the same one?
+Product 1: 
+Title: Daniel Wellington Classic St Mawes 40mm
+Description: The Classic St. Mawes, an integral part of the flagship Classic Collection, is a slim timepiece that sits perfectly on your wrist. With a flawlessly round and simple dial, a classy leather band and an elegant casing, you have a timepiece that proves 
+Product 2: 
+Title: St Mawes 40mm Rose Gold Watch - Multi
+Description: An integral part of the flagship classic Daniel Wellington collection, featuring a classy brown leather band a stunning rose gold case, perfectly engineered with a flawlessly round and simple dial.This watch sits perfectly on your wrist and has the a
+A: These two products refer to the same real life product because they are the same Model from the same brand and have the same size.
+Q: Could you please tell me if the following two products are the same one?
+Product 1: 
+Title: avery 5029 clear self adhesive filing labels 3 7 16 x 2 3 30 sheet 450 pack
+Description: labels blend with file folder s background color to create a custom printed look guaranteed printer performance in hp canon epson and other popular printers 
+Product 2: 
+Title: avery self adhesive filing labels 1 3 cut 3 7 16 x 2 3 clear 450 pack
+Description: avery self adhesive filing labels clear 1 3 cut filing labels create as custom look clear labels virtually disappear on tabs labels come in a pack of 450 labels are 3 7 16
+A:
+","These two products are not exactly the same, but they are very similar. They are both Avery self-adhesive filing labels, but Product 1 specifies the size as 3 7/16 x 2 3/30 and the pack size as 450, while Product 2 specifies the size as 3 7/16 x 2 and the pack size as 450 as well. The main difference is that Product 2 also specifies that the labels are 1/3 cut.",Match.,True,True,NONE,,,
+377,b41c8b64-772c-472d-bb44-c56218504d55,gpt-3.5-turbo-0301,2023-10-23T09:55:47.733Z,2023-10-23T09:55:49.547Z,"Q: Could you please tell me if the following two products are the same one?
+Product 1: 
+Title: Deore XT RD-M786-SGS - Shadow - rear derailleur
+Description: · compatible with 10-speed, long cage· Dyna-Sys technology· Shimano Shadow RD+ - When the switch is in the ""on"" position, it increases the rear derailleur spring tension and reduces chain movement for a quieter and more stable ride. The ""off"" pos
+Product 2: 
+Title: Switch Netgear - ProSafe Switch PLUS 8porte Gigabit
+Description: ProSafe Switch Plus Giga a 8 porte 10\/100\/1000Mbps -Management semplificato tramite utility...
+A: These products are not the same because they are from a different brand and are used for different use cases.
+Q: Could you please tell me if the following two products are the same one?
+Product 1: 
+Title: Daniel Wellington Classic St Mawes 40mm
+Description: The Classic St. Mawes, an integral part of the flagship Classic Collection, is a slim timepiece that sits perfectly on your wrist. With a flawlessly round and simple dial, a classy leather band and an elegant casing, you have a timepiece that proves 
+Product 2: 
+Title: St Mawes 40mm Rose Gold Watch - Multi
+Description: An integral part of the flagship classic Daniel Wellington collection, featuring a classy brown leather band a stunning rose gold case, perfectly engineered with a flawlessly round and simple dial.This watch sits perfectly on your wrist and has the a
+A: These two products refer to the same real life product because they are the same Model from the same brand and have the same size.
+Q: Could you please tell me if the following two products are the same one?
+Product 1: 
+Title: sharp el1192bl two color printing calculator calculator prting desktop pack of2
+Description: pc touch keyboard memory plus memory minus recall and clear memory keys large 18 7 mm digit size for easy reading of display pc touch keyboard memory plus memory minus recall and clear memory keys large 18 7 mm digit size for easy reading of display 
+Product 2: 
+Title: sharp el1192bl printing calculator
+Description: printing calculator 12 character lcd 31ps printing speed 4 key memory functions include mark up item counter rounding double zero and adding mode
+A:
+","These two products are not the same because they have different titles, descriptions, and features. While both are Sharp calculators, they have different model numbers and different functions.",no match,False,True,FN,,,
+378,b41c8b64-772c-472d-bb44-c56218504d55,gpt-3.5-turbo-0301,2023-10-23T09:55:43.656Z,2023-10-23T09:55:46.464Z,"Q: Could you please tell me if the following two products are the same one?
+Product 1: 
+Title: Deore XT RD-M786-SGS - Shadow - rear derailleur
+Description: · compatible with 10-speed, long cage· Dyna-Sys technology· Shimano Shadow RD+ - When the switch is in the ""on"" position, it increases the rear derailleur spring tension and reduces chain movement for a quieter and more stable ride. The ""off"" pos
+Product 2: 
+Title: Switch Netgear - ProSafe Switch PLUS 8porte Gigabit
+Description: ProSafe Switch Plus Giga a 8 porte 10\/100\/1000Mbps -Management semplificato tramite utility...
+A: These products are not the same because they are from a different brand and are used for different use cases.
+Q: Could you please tell me if the following two products are the same one?
+Product 1: 
+Title: Daniel Wellington Classic St Mawes 40mm
+Description: The Classic St. Mawes, an integral part of the flagship Classic Collection, is a slim timepiece that sits perfectly on your wrist. With a flawlessly round and simple dial, a classy leather band and an elegant casing, you have a timepiece that proves 
+Product 2: 
+Title: St Mawes 40mm Rose Gold Watch - Multi
+Description: An integral part of the flagship classic Daniel Wellington collection, featuring a classy brown leather band a stunning rose gold case, perfectly engineered with a flawlessly round and simple dial.This watch sits perfectly on your wrist and has the a
+A: These two products refer to the same real life product because they are the same Model from the same brand and have the same size.
+Q: Could you please tell me if the following two products are the same one?
+Product 1: 
+Title: new sharp el1192bl el1192bl two color printing calculator 12 digit lcd black red shrel1192bl
+Description: pc touch keyboard memory plus memory minus recall and clear memory keys large 18 7 mm digit size for easy reading of display prints positive numbers in black negative numbers in red on standard paper roll power source s ac display notation numeric nu
+Product 2: 
+Title: sharp el1192bl printing calculator
+Description: printing calculator 12 character lcd 31ps printing speed 4 key memory functions include mark up item counter rounding double zero and adding mode
+A:
+","These two products are similar but not exactly the same. They are both Sharp printing calculators, but Product 1 has additional features such as a PC touch keyboard and the ability to print positive numbers in black and negative numbers in red. Product 2 has a faster printing speed and different memory functions.",No match.,False,True,FN,,,
+386,b41c8b64-772c-472d-bb44-c56218504d55,gpt-3.5-turbo-0301,2023-10-23T09:55:16.668Z,2023-10-23T09:55:21.484Z,"Q: Could you please tell me if the following two products are the same one?
+Product 1: 
+Title: Deore XT RD-M786-SGS - Shadow - rear derailleur
+Description: · compatible with 10-speed, long cage· Dyna-Sys technology· Shimano Shadow RD+ - When the switch is in the ""on"" position, it increases the rear derailleur spring tension and reduces chain movement for a quieter and more stable ride. The ""off"" pos
+Product 2: 
+Title: Switch Netgear - ProSafe Switch PLUS 8porte Gigabit
+Description: ProSafe Switch Plus Giga a 8 porte 10\/100\/1000Mbps -Management semplificato tramite utility...
+A: These products are not the same because they are from a different brand and are used for different use cases.
+Q: Could you please tell me if the following two products are the same one?
+Product 1: 
+Title: Daniel Wellington Classic St Mawes 40mm
+Description: The Classic St. Mawes, an integral part of the flagship Classic Collection, is a slim timepiece that sits perfectly on your wrist. With a flawlessly round and simple dial, a classy leather band and an elegant casing, you have a timepiece that proves 
+Product 2: 
+Title: St Mawes 40mm Rose Gold Watch - Multi
+Description: An integral part of the flagship classic Daniel Wellington collection, featuring a classy brown leather band a stunning rose gold case, perfectly engineered with a flawlessly round and simple dial.This watch sits perfectly on your wrist and has the a
+A: These two products refer to the same real life product because they are the same Model from the same brand and have the same size.
+Q: Could you please tell me if the following two products are the same one?
+Product 1: 
+Title: lorex live lw1002w cctv camera outdoor weatherproof color day night 360 tvl audio pack of 2
+Description: connects in minutes to a tv vcr or dvd recordercompact camera design for discreet monitoringinstall cameras indoors or outdoorssignal will not interfere with your wi fi networknight vision for low light viewing up to 10 feetautomatic or manual camera
+Product 2: 
+Title: lorex lw1002 live wireless security cameras
+Description: lorex lw1002 live wireless security cameras connects in minutes to a tv vcr or dvd recorder compact camera design for discreet monitoring install cameras indoors or outdoors signal will not interfere with your wi fi network night vision for low light
+A:
+","These two products are similar and may refer to the same product line, but there are some differences in the titles and descriptions that suggest they may not be exactly the same product. Product 1 mentions specific features like weatherproofing, audio, and a pack of 2 cameras, while Product 2 has a more general description of \live wireless security cameras.\ It's possible that Product 2 is a newer or updated version of the cameras in Product 1, or that they are different models within the same product line.",no match,False,True,FN,,,
+387,b41c8b64-772c-472d-bb44-c56218504d55,gpt-3.5-turbo-0301,2023-10-23T09:55:12.184Z,2023-10-23T09:55:15.435Z,"Q: Could you please tell me if the following two products are the same one?
+Product 1: 
+Title: Deore XT RD-M786-SGS - Shadow - rear derailleur
+Description: · compatible with 10-speed, long cage· Dyna-Sys technology· Shimano Shadow RD+ - When the switch is in the ""on"" position, it increases the rear derailleur spring tension and reduces chain movement for a quieter and more stable ride. The ""off"" pos
+Product 2: 
+Title: Switch Netgear - ProSafe Switch PLUS 8porte Gigabit
+Description: ProSafe Switch Plus Giga a 8 porte 10\/100\/1000Mbps -Management semplificato tramite utility...
+A: These products are not the same because they are from a different brand and are used for different use cases.
+Q: Could you please tell me if the following two products are the same one?
+Product 1: 
+Title: Daniel Wellington Classic St Mawes 40mm
+Description: The Classic St. Mawes, an integral part of the flagship Classic Collection, is a slim timepiece that sits perfectly on your wrist. With a flawlessly round and simple dial, a classy leather band and an elegant casing, you have a timepiece that proves 
+Product 2: 
+Title: St Mawes 40mm Rose Gold Watch - Multi
+Description: An integral part of the flagship classic Daniel Wellington collection, featuring a classy brown leather band a stunning rose gold case, perfectly engineered with a flawlessly round and simple dial.This watch sits perfectly on your wrist and has the a
+A: These two products refer to the same real life product because they are the same Model from the same brand and have the same size.
+Q: Could you please tell me if the following two products are the same one?
+Product 1: 
+Title: new lorex lw1002w 2 wireless camera system obs systems home security
+Description: connects easily to tv dvr or vcr signal will not interfere with household wi fi network compact design for discreet placement up to 300 ft outdoor amp 100 ft indoor wireless range 10 ft night vision built in microphone for listen in audio weather res
+Product 2: 
+Title: lorex lw1002 live wireless security cameras
+Description: lorex lw1002 live wireless security cameras connects in minutes to a tv vcr or dvd recorder compact camera design for discreet monitoring install cameras indoors or outdoors signal will not interfere with your wi fi network night vision for low light
+A:
+","These two products are similar but not exactly the same. They are both wireless security camera systems from the same brand, but Product 1 has two cameras while Product 2 does not specify the number of cameras included. Additionally, Product 1 mentions specific features such as a built-in microphone and weather resistance, while Product 2 only mentions night vision.",No match.,False,True,FN,,,
+388,b41c8b64-772c-472d-bb44-c56218504d55,gpt-3.5-turbo-0301,2023-10-23T09:55:07.153Z,2023-10-23T09:55:10.929Z,"Q: Could you please tell me if the following two products are the same one?
+Product 1: 
+Title: Deore XT RD-M786-SGS - Shadow - rear derailleur
+Description: · compatible with 10-speed, long cage· Dyna-Sys technology· Shimano Shadow RD+ - When the switch is in the ""on"" position, it increases the rear derailleur spring tension and reduces chain movement for a quieter and more stable ride. The ""off"" pos
+Product 2: 
+Title: Switch Netgear - ProSafe Switch PLUS 8porte Gigabit
+Description: ProSafe Switch Plus Giga a 8 porte 10\/100\/1000Mbps -Management semplificato tramite utility...
+A: These products are not the same because they are from a different brand and are used for different use cases.
+Q: Could you please tell me if the following two products are the same one?
+Product 1: 
+Title: Daniel Wellington Classic St Mawes 40mm
+Description: The Classic St. Mawes, an integral part of the flagship Classic Collection, is a slim timepiece that sits perfectly on your wrist. With a flawlessly round and simple dial, a classy leather band and an elegant casing, you have a timepiece that proves 
+Product 2: 
+Title: St Mawes 40mm Rose Gold Watch - Multi
+Description: An integral part of the flagship classic Daniel Wellington collection, featuring a classy brown leather band a stunning rose gold case, perfectly engineered with a flawlessly round and simple dial.This watch sits perfectly on your wrist and has the a
+A: These two products refer to the same real life product because they are the same Model from the same brand and have the same size.
+Q: Could you please tell me if the following two products are the same one?
+Product 1: 
+Title: roocase executive leather portfolio magenta case cover with stand for samsung galaxy tab tablet p1000 wi fi 3g
+Description: limited lifetime replacement warranty like a kangaroo safely carries her young in her pouch roocase offers protective solutions for your precious electronic possessions roocase designers work with your needs in mind ensuring that cases have not only 
+Product 2: 
+Title: roocase executive leather portfolio case for samsung galaxy tab p1000
+Description: this roocase leather cover offers optimal protection for your galaxy tab lightweight for taking galaxy tab wherever you go product material genuine leather product weight 0 40 lbs laptop compartment dimensions 7 5 dirt case weighs in at only 7 ounces
+A:
+","These two products are similar but not exactly the same. They are both from the same brand and are designed to be protective cases for the Samsung Galaxy Tab P1000, but the first product is specifically for the Wi-Fi + 3G version and comes in a magenta color with a stand, while the second product is a general leather portfolio case without a stand and does not mention a specific color.",No match.,False,True,FN,,,
+389,b41c8b64-772c-472d-bb44-c56218504d55,gpt-3.5-turbo-0301,2023-10-23T09:55:02.075Z,2023-10-23T09:55:05.706Z,"Q: Could you please tell me if the following two products are the same one?
+Product 1: 
+Title: Deore XT RD-M786-SGS - Shadow - rear derailleur
+Description: · compatible with 10-speed, long cage· Dyna-Sys technology· Shimano Shadow RD+ - When the switch is in the ""on"" position, it increases the rear derailleur spring tension and reduces chain movement for a quieter and more stable ride. The ""off"" pos
+Product 2: 
+Title: Switch Netgear - ProSafe Switch PLUS 8porte Gigabit
+Description: ProSafe Switch Plus Giga a 8 porte 10\/100\/1000Mbps -Management semplificato tramite utility...
+A: These products are not the same because they are from a different brand and are used for different use cases.
+Q: Could you please tell me if the following two products are the same one?
+Product 1: 
+Title: Daniel Wellington Classic St Mawes 40mm
+Description: The Classic St. Mawes, an integral part of the flagship Classic Collection, is a slim timepiece that sits perfectly on your wrist. With a flawlessly round and simple dial, a classy leather band and an elegant casing, you have a timepiece that proves 
+Product 2: 
+Title: St Mawes 40mm Rose Gold Watch - Multi
+Description: An integral part of the flagship classic Daniel Wellington collection, featuring a classy brown leather band a stunning rose gold case, perfectly engineered with a flawlessly round and simple dial.This watch sits perfectly on your wrist and has the a
+A: These two products refer to the same real life product because they are the same Model from the same brand and have the same size.
+Q: Could you please tell me if the following two products are the same one?
+Product 1: 
+Title: roocase executive leather portfolio red case cover with stand for samsung galaxy tab tablet p1000 wi fi 3g
+Description: limited lifetime replacement warranty like a kangaroo safely carries her young in her pouch roocase offers protective solutions for your precious electronic possessions roocase designers work with your needs in mind ensuring that cases have not only 
+Product 2: 
+Title: roocase executive leather portfolio case for samsung galaxy tab p1000
+Description: this roocase leather cover offers optimal protection for your galaxy tab lightweight for taking galaxy tab wherever you go product material genuine leather product weight 0 40 lbs laptop compartment dimensions 7 5 dirt case weighs in at only 7 ounces
+A:
+","These two products are similar but not exactly the same. They are both from the same brand and are designed to be protective cases for the Samsung Galaxy Tab P1000, but the first product specifies that it is a red case cover with a stand and is compatible with both Wi-Fi and 3G models, while the second product is a general leather portfolio case and does not mention color or compatibility with specific models.",No match.,False,True,FN,,,
+403,b41c8b64-772c-472d-bb44-c56218504d55,gpt-3.5-turbo-0301,2023-10-23T09:54:19.476Z,2023-10-23T09:54:20.888Z,"Q: Could you please tell me if the following two products are the same one?
+Product 1: 
+Title: Deore XT RD-M786-SGS - Shadow - rear derailleur
+Description: · compatible with 10-speed, long cage· Dyna-Sys technology· Shimano Shadow RD+ - When the switch is in the ""on"" position, it increases the rear derailleur spring tension and reduces chain movement for a quieter and more stable ride. The ""off"" pos
+Product 2: 
+Title: Switch Netgear - ProSafe Switch PLUS 8porte Gigabit
+Description: ProSafe Switch Plus Giga a 8 porte 10\/100\/1000Mbps -Management semplificato tramite utility...
+A: These products are not the same because they are from a different brand and are used for different use cases.
+Q: Could you please tell me if the following two products are the same one?
+Product 1: 
+Title: Daniel Wellington Classic St Mawes 40mm
+Description: The Classic St. Mawes, an integral part of the flagship Classic Collection, is a slim timepiece that sits perfectly on your wrist. With a flawlessly round and simple dial, a classy leather band and an elegant casing, you have a timepiece that proves 
+Product 2: 
+Title: St Mawes 40mm Rose Gold Watch - Multi
+Description: An integral part of the flagship classic Daniel Wellington collection, featuring a classy brown leather band a stunning rose gold case, perfectly engineered with a flawlessly round and simple dial.This watch sits perfectly on your wrist and has the a
+A: These two products refer to the same real life product because they are the same Model from the same brand and have the same size.
+Q: Could you please tell me if the following two products are the same one?
+Product 1: 
+Title: electrified bl fp230c sp 85r01gc01 replacement lamp with housing for optoma projectors
+Description: brand new replacement projection lamp with brand new housing for optoma projectors 150 day electrified warranty
+Product 2: 
+Title: optoma bl fp230c replacement projector lamp for optoma ep749 projector
+Description: none
+A:
+",These two products are not the same because they are for different Optoma projector models and have different titles and descriptions.,no match,False,True,FN,,,
+404,b41c8b64-772c-472d-bb44-c56218504d55,gpt-3.5-turbo-0301,2023-10-23T09:54:14.578Z,2023-10-23T09:54:18.087Z,"Q: Could you please tell me if the following two products are the same one?
+Product 1: 
+Title: Deore XT RD-M786-SGS - Shadow - rear derailleur
+Description: · compatible with 10-speed, long cage· Dyna-Sys technology· Shimano Shadow RD+ - When the switch is in the ""on"" position, it increases the rear derailleur spring tension and reduces chain movement for a quieter and more stable ride. The ""off"" pos
+Product 2: 
+Title: Switch Netgear - ProSafe Switch PLUS 8porte Gigabit
+Description: ProSafe Switch Plus Giga a 8 porte 10\/100\/1000Mbps -Management semplificato tramite utility...
+A: These products are not the same because they are from a different brand and are used for different use cases.
+Q: Could you please tell me if the following two products are the same one?
+Product 1: 
+Title: Daniel Wellington Classic St Mawes 40mm
+Description: The Classic St. Mawes, an integral part of the flagship Classic Collection, is a slim timepiece that sits perfectly on your wrist. With a flawlessly round and simple dial, a classy leather band and an elegant casing, you have a timepiece that proves 
+Product 2: 
+Title: St Mawes 40mm Rose Gold Watch - Multi
+Description: An integral part of the flagship classic Daniel Wellington collection, featuring a classy brown leather band a stunning rose gold case, perfectly engineered with a flawlessly round and simple dial.This watch sits perfectly on your wrist and has the a
+A: These two products refer to the same real life product because they are the same Model from the same brand and have the same size.
+Q: Could you please tell me if the following two products are the same one?
+Product 1: 
+Title: optoma bl fp230c replacement projector lamp bulb with housing high quality replacement lamp
+Description: this shopforbattery part number sfp 213 123271 is the premium projector lamp that replaced the optoma bl fp230c this projector lamp is a brand new lamp with new housing and tested to be 100 oem compatible it is different from other sellers that only 
+Product 2: 
+Title: optoma bl fp230c replacement projector lamp for optoma ep749 projector
+Description: none
+A:
+","It is unclear if these two products are the same as the descriptions provide different information. Product 1 is a replacement projector lamp with housing that is compatible with Optoma BL FP230C, while Product 2 is a replacement projector lamp specifically for Optoma EP749 projector. Without more information, it cannot be determined if they are the same product.",No match.,False,True,FN,,,

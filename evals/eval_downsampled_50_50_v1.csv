@@ -43,5 +43,7 @@ openAI - gpt-3.5-turbo-0301,match_prompt_autogpt3_fewshot_2_eval2_temp_0_gpt3.5_
  [ 10  15]]",downsampled_50_50,
 openAI - gpt-3.5-turbo-0301,match_prompt_autogpt4_fewshot_2_eval2_temp_0_gpt3.5-0301_v2_maxtok-15,0.9366515837104072,0.7894736842105263,0.6,0.6818181818181819,"[[192   4]
  [ 10  15]]",downsampled_50_50,2023-11-01 11:17:06.163870
-openAI - gpt-3.5-turbo-0301,match_prompt_basic_zeroshot_2_eval2_temp_0_gpt3.5-0301_maxtok-15,0.9140271493212669,0.65,0.52,0.5777777777777778,"[[189   7]
+openAI - gpt-3.5-turbo-0301,match_prompt_basic_zeroshot_2_eval2_temp_0_gpt3.5-0301_maxtok-15,0.9140271493212668,0.65,0.52,0.5777777777777778,"[[189   7]
  [ 12  13]]",downsampled_50_50,2023-11-03 17:58:10.119696
+openAI - gpt-3.5-turbo-0301,match_prompt_manual_fewshot_1_eval2_temp_0_gpt3.5-0301_v2_maxtok-15,0.918552036199095,0.6296296296296297,0.68,0.6538461538461539,"[[186  10]
+ [  8  17]]",downsampled_50_50,2023-11-03 19:23:08.072577
