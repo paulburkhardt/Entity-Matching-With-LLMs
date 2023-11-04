@@ -966,7 +966,7 @@ Answer with 'True' or 'False'.",False. The second product is missing a descripti
 {""attribute"":""cache"",""importance"":""0.50"", ""values"":[""256MB"",""missing""]},
 {""attribute"":""usage"",""importance"":""0.40"", ""values"":[""Internal SSD"",""NAS HDD""]},
 {""attribute"":""form factor"",""importance"":""0.30"", ""values"":[""2.5 Inch"",""missing""]},
-{""attribute"":""interface"",""importance"":""0.20"", ""values"":[""SATA"",""SATA-600""]},
+{""attribute"":""interface"",""importance"":""0.20"", ""values"":[""SATA"",""SATA-600""]}]
 "
 58,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:05:27.665Z,2023-10-22T13:05:28.781Z,"Are the following two products the same?
 Product 1: Title: WD Blue 3D - 2048 GB - M.2 - 560 MB/s - 6 Gbit/s WDS200T2B0B
@@ -1231,11 +1231,11 @@ Description: Blaze Professional 27"" 2 Burner Built-In Gas GrillBlaze presents t
 Answer with 'True' or 'False'.",False.,False,False,NONE,0%,50%,,"
 
 [{""attribute"":""brand"",""importance"":""0.05"",""values"":[""Western Digital"",""Blaze""]},
-{""attribute"":""model"",""importance"":""0.95"",""values"":[""SSD M.22TB Blue 3D NAND"",""Professional 27"" 2 Burner Built-In Gas Grill""]},
+{""attribute"":""model"",""importance"":""0.95"",""values"":[""SSD M.22TB Blue 3D NAND"",""Professional 27' 2 Burner Built-In Gas Grill""]},
 {""attribute"":""color"",""importance"":""0.00"",""values"":[""missing"",""missing""]}]","
 
 [{""attribute"":""brand"",""importance"":""0.05"",""values"":[""Western Digital"",""Blaze""]},
-{""attribute"":""model"",""importance"":""0.95"", ""values"":[""SSD M.22TB Blue 3D NAND"",""Professional 27"" 2 Burner Built-In Gas Grill""]},
+{""attribute"":""model"",""importance"":""0.95"", ""values"":[""SSD M.22TB Blue 3D NAND"",""Professional 27' 2 Burner Built-In Gas Grill""]},
 {""attribute"":""color"",""importance"":""0.00"", ""values"":[""missing"",""missing""]}]"
 76,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:05:16.939Z,2023-10-22T13:05:17.400Z,"Are the following two products the same?
 Product 1: Title: Maxxis Minion DHR II 29\"" DD/3C/TR
@@ -2365,8 +2365,7 @@ Answer with 'True' or 'False'.",False.,False,False,NONE,30%,70%,,"
 {""attribute"":""image formation"",""importance"":""0.10"", ""values"":[""Fast"",""missing""]},
 {""attribute"":""resistance to age-induced changes"",""importance"":""0.10"", ""values"":[""Greater"",""missing""]},
 {""attribute"":""composition"",""importance"":""0.05"", ""values"":[""Single-plastic"",""missing""]},
-{""attribute"":""disposal"",""importance"":""0.05"", ""values"":[""Easier"",""missing""]},
-{"""
+{""attribute"":""disposal"",""importance"":""0.05"", ""values"":[""Easier"",""missing""]}]"""
 135,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:04:42.432Z,2023-10-22T13:04:42.948Z,"Are the following two products the same?
 Product 1: Title: Intel Core i9-9900X Skylake X 10-Core 3.5 GHz (4.4 GHz Turbo) LGA 2066 165W BX80673I99900X Desktop Processor
 Description: Intel Core i9-9900X Skylake X 10-Core 3.5 GHz (4.4 GHz Turbo) LGA 2066 165W BX80673I99900X Desktop Processor
@@ -2511,7 +2510,7 @@ Answer with 'True' or 'False'.",False.,False,False,NONE,50%,80%,,"
 {""attribute"":""color"",""importance"":""0.0"",""values"":[""missing"",""missing""]}]","
 
 [{""attribute"":""brand"",""importance"":""0.2"",""values"":[""Seagate"",""WD""]},
-{""attribute"":""model"",""importance"":""0.8"",""values"":[""2TB FireCuda 3.5"" SATA 6Gb/s SSHD"",""Blue 3D NAND 250GB Internal SSD - SATA III 6Gb/s M.2 2280 Solid State Drive - WDS250G2B0B""]},
+{""attribute"":""model"",""importance"":""0.8"",""values"":[""2TB FireCuda 3.5' SATA 6Gb/s SSHD"",""Blue 3D NAND 250GB Internal SSD - SATA III 6Gb/s M.2 2280 Solid State Drive - WDS250G2B0B""]},
 {""attribute"":""color"",""importance"":""0.0"",""values"":[""missing"",""missing""]}]"
 145,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:04:35.749Z,2023-10-22T13:04:36.837Z,"Are the following two products the same?
 Product 1: Title: Instax Mini Rainbow Film 10 Pack
@@ -2747,7 +2746,7 @@ Answer with 'True' or 'False'.",False. The two products are not the same.,False,
 
 [{""attribute"":""brand"",""importance"":""0.05"",""values"":[""TP-LINK"",""missing""]},{""attribute"":""model"",""importance"":""0.95"",""values"":[""ARCHER C60"",""ADATTATORE USB2.0""]},{""attribute"":""color"",""importance"":""0.00"",""values"":[""missing"",""missing""]}]","
 
-[{""attribute"":""brand"",""importance"":""0.1"",""values"":[""TP-LINK"",""missing""]},{""attribute"":""model"",""importance"":""0.9"", ""values"":[""ARCHER C60"",""missing""]},{""attribute"":""color"",""importance"":""0.0"", ""values"":[""missing"",""missing""]},{""attribute"":""wireless_band"",""importance"":""0.8"", ""values"":[""2.40 GHZ ISM BAND - 5 GHZ UNII BAND"",""2.4GHZ-NANO SIZE""]},{""attribute"":""wireless_speed"",""importance"":""0.7"", ""values"":[""168.75 MB/S"",""150M""]},{""attribute"":""network_ports"",""importance"":""0.6"", ""values"":[""4 X NETWORK PORT"",""missing""]},{""attribute"":""broadband_port"",""importance"":""0.5"", ""values"":[""1 X BROADBAND PORT"",""missing""]},{""attribute"":""ethernet_type"",""importance"":""0.4"", ""values"":[""FAST ETHERNET"",""missing""]},{""attribute"":""vpn_support"",""importance"":""0.3"", ""values"":[""VPN SUPPORTED"",""missing""]},{""attribute"":""device_type"",""importance"":""0.2"", ""values"":[""DESKTOP"",""missing""]},{""attribute"":""oper"
+[{""attribute"":""brand"",""importance"":""0.1"",""values"":[""TP-LINK"",""missing""]},{""attribute"":""model"",""importance"":""0.9"", ""values"":[""ARCHER C60"",""missing""]},{""attribute"":""color"",""importance"":""0.0"", ""values"":[""missing"",""missing""]},{""attribute"":""wireless_band"",""importance"":""0.8"", ""values"":[""2.40 GHZ ISM BAND - 5 GHZ UNII BAND"",""2.4GHZ-NANO SIZE""]},{""attribute"":""wireless_speed"",""importance"":""0.7"", ""values"":[""168.75 MB/S"",""150M""]},{""attribute"":""network_ports"",""importance"":""0.6"", ""values"":[""4 X NETWORK PORT"",""missing""]},{""attribute"":""broadband_port"",""importance"":""0.5"", ""values"":[""1 X BROADBAND PORT"",""missing""]},{""attribute"":""ethernet_type"",""importance"":""0.4"", ""values"":[""FAST ETHERNET"",""missing""]},{""attribute"":""vpn_support"",""importance"":""0.3"", ""values"":[""VPN SUPPORTED"",""missing""]},{""attribute"":""device_type"",""importance"":""0.2"", ""values"":[""DESKTOP"",""missing""]}]"
 159,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:04:28.371Z,2023-10-22T13:04:28.781Z,"Are the following two products the same?
 Product 1: Title: Fujifilm Instax Square Instant Film - 10 Exposures
 Description: INSTAX Square Instant Film contains 10 sheets of instant color film that is compatible for use with INSTAX SQUARE cameras. This film features vivid color reproduction with natural skin tones, and its refined grain structure provides high image sharpn
@@ -2877,7 +2876,7 @@ Answer with 'True' or 'False'.",False.,False,False,NONE,60%,70%,,"
 {""","
 
 [{""attribute"":""brand"",""importance"":""0.05"",""values"":[""Maxxis"",""Maxxis""]},
-{""attribute"":""model"",""importance"":""0.95"", ""values"":[""Minion DHR II 29\"" DD/3C/TR"",""Minion DHR II 29"" x 2.4"" 60TPI Tire - 3C MG DH""]},
+{""attribute"":""model"",""importance"":""0.95"", ""values"":[""Minion DHR II 29' DD/3C/TR"",""Minion DHR II 29' x 2.4' 60TPI Tire - 3C MG DH""]},
 {""attribute"":""color"",""importance"":""0.00"", ""values"":[""missing"",""missing""]}]"
 167,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:04:23.864Z,2023-10-22T13:04:24.333Z,"Are the following two products the same?
 Product 1: Title: Fujifilm Instax Square Film Twin Pack 20 Shots
