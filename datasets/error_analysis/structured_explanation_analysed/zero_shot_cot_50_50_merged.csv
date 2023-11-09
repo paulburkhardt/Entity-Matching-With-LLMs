@@ -1,0 +1,226 @@
+attribute,count,average importance,variance of importance
+brand,176,0.383806818181818,0.08145653086260331
+product type,62,0.6903225806451613,0.06869667013527575
+description,14,0.1142857142857143,0.0426530612244898
+model,121,0.5595041322314053,0.09220305990028005
+casing,3,0.31666666666666665,0.0772222222222222
+technology,10,0.28500000000000003,0.08552499999999999
+tubeless ready,1,0.0,0.0
+model number,3,0.10000000000000002,1.925929944387236e-34
+page count,3,0.2833333333333333,0.03388888888888889
+material,2,0.07500000000000001,0.0006250000000000001
+Product Type,1,1.0,0.0
+Brand,3,0.4166666666666667,0.07388888888888888
+Country of Origin,1,0.3,0.0
+Grid Feature,1,0.5,0.0
+additional feature,1,0.1,0.0
+description details,1,0.0,0.0
+wireless speed,2,0.44999999999999996,0.062499999999999986
+frequency,8,0.2625,0.07984375000000002
+size,16,0.11562500000000002,0.013037109375000001
+support for 802.11bgn,1,0.05,0.0
+WPS support,1,0.05,0.0
+compatibility,22,0.325,0.1038068181818182
+number of ports,8,0.33125,0.0849609375
+number of PoE ports,2,0.44999999999999996,0.062499999999999986
+uplink port speed,1,0.15,0.0
+total power output,1,0.15,0.0
+maximum distance,1,0.1,0.0
+warranty,8,0.13125,0.0074609375000000006
+PoE standards,1,0.05,0.0
+noise cancelling,2,0.6,0.009999999999999995
+microphone,2,0.55,0.0024999999999999988
+part code,5,0.13,0.0036000000000000003
+delivery,3,0.08333333333333333,0.0005555555555555557
+connection type,4,0.4,0.125
+wireless standard,2,0.175,0.0006250000000000003
+dual band support,1,0.1,0.0
+speed,19,0.3789473684210526,0.10560941828254851
+color,40,0.08750000000000001,0.02734375
+quantity,10,0.37999999999999995,0.11110000000000002
+additional features,7,0.29999999999999993,0.047857142857142855
+functionality,1,0.1,0.0
+series,3,0.18333333333333335,0.0038888888888888883
+storage capacity,16,0.34062500000000007,0.063818359375
+type,32,0.38124999999999987,0.10949218749999999
+additional code,1,0.0,0.0
+interface,27,0.1962962962962963,0.039801097393689984
+antenna,3,0.3666666666666667,0.008888888888888889
+number of sheets,2,0.6000000000000001,0.04000000000000001
+suggested accessory,1,0.05,0.0
+number of shots,8,0.4937499999999999,0.14027343750000001
+extra features,1,0.1,0.0
+restrictions,1,0.05,0.0
+edition,3,0.3,0.02666666666666667
+Type,3,1.0,0.0
+Data Transfer Rate,1,0.7,0.0
+Chipset,3,0.39999999999999997,0.02
+Antenna,3,0.3333333333333333,0.04222222222222222
+Power Output,2,0.35,0.0025000000000000014
+film type,6,0.5166666666666666,0.08472222222222221
+form factor,18,0.2,0.05416666666666667
+data transfer rate,8,0.275,0.08249999999999999
+read speed,11,0.29090909090909095,0.07037190082644627
+write speed,9,0.2777777777777778,0.08450617283950618
+capacity,38,0.22368421052631574,0.03128116343490304
+volume,2,0.15000000000000002,0.0025000000000000005
+type of paper,1,0.1,0.0
+intended user,1,0.6,0.0
+function,4,0.625,0.141875
+product line,2,0.8500000000000001,0.0024999999999999988
+part code / model number,1,0.5,0.0
+RPM Class,1,0.0,0.0
+Cache,1,0.0,0.0
+Warranty,1,0.0,0.0
+data transmission speed,1,0.7,0.0
+antenna type,3,0.6333333333333333,0.0005555555555555566
+number of antennas,1,0.5,0.0
+standards supported,1,0.4,0.0
+security features,1,0.3,0.0
+nand flash,1,0.0,0.0
+dimensions,3,0.09999999999999999,0.02
+MTBF,1,0.0,0.0
+NVMe support,1,0.0,0.0
+parity,1,0.0,0.0
+number of sheets/shots,2,0.75,0.0025000000000000044
+compatible camera,1,0.85,0.0
+design,2,0.2,0.009999999999999998
+package type,1,0.4,0.0
+lighting,1,0.0,0.0
+usage,5,0.5700000000000001,0.009600000000000001
+gender,1,0.0,0.0
+reference number,1,1.0,0.0
+extras,1,0.0,0.0
+color reproduction,5,0.19,0.0054
+grain structure,3,0.15,0.005
+border,1,0.1,0.0
+page type,1,0.7,0.0
+compatible hardware,1,0.5,0.0
+USB version,3,0.5666666666666668,0.0022222222222222214
+frequency band,5,0.57,0.0706
+pack type,2,0.65,0.022500000000000006
+quality,2,0.2,0.04000000000000001
+burners,1,0.5,0.0
+product function,1,0.8,0.0
+yield,1,0.0,0.0
+color/style,1,0.3,0.0
+number of exposures/shots,2,0.25,0.022500000000000003
+compatible camera model,5,0.6,0.08499999999999999
+Speed,1,0.7,0.0
+Mode,1,0.4,0.0
+Standards,1,0.2,0.0
+read/write speed,4,0.2375,0.024218749999999997
+power consumption,1,0.1,0.0
+data rate,2,0.05,0.0025000000000000005
+warranty period,4,0.07500000000000001,0.006875000000000001
+compatible cameras,1,0.1,0.0
+frame color,1,0.1,0.0
+category,1,1.0,0.0
+response time,1,0.3,0.0
+refresh rate,1,0.3,0.0
+G-SYNC technology,1,0.3,0.0
+shipping,1,0.1,0.0
+return policy,1,0.1,0.0
+wireless transmission rate,1,0.7,0.0
+Ethernet Port,1,0.6,0.0
+operating modes,1,0.75,0.0
+package content,2,0.35,0.12249999999999998
+page yield,1,0.0,0.0
+network ports,1,0.5,0.0
+broadband port,1,0.5,0.0
+VPN support,1,0.3,0.0
+tubeless,1,0.05,0.0
+folding,1,0.0,0.0
+wide trail,1,0.0,0.0
+film format,1,1.0,0.0
+incompatibility,1,0.1,0.0
+PoE standard,4,0.35,0.06749999999999999
+support for WPS,1,0.1,0.0
+uplink speed,1,0.05,0.0
+fingerprint scanner,1,0.05,0.0
+interface/operating system,1,0.1,0.0
+case material,1,0.1,0.0
+language of description,1,0.1,0.0
+limited edition,1,0.1,0.0
+storage capability,1,0.1,0.0
+ISO,2,0.025,0.0006250000000000001
+finish,2,0.025,0.0006250000000000001
+grain quality,2,0.025,0.0006250000000000001
+image formation speed,1,0.05,0.0
+resistance to age-induced changes,2,0.025,0.0006250000000000001
+disposal ease,1,0.05,0.0
+feature,3,0.4166666666666667,0.013888888888888888
+band,1,0.7,0.0
+technical specifications,1,0.8,0.0
+format,1,0.8,0.0
+case type,1,0.0,0.0
+wireless capability,1,0.0,0.0
+wireless speed at 2.4GHz,1,0.7,0.0
+wireless speed at 5GHz,1,0.7,0.0
+USB port,1,0.5,0.0
+print capacity,1,0.5,0.0
+compatible devices,4,0.4,0.055
+line interval,1,0.1,0.0
+use,2,0.3,0.09
+device type,1,0.95,0.0
+Interface,1,0.7,0.0
+Supported Standards,1,0.6,0.0
+Supported Operating Systems,1,0.3,0.0
+Wireless Speed,1,0.2,0.0
+Size,1,0.1,0.0
+WPS Support,1,0.1,0.0
+page details,1,0.4,0.0
+image quality,1,0.1,0.0
+weatherproof,1,0.1,0.0
+PoE adapter included,1,0.1,0.0
+tire size,1,0.85,0.0
+tire type,1,0.75,0.0
+compound,1,0.7,0.0
+side knobs,1,0.65,0.0
+center tread,1,0.65,0.0
+sipes,1,0.65,0.0
+pack size,1,0.7,0.0
+border color,1,0.3,0.0
+connector type,1,0.7,0.0
+noise cancellation,1,0.6,0.0
+earpiece type,1,0.5,0.0
+connectivity,1,0.7,0.0
+audio quality,1,0.6,0.0
+quick disconnect feature,1,0.5,0.0
+headset type,1,0.8,0.0
+boom arm feature,1,0.5,0.0
+platform,1,0.5,0.0
+power transfer,1,0.5,0.0
+resolution,1,0.5,0.0
+lens,1,0.5,0.0
+Ethernet ports,1,0.5,0.0
+uplink,1,0.5,0.0
+movement,1,0.85,0.0
+origin,2,0.05,0.0025000000000000005
+maximum speed,1,0.35,0.0
+dual-band capability,1,0.2,0.0
+Connection Type,1,0.3,0.0
+Speed on 2.4 GHz,1,0.15,0.0
+Speed on 5 GHz,1,0.15,0.0
+WiFi Standard,1,0.1,0.0
+performance description,1,0.3,0.0
+condition,1,0.3,0.0
+image formation,1,0.0,0.0
+composition,1,0.0,0.0
+number of pages,1,0.0,0.0
+product code,1,0.05,0.0
+seller,1,0.1,0.0
+number of gigabit combo ports,1,0.7,0.0
+number of uplink ports,1,0.7,0.0
+maximum power output,1,0.5,0.0
+NAND technology,1,0.2,0.0
+wireless networking,1,0.05,0.0
+duplex printing,1,0.05,0.0
+PoE ports,1,0.05,0.0
+ear type,1,0.1,0.0
+type of ports,1,0.8,0.0
+frame,1,0.1,0.0
+package details,1,0.5,0.0
+stock details,1,0.1,0.0
+compatible device,1,0.1,0.0
+weight,1,0.1,0.0
