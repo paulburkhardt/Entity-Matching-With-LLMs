@@ -1,4 +1,4 @@
-Unnamed: 0,traceId,model,startTime,endTime,prompt,completion,predicted_label,label,error,similarity,confidence,whole_output,structured_explanation,structured_explanation_v2
+Unnamed: 0,traceId,model,startTime,endTime,prompt,completion,predicted_label,label,error,similarity,confidence,whole_output,structured_explanation,structured_explanation_v2,structured_explanation_v2_gpt4,unstructured_analysis
 0,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:05:58.793Z,2023-10-22T13:05:59.340Z,"Are the following two products the same?
 Product 1: Title: Traveler's Lined Notebook Refill - Regular Size
 Description: Think about the days you went to school. Based on people’s past experience as a student, we receive comments saying that this is the most easy type of notebook to use. The lines are printed with an interval of 6.5mm, and the paper is our originally m
@@ -9,18 +9,7 @@ Answer with 'True' or 'False'.",False.,False,True,FN,30%,50%,,"
 
 [{""attribute"":""brand"",""importance"":""0.5"",""values"":[""Traveler's Company"",""Traveler's Company""]},{""attribute"":""model"",""importance"":""0.3"",""values"":[""Notebook Refill - Regular Size"",""Notebook Accessories""]},{""attribute"":""color"",""importance"":""0.2"",""values"":[""missing"",""missing""]}]","
 
-[{""attribute"":""brand"",""importance"":""0.5"",""values"":[""Traveler's Company"",""Traveler's Company""]},{""attribute"":""model"",""importance"":""0.3"", ""values"":[""Notebook Refill - Regular Size"",""Notebook Accessories""]},{""attribute"":""color"",""importance"":""0.2"", ""values"":[""missing"",""missing""]}]"
-4,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:05:56.925Z,2023-10-22T13:05:57.320Z,"Are the following two products the same?
-Product 1: Title: TAG Heuer Formula 1 CAZ1010.FT8024
-Description: Find Authentic TAG Heuer Formula 1 CAZ1010.FT8024 with TAG Heuer Warranty at lowest prices. Fast & FREE Shipping. 14-day Return Policy. Tax Free & Worldwide Delivery. Lowest Prices on all watches and brands. (Model CAZ1010.FT8024)
-Product 2: Title: TAG Heuer Formula 1 Chronograph 43mm CAZ1010.FT8024
-Description: none
-
-Answer with 'True' or 'False'.",True,True,True,NONE,100%,90%,,"
-
-[{""attribute"":""brand"",""importance"":""0.2"",""values"":[""TAG Heuer"",""TAG Heuer""]},{""attribute"":""model"",""importance"":""0.8"",""values"":[""Formula 1 CAZ1010.FT8024"",""Formula 1 Chronograph 43mm CAZ1010.FT8024""]},{""attribute"":""color"",""importance"":""0.0"",""values"":[""missing"",""missing""]}]","
-
-[{""attribute"":""brand"",""importance"":""0.1"",""values"":[""TAG Heuer"",""TAG Heuer""]},{""attribute"":""model"",""importance"":""0.9"", ""values"":[""Formula 1 CAZ1010.FT8024"",""Formula 1 Chronograph 43mm CAZ1010.FT8024""]},{""attribute"":""color"",""importance"":""0.0"", ""values"":[""missing"",""missing""]}]"
+[{""attribute"":""brand"",""importance"":""0.5"",""values"":[""Traveler's Company"",""Traveler's Company""]},{""attribute"":""model"",""importance"":""0.3"", ""values"":[""Notebook Refill - Regular Size"",""Notebook Accessories""]},{""attribute"":""color"",""importance"":""0.2"", ""values"":[""missing"",""missing""]}]","[{""attribute"":""title"",""importance"":""0.50"",""values"":[""Traveler's Lined Notebook Refill - Regular Size"",""Traveler's Company Traveler's Company Notebook Accessories""]},{""attribute"":""description"",""importance"":""0.50"", ""values"":[""Think about the days you went to school. Based on people’s past experience as a student, we receive comments saying that this is the most easy type of notebook to use. The lines are printed with an interval of 6.5mm, and the paper is our originally m"",""missing""]}]","I made my decision based on the fact that the two products have different titles and descriptions. The attributes that had a high influence on my decision were the product titles and descriptions. The first product is specifically described as a ""Traveler's Lined Notebook Refill - Regular Size"" with a detailed description of its features, while the second product has a vague title of ""Traveler's Company Notebook Accessories"" with no description. Therefore, I concluded that the two products are not the same."
 7,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:05:55.711Z,2023-10-22T13:05:56.147Z,"Are the following two products the same?
 Product 1: Title: 5 Port, Hikvision PoE Network Switch
 Description: Switch with 4 PoE ports + 1 x Uplink port 10/100Mbps RJ45 ports 58 watts total Max Extend On, up to 250m distance 2 Years Manufacturers Warranty
@@ -43,7 +32,7 @@ Answer with 'True' or 'False'.",False.,False,True,FN,85%,80%,,"
 {""attribute"":""ports"",""importance"":""0.90"", ""values"":[""4 PoE ports + 1 x Uplink port 10/100Mbps RJ45 ports"",""4x 10/100Mbps Ethernet ports""]},
 {""attribute"":""warranty"",""importance"":""0.10"", ""values"":[""2 Years Manufacturers Warranty"",""missing""]},
 {""attribute"":""max distance"",""importance"":""0.80"", ""values"":[""up to 250m distance"",""missing""]},
-{""attribute"":""PoE standard"",""importance"":""0.70"", ""values"":[""IEEE 802.3af or 802.3at"",""802.3af or 802.3at""]}]"
+{""attribute"":""PoE standard"",""importance"":""0.70"", ""values"":[""IEEE 802.3af or 802.3at"",""802.3af or 802.3at""]}]","[{""attribute"":""brand"",""importance"":""0.05"",""values"":[""Hikvision"",""Hikvision""]},{""attribute"":""number of PoE ports"",""importance"":""0.45"", ""values"":[""4"",""4""]},{""attribute"":""number of uplink ports"",""importance"":""0.45"", ""values"":[""1"",""1""]},{""attribute"":""PoE standard"",""importance"":""0.05"", ""values"":[""missing"",""802.3af or 802.3at""]},{""attribute"":""management"",""importance"":""0.00"", ""values"":[""missing"",""Unmanaged""]}]","I made my decision based on the fact that the two products have different titles, descriptions, and features. Product 1 has 5 ports with 4 PoE ports and 1 uplink port, while Product 2 has 4 ports with 1 uplink port. Additionally, Product 1 has a total of 58 watts maximum power, while Product 2 supports IEEE 802.3af or 802.3at PoE standard. These differences in attributes and values led me to conclude that the two products are not the same."
 8,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:05:55.246Z,2023-10-22T13:05:55.698Z,"Are the following two products the same?
 Product 1: Title: Jabra Biz 2400 II Mono 3-1, NC, 82 mic, Wideband, QD
 Description: none
@@ -66,7 +55,7 @@ Answer with 'True' or 'False'.",False.,False,True,FN,90%,80%,,"
 {""attribute"":""noise cancellation"",""importance"":""0.1"",""values"":[""NC"",""missing""]},
 {""attribute"":""microphone"",""importance"":""0.3"",""values"":[""82 mic"",""missing""]},
 {""attribute"":""wideband"",""importance"":""0.2"",""values"":[""Wideband"",""Wideband""]},
-{""attribute"":""quick disconnect"",""importance"":""0.1"",""values"":[""QD"",""missing""]}]"
+{""attribute"":""quick disconnect"",""importance"":""0.1"",""values"":[""QD"",""missing""]}]","[{""attribute"":""brand"",""importance"":""0.2"",""values"":[""Jabra"",""Jabra""]},{""attribute"":""model"",""importance"":""0.7"", ""values"":[""Biz 2400 II Mono 3-1, NC, 82 mic, Wideband, QD"",""BIZ 2400 II Mono 3-in-1 Wideband""]},{""attribute"":""part code"",""importance"":""0.1"", ""values"":[""missing"",""2486-820-209""]}]","I made my decision based on the fact that the two products have different titles and descriptions. Although both products are Jabra BIZ 2400 II Mono 3-in-1 headsets, the first product has additional features such as NC, 82 mic, and QD, which are not mentioned in the second product's title or description. Therefore, I concluded that the two products are not the same."
 11,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:05:53.960Z,2023-10-22T13:05:54.432Z,"Are the following two products the same?
 Product 1: Title: SanDisk Extreme PRO UHS-II SD Card Reader USB 3.0
 Description: Maximize workflow efficiencyThe SanDisk Extreme PRO® SDTM UHS-II Card Reader/Writer is designed to increase workflow efficiency for professional photographers and videographers. Small enough for fieldwork, the compact reader is built to handle the hi
@@ -81,18 +70,7 @@ Answer with 'True' or 'False'.",False.,False,True,FN,80%,70%,,"
 
 [{""attribute"":""brand"",""importance"":""0.05"",""values"":[""SanDisk"",""SanDisk""]},
 {""attribute"":""model"",""importance"":""0.95"", ""values"":[""Extreme PRO UHS-II SD Card Reader USB 3.0"",""Extreme PRO SD UHS-II USB 3.0""]},
-{""attribute"":""color"",""importance"":""0.00"", ""values"":[""missing"",""missing""]}]"
-16,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:05:51.524Z,2023-10-22T13:05:52.094Z,"Are the following two products the same?
-Product 1: Title: Fujifilm Instax Square Film for SQ10 Hybrid Cameras 20 Shot Pack
-Description: EXTRA VALUE 2x 10 Shot Packs (giving you 20 shots in total). FRESH UK STOCKS AND LONG DATED. Fujifilm Instax \""SQUARE\"" film is for use in only square format instant print cameras such as the new SQ10, SQ6 cameras...Note: Not for use in Fuji Instax \
-Product 2: Title: Fujifilm Instax Square Instant Film - 10 Exposures
-Description: INSTAX Square Instant Film contains 10 sheets of instant color film that is compatible for use with INSTAX SQUARE cameras. This film features vivid color reproduction with natural skin tones, and its refined grain structure provides high image sharpn
-
-Answer with 'True' or 'False'.",False.,False,True,FN,60%,80%,,"
-
-[{""attribute"":""brand"",""importance"":""0.05"",""values"":[""Fujifilm"",""Fujifilm""]},{""attribute"":""model"",""importance"":""0.95"",""values"":[""Instax Square Film for SQ10 Hybrid Cameras"",""Instax Square Instant Film""]},{""attribute"":""color"",""importance"":""0.00"",""values"":[""missing"",""missing""]}]","
-
-[{""attribute"":""brand"",""importance"":""0.05"",""values"":[""Fujifilm"",""Fujifilm""]},{""attribute"":""model"",""importance"":""0.95"", ""values"":[""Instax Square Film for SQ10 Hybrid Cameras"",""Instax Square Instant Film""]},{""attribute"":""color"",""importance"":""0.00"", ""values"":[""missing"",""missing""]}]"
+{""attribute"":""color"",""importance"":""0.00"", ""values"":[""missing"",""missing""]}]","[{""attribute"":""brand"",""importance"":""0.1"",""values"":[""SanDisk"",""SanDisk""]},{""attribute"":""model"",""importance"":""0.8"", ""values"":[""Extreme PRO UHS-II SD Card Reader USB 3.0"",""Extreme PRO SD UHS-II USB 3.0""]},{""attribute"":""description"",""importance"":""0.1"", ""values"":[""Maximize workflow efficiencyThe SanDisk Extreme PRO® SDTM UHS-II Card Reader/Writer is designed to increase workflow efficiency for professional photographers and videographers. Small enough for fieldwork, the compact reader is built to handle the hi"",""missing""]}]","I made my decision based on the fact that the two products have different titles and descriptions. The first product is a SanDisk Extreme PRO UHS-II SD Card Reader USB 3.0, while the second product is a SanDisk Extreme PRO SD UHS-II USB 3.0. The first product has a detailed description that mentions its ability to increase workflow efficiency for professional photographers and videographers, while the second product has no description. These attributes and values had a high influence on my decision."
 18,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:05:50.471Z,2023-10-22T13:05:50.960Z,"Are the following two products the same?
 Product 1: Title: Adaptador WiFi N PCI Express 150 Mbps 20dBm, 802.11b/g/n Chipset Atheros, 1 Antena 2 dBi desmontable.
 Description: Adaptador WiFi N PCI Express 150 Mbps 20dBm, 802.11b/g/n Chipset Atheros, 1 Antena 2 dBi desmontable.
@@ -103,171 +81,71 @@ Answer with 'True' or 'False'.",False.,False,True,FN,50%,70%,,"
 
 [{""attribute"":""brand"",""importance"":""0.05"",""values"":[""missing"",""TP-Link""]},{""attribute"":""model"",""importance"":""0.95"",""values"":[""missing"",""TL-WN781ND""]},{""attribute"":""color"",""importance"":""0.00"",""values"":[""missing"",""missing""]},{""attribute"":""title"",""importance"":""0.50"",""values"":[""Adaptador WiFi N PCI Express 150 Mbps 20dBm, 802.11b/g/n Chipset Atheros, 1 Antena 2 dBi desmontable."",""TP-Link TL-WN781ND Netcard PCI-eX Wireless 150 mb""]},{""attribute"":""description"",""importance"":""0.50"",""values"":[""Adaptador WiFi N PCI Express 150 Mbps 20dBm, 802.11b/g/n Chipset Atheros, 1 Antena 2 dBi desmontable."",""missing""]}]","
 
-[{""attribute"":""brand"",""importance"":""0.2"",""values"":[""missing"",""TP-Link""]},{""attribute"":""model"",""importance"":""0.8"", ""values"":[""missing"",""TL-WN781ND""]},{""attribute"":""color"",""importance"":""0.0"", ""values"":[""missing"",""missing""]},{""attribute"":""speed"",""importance"":""0.6"", ""values"":[""150 Mbps"",""150 mb""]},{""attribute"":""power"",""importance"":""0.4"", ""values"":[""20dBm"",""missing""]},{""attribute"":""wireless standard"",""importance"":""0.8"", ""values"":[""802.11b/g/n"",""missing""]},{""attribute"":""chipset"",""importance"":""0.8"", ""values"":[""Atheros"",""missing""]},{""attribute"":""antenna"",""importance"":""0.6"", ""values"":[""1 Antena 2 dBi desmontable"",""missing""]}]"
-19,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:05:49.974Z,2023-10-22T13:05:50.469Z,"Are the following two products the same?
-Product 1: Title: [Fujifilm]100 Sheet Fujifilm Instax Square Plain White Instant Polaroid Film for SQ 10 Camera | SP3 Printer
-Description: 100 sheet instax Square Film
-Product 2: Title: Fujifilm Instax Square Film Twin Pack 20 Shots
-Description: The Fujifilm Instax Film Square Twin Pack 20 Shots is designed for the Fujifilm Instax Square SQ6 instant camera. The film boasts the same professional high quality found in all Instax
+[{""attribute"":""brand"",""importance"":""0.2"",""values"":[""missing"",""TP-Link""]},{""attribute"":""model"",""importance"":""0.8"", ""values"":[""missing"",""TL-WN781ND""]},{""attribute"":""color"",""importance"":""0.0"", ""values"":[""missing"",""missing""]},{""attribute"":""speed"",""importance"":""0.6"", ""values"":[""150 Mbps"",""150 mb""]},{""attribute"":""power"",""importance"":""0.4"", ""values"":[""20dBm"",""missing""]},{""attribute"":""wireless standard"",""importance"":""0.8"", ""values"":[""802.11b/g/n"",""missing""]},{""attribute"":""chipset"",""importance"":""0.8"", ""values"":[""Atheros"",""missing""]},{""attribute"":""antenna"",""importance"":""0.6"", ""values"":[""1 Antena 2 dBi desmontable"",""missing""]}]","[{""attribute"":""brand"",""importance"":""0.7"",""values"":[""missing"",""TP-Link""]},{""attribute"":""model"",""importance"":""0.3"", ""values"":[""missing"",""TL-WN781ND""]},{""attribute"":""type"",""importance"":""0.6"", ""values"":[""Adaptador WiFi N PCI Express 150 Mbps 20dBm, 802.11b/g/n Chipset Atheros, 1 Antena 2 dBi desmontable"",""Netcard PCI-eX Wireless 150 mb""]},{""attribute"":""antenna"",""importance"":""0.4"", ""values"":[""1 Antena 2 dBi desmontable"",""missing""]}]","I made my decision based on the fact that the two products have different titles and descriptions. The first product has a specific title and description that mentions the brand, chipset, antenna, and speed, while the second product only has a title that mentions the brand and speed, but no description. Therefore, I concluded that the two products are not the same. The attributes that had a high influence on my decision were the title and description of each product, which provided specific information about the product's features and specifications."
+21,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:05:49.049Z,2023-10-22T13:05:49.548Z,"Are the following two products the same?
+Product 1: Title: Western Digital WD Blue SN550 1TB NVMe SSD
+Description: none
+Product 2: Title: Western Digital Blue SN550 M.2-2280 1TB
+Description: Huge 1TB storage capacity and super Rapid 2400Mbps read speed and amazingly Rapid 1950Mbps write speed.
 
-Answer with 'True' or 'False'.",False.,False,True,FN,60%,80%,,"
+Answer with 'True' or 'False'.",True.,True,True,NONE,100%,95%,,"
 
-[{""attribute"":""brand"",""importance"":""0.5"",""values"":[""Fujifilm"",""Fujifilm""]},{""attribute"":""model"",""importance"":""0.3"",""values"":[""SQ 10 Camera | SP3 Printer"",""SQ6""]},{""attribute"":""color"",""importance"":""0.2"",""values"":[""White"",""missing""]}]","
+[{""attribute"":""brand"",""importance"":""0.5"",""values"":[""Western Digital"",""Western Digital""]},
+{""attribute"":""model"",""importance"":""0.3"",""values"":[""WD Blue SN550"",""Blue SN550 M.2-2280""]},
+{""attribute"":""storage capacity"",""importance"":""0.1"",""values"":[""1TB"",""1TB""]},
+{""attribute"":""read speed"",""importance"":""0.05"",""values"":[""2400Mbps"",""missing""]},
+{""attribute"":""write speed"",""importance"":""0.05"",""values"":[""1950Mbps"",""missing""]}]","
 
-[{""attribute"":""brand"",""importance"":""0.5"",""values"":[""Fujifilm"",""Fujifilm""]},
-{""attribute"":""model"",""importance"":""0.3"",""values"":[""SQ 10 Camera | SP3 Printer"",""SQ6""]},
-{""attribute"":""color"",""importance"":""0.2"",""values"":[""White"",""missing""]}]"
-31,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:05:43.711Z,2023-10-22T13:05:44.208Z,"Are the following two products the same?
+[{""attribute"":""brand"",""importance"":""0.2"",""values"":[""Western Digital"",""Western Digital""]},
+{""attribute"":""model"",""importance"":""0.8"",""values"":[""WD Blue SN550 1TB NVMe SSD"",""Blue SN550 M.2-2280 1TB""]},
+{""attribute"":""storage capacity"",""importance"":""0.6"",""values"":[""1TB"",""1TB""]},
+{""attribute"":""read speed"",""importance"":""0.4"",""values"":[""2400Mbps"",""missing""]},
+{""attribute"":""write speed"",""importance"":""0.4"",""values"":[""1950Mbps"",""missing""]}]","[{""attribute"":""brand"",""importance"":""0.5"",""values"":[""Western Digital"",""Western Digital""]},{""attribute"":""model"",""importance"":""0.5"", ""values"":[""WD Blue SN550 1TB NVMe SSD"",""Blue SN550 M.2-2280 1TB""]},{""attribute"":""storage capacity"",""importance"":""0.0"", ""values"":[""1TB"",""1TB""]},{""attribute"":""read speed"",""importance"":""0.0"", ""values"":[""missing"",""2400Mbps""]},{""attribute"":""write speed"",""importance"":""0.0"", ""values"":[""missing"",""1950Mbps""]}]","I made my decision based on the titles of the two products. Both products have the same brand, model, and storage capacity. The only difference is that one product mentions ""NVMe SSD"" in the title, while the other mentions ""M.2-2280"". However, both terms refer to the same type of SSD. Therefore, I concluded that the two products are the same. The absence of a description for Product 1 and the presence of a description for Product 2 did not have any influence on my decision."
+26,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:05:46.703Z,2023-10-22T13:05:47.255Z,"Are the following two products the same?
 Product 1: Title: SanDisk Extreme PRO UHS-II SD Card Reader USB 3.0
 Description: Maximize workflow efficiencyThe SanDisk Extreme PRO® SDTM UHS-II Card Reader/Writer is designed to increase workflow efficiency for professional photographers and videographers. Small enough for fieldwork, the compact reader is built to handle the hi
-Product 2: Title: Shimano BB-MT800 Threaded Bottom Bracket
-Description: Genuine Shimano HollowTech II bottom bracket; enjoy maintenance free performance from this XT MT800 Bottom Bracket that has sealed cups to prevent water and mud ingress.Features:Set includes left and right hand cups, spacers, inner cover, and inner O
+Product 2: Title: Instax Fujifilm | Instax SQUARE Instant Film - Black Border (10 Exposures)
+Description: none
 
-Answer with 'True' or 'False'.",False.,False,False,NONE,10%,40%,,"
+Answer with 'True' or 'False'.",False.,False,False,NONE,0%,40%,,"
 
-[{""attribute"":""brand"",""importance"":""0.05"",""values"":[""SanDisk"",""Shimano""]},
-{""attribute"":""model"",""importance"":""0.95"",""values"":[""Extreme PRO UHS-II SD Card Reader USB 3.0"",""BB-MT800 Threaded Bottom Bracket""]},
-{""attribute"":""color"",""importance"":""0.00"",""values"":[""missing"",""missing""]}]","
+[{""attribute"":""brand"",""importance"":""0.5"",""values"":[""SanDisk"",""Instax Fujifilm""]},{""attribute"":""model"",""importance"":""0.3"",""values"":[""Extreme PRO UHS-II SD Card Reader USB 3.0"",""missing""]},{""attribute"":""color"",""importance"":""0.2"",""values"":[""missing"",""Black Border""]}]","
 
-[{""attribute"":""brand"",""importance"":""0.5"",""values"":[""SanDisk"",""Shimano""]},{""attribute"":""model"",""importance"":""0.3"", ""values"":[""Extreme PRO UHS-II SD Card Reader USB 3.0"",""BB-MT800 Threaded Bottom Bracket""]},{""attribute"":""color"",""importance"":""0.2"", ""values"":[""missing"",""missing""]}]"
-34,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:05:41.715Z,2023-10-22T13:05:42.387Z,"Are the following two products the same?
-Product 1: Title: 002 TN Regular Refill Grid Notebook Basic Item TRC
-Description: Traveler's company
-Product 2: Title: 012 Traveler's Notebook Regular- Refill - Sketch Notebook
+[{""attribute"":""brand"",""importance"":""0.5"",""values"":[""SanDisk"",""Instax Fujifilm""]},{""attribute"":""model"",""importance"":""0.3"", ""values"":[""Extreme PRO UHS-II SD Card Reader USB 3.0"",""missing""]},{""attribute"":""color"",""importance"":""0.2"", ""values"":[""missing"",""Black Border""]}]","[{""attribute"":""brand"",""importance"":""0.7"",""values"":[""SanDisk"",""Instax Fujifilm""]},{""attribute"":""product type"",""importance"":""0.9"", ""values"":[""SD Card Reader"",""Instant Film""]},{""attribute"":""color"",""importance"":""0.00"", ""values"":[""missing"",""Black Border""]},{""attribute"":""quantity"",""importance"":""0.00"", ""values"":[""missing"",""10 Exposures""]}]","I made my decision based on the fact that the two products have different titles, descriptions, and purposes. Product 1 is a SanDisk Extreme PRO UHS-II SD Card Reader USB 3.0 designed for professional photographers and videographers to increase workflow efficiency. On the other hand, Product 2 is an Instax Fujifilm | Instax SQUARE Instant Film - Black Border (10 Exposures) with no description. Therefore, the attributes and values that influenced my decision were the product titles, descriptions, and intended use."
+53,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:05:31.548Z,2023-10-22T13:05:32.049Z,"Are the following two products the same?
+Product 1: Title: 012 Traveler's Notebook Regular- Refill - Sketch Notebook
 Description: TheTRAVELER'S Notebook SketchRefillallows you to bring your sketching wherever you go. Each sketchbook refill has 48 stitch-bound pages of perforated paper, with a more substantial thickness that is suitable for fountain pen ink or light water media.
+Product 2: Title: TRAVELER'S COMPANY Notebook - Blue
+Description: TRAVELER’S notebook Blue was released as a limited edition in 2015 and the blue color was well-received as a refreshing, new tone of TRAVELER’S notebook. Even after the conclusion of sale, so many requests were received for re-launch of blue during T
 
-Answer with 'True' or 'False'.",False.,False,False,NONE,50%,70%,,"
+Answer with 'True' or 'False'.",False.,False,False,NONE,30%,50%,,"
 
-[{""attribute"":""brand"",""importance"":""0.2"",""values"":[""Traveler's company"",""Traveler's company""]},
-{""attribute"":""model"",""importance"":""0.8"",""values"":[""002 TN Regular Refill Grid Notebook Basic Item TRC"",""012 Traveler's Notebook Regular- Refill - Sketch Notebook""]},
-{""attribute"":""color"",""importance"":""0.0"",""values"":[""missing"",""missing""]}]","
+[{""attribute"":""brand"",""importance"":""0.05"",""values"":[""Traveler's Notebook"",""Traveler's Company""]},
+{""attribute"":""model"",""importance"":""0.95"",""values"":[""Regular- Refill - Sketch Notebook"",""Notebook - Blue""]},
+{""attribute"":""color"",""importance"":""0.00"",""values"":[""missing"",""Blue""]}]","
 
-[{""attribute"":""brand"",""importance"":""0.2"",""values"":[""Traveler's company"",""Traveler's company""]},
-{""attribute"":""model"",""importance"":""0.8"",""values"":[""002 TN Regular Refill Grid Notebook Basic Item TRC"",""012 Traveler's Notebook Regular- Refill - Sketch Notebook""]},
-{""attribute"":""color"",""importance"":""0.0"",""values"":[""missing"",""missing""]}]"
-39,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:05:39.016Z,2023-10-22T13:05:39.766Z,"Are the following two products the same?
-Product 1: Title: SAMSUNG 65\"" 4K UHD Smart QLED TV (QN65Q70T)
-Description: Quantum Processor 4KDual LEDAdaptive PictureActive Voice Amplifier
-Product 2: Title: Maxxis Minion DHR II 29\"" DD/3C/TR
-Description: Minion DHR II 29 x 2.35 tubeless ready tyre with Double down casing and 3C Maxx Terra.For our full range of Bike Accessories visit Evans Cycles
+[{""attribute"":""brand"",""importance"":""0.05"",""values"":[""Traveler's Notebook"",""Traveler's Company""]},
+{""attribute"":""model"",""importance"":""0.95"", ""values"":[""Regular- Refill - Sketch Notebook"",""Notebook - Blue""]},
+{""attribute"":""color"",""importance"":""0.00"", ""values"":[""missing"",""Blue""]}]","[{""attribute"":""brand"",""importance"":""0.3"",""values"":[""012 Traveler's"",""TRAVELER'S COMPANY""]},{""attribute"":""model"",""importance"":""0.6"", ""values"":[""Notebook Regular- Refill - Sketch Notebook"",""Notebook - Blue""]},{""attribute"":""color"",""importance"":""0.1"", ""values"":[""missing"",""Blue""]}]","I made my decision based on the fact that the two products have different titles and descriptions. The first product is a refill for a Traveler's Notebook Regular with a sketch notebook, while the second product is a limited edition Traveler's Notebook in blue color. The attributes that had a high influence on my decision were the titles and descriptions of the products."
+55,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:05:30.592Z,2023-10-22T13:05:31.075Z,"Are the following two products the same?
+Product 1: Title: Seagate IronWolf PRO 8TB NAS 3.5\"" SATA HDD/Hard Drive
+Description: 8TB Seagate IronWolf PRO ST8000NE001 NAS Hard Drive, 3.5\"" HDD, SATA III 6Gb/s, 7200rpm, 256MB Cache, OEM
+Product 2: Title: Western Digital SSD M.22TB Blue 3D NAND
+Description: none
 
 Answer with 'True' or 'False'.",False.,False,False,NONE,0%,50%,,"
 
-[{""attribute"":""brand"",""importance"":""0.5"",""values"":[""SAMSUNG"",""Maxxis""]},{""attribute"":""model"",""importance"":""0.3"",""values"":[""QN65Q70T"",""Minion DHR II""]},{""attribute"":""size"",""importance"":""0.1"",""values"":[""65\"""",""29\""""]},{""attribute"":""resolution"",""importance"":""0.05"",""values"":[""4K UHD"",""missing""]},{""attribute"":""technology"",""importance"":""0.05"",""values"":[""Smart QLED"",""DD/3C/TR""]}]","
+[{""attribute"":""brand"",""importance"":""0.5"",""values"":[""Seagate"",""Western Digital""]},{""attribute"":""model"",""importance"":""0.3"",""values"":[""IronWolf PRO ST8000NE001"",""missing""]},{""attribute"":""capacity"",""importance"":""0.1"",""values"":[""8TB"",""2TB""]},{""attribute"":""form factor"",""importance"":""0.05"",""values"":[""3.5\"""",""M.2""]},{""attribute"":""interface"",""importance"":""0.05"",""values"":[""SATA III 6Gb/s"",""missing""]},{""attribute"":""cache"",""importance"":""0.0"",""values"":[""256MB"",""missing""]},{""attribute"":""rpm"",""importance"":""0.0"",""values"":[""7200rpm"",""missing""]},{""attribute"":""technology"",""importance"":""0.0"",""values"":[""HDD"",""SSD""]}]","
 
-[{""attribute"":""brand"",""importance"":""0.5"",""values"":[""SAMSUNG"",""Maxxis""]},
-{""attribute"":""model"",""importance"":""0.3"",""values"":[""QN65Q70T"",""Minion DHR II""]},
-{""attribute"":""size"",""importance"":""0.1"",""values"":[""65\"""",""29\""""]},
-{""attribute"":""technology"",""importance"":""0.1"",""values"":[""4K UHD Smart QLED"",""DD/3C/TR""]}]"
-58,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:05:27.665Z,2023-10-22T13:05:28.781Z,"Are the following two products the same?
-Product 1: Title: WD Blue 3D - 2048 GB - M.2 - 560 MB/s - 6 Gbit/s WDS200T2B0B
-Description: WD Blue 3D - 2048 GB - M.2 - 560 MB/s - 6 Gbit/s TB - M.2 - SATA 6Gb/s - 560/530 MB/s Western Digital Blue 3D. SSD capacity: 2048 GB, SSD form factor: M.2, Read speed: 560 MB/s, Write speed: 530 MB/s, Data transfer rate: 6 Gbit/s, Component for: PC/n
-Product 2: Title: SanDisk ""Plus"" SSD Hard Drive, 120GB, SATA 3 (6Gbit, s)
-Description: RELIABLE, FAST AND PLENTY OF CAPACITYSanDisk, a pioneer in solid state storage technologies and the brand pros trust, delivers improved speed and performance with the SanDisk SSD Plus. With sequential read speeds of up to 535MB/s, this solid state dr
-
-Answer with 'True' or 'False'.","False. The two products have different titles, capacities, and specifications.",False,False,NONE,20%,80%,,"
-
-[{""attribute"":""brand"",""importance"":""0.05"",""values"":[""WD"",""SanDisk""]},
-{""attribute"":""model"",""importance"":""0.95"",""values"":[""Blue 3D - 2048 GB - M.2 - 560 MB/s - 6 Gbit/s WDS200T2B0B"",""Plus SSD Hard Drive, 120GB, SATA 3 (6Gbit, s)""]},
-{""attribute"":""capacity"",""importance"":""0.9"",""values"":[""2048 GB"",""120GB""]},
-{""attribute"":""form factor"",""importance"":""0.8"",""values"":[""M.2"",""missing""]},
-{""attribute"":""read speed"",""importance"":""0.9"",""values"":[""560 MB/s"",""535MB/s""]},
-{""attribute"":""write speed"",""importance"":""0.9"",""values"":[""530 MB/s"",""missing""]},
-{""attribute"":""data transfer rate"",""importance"":""0.8"",""values"":[""6 Gbit/s"",""missing""]},
-{""attribute"":""component"",""importance"":""0.7"",""values"":[""PC/n"",""missing""]}]","
-
-[{""attribute"":""brand"",""importance"":""0.2"",""values"":[""WD"",""SanDisk""]},
-{""attribute"":""model"",""importance"":""0.3"",""values"":[""Blue 3D"",""Plus""]},
-{""attribute"":""capacity"",""importance"":""0.2"",""values"":[""2048 GB"",""120GB""]},
-{""attribute"":""form factor"",""importance"":""0.1"",""values"":[""M.2"",""missing""]},
-{""attribute"":""read speed"",""importance"":""0.1"",""values"":[""560 MB/s"",""535 MB/s""]},
-{""attribute"":""write speed"",""importance"":""0.1"",""values"":[""530 MB/s"",""missing""]},
-{""attribute"":""data transfer rate"",""importance"":""0.1"",""values"":[""6 Gbit/s"",""6 Gbit/s""]},
-{""attribute"":""component"",""importance"":""0.0"",""values"":[""PC/n"",""missing""]}]"
-62,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:05:25.582Z,2023-10-22T13:05:26.099Z,"Are the following two products the same?
-Product 1: Title: Tp-Link Wireless N USB Adapter 300Mbps
-Description: none
-Product 2: Title: TP-Link EAP110 300Mbps Wireless N300 Ceiling Mount Access Point 1x1Gbps RJ45 PoE 1x Console Port 2x4dBi Omni Internal Antenna
-Description: 300Mbps Wireless N Ceiling Mount Access Point EAP110EAP Controller Software enables administrators to easily manage hundreds of EAPsSupports passive PoE for convenient installation up to 100metersCeiling mounting design with chassis make it easy to d
-
-Answer with 'True' or 'False'.",False.,False,False,NONE,50%,70%,,"
-
-[{""attribute"":""brand"",""importance"":""0.05"",""values"":[""TP-Link"",""TP-Link""]},
-{""attribute"":""model"",""importance"":""0.95"",""values"":[""Wireless N USB Adapter 300Mbps"",""EAP110 300Mbps Wireless N300 Ceiling Mount Access Point""]},
-{""attribute"":""color"",""importance"":""0.00"",""values"":[""missing"",""missing""]}]","
-
-[{""attribute"":""brand"",""importance"":""0.05"",""values"":[""TP-Link"",""TP-Link""]},
-{""attribute"":""model"",""importance"":""0.95"", ""values"":[""Wireless N USB Adapter 300Mbps"",""EAP110 300Mbps Wireless N300 Ceiling Mount Access Point""]},
-{""attribute"":""color"",""importance"":""0.00"", ""values"":[""missing"",""missing""]},
-{""attribute"":""description"",""importance"":""0.00"", ""values"":[""none"",""300Mbps Wireless N Ceiling Mount Access Point EAP110EAP Controller Software enables administrators to easily manage hundreds of EAPsSupports passive PoE for convenient installation up to 100metersCeiling mounting design with chassis make it easy to d""]}]"
-88,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:05:09.268Z,2023-10-22T13:05:10.211Z,"Are the following two products the same?
-Product 1: Title: WD Blue 3D NAND 250GB Internal SSD - SATA III 6Gb/s M.2 2280 Solid State Drive - WDS250G2B0B
-Description: WD Blue 3D NAND 250GB Internal SSD - SATA III 6Gb/s M.2 2280 Solid State Drive - WDS250G2B0B
-Product 2: Title: Gigabyte SSD 240GB 2.5\"" Serial ATA III
-Description: none
-
-Answer with 'True' or 'False'.",False.,False,False,NONE,50%,70%,,"
-
-[{""attribute"":""brand"",""importance"":""0.5"",""values"":[""WD"",""Gigabyte""]},{""attribute"":""model"",""importance"":""0.3"",""values"":[""Blue 3D NAND 250GB Internal SSD"",""SSD 240GB""]},{""attribute"":""color"",""importance"":""0.2"",""values"":[""missing"",""missing""]}]","
-
-[{""attribute"":""brand"",""importance"":""0.5"",""values"":[""WD"",""Gigabyte""]},{""attribute"":""model"",""importance"":""0.3"", ""values"":[""Blue 3D NAND 250GB Internal SSD"",""SSD 240GB""]},{""attribute"":""color"",""importance"":""0.2"", ""values"":[""missing"",""missing""]}]"
-89,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:05:08.806Z,2023-10-22T13:05:09.267Z,"Are the following two products the same?
-Product 1: Title: WD Blue 3D - 2048 GB - M.2 - 560 MB/s - 6 Gbit/s WDS200T2B0B
-Description: WD Blue 3D - 2048 GB - M.2 - 560 MB/s - 6 Gbit/s TB - M.2 - SATA 6Gb/s - 560/530 MB/s Western Digital Blue 3D. SSD capacity: 2048 GB, SSD form factor: M.2, Read speed: 560 MB/s, Write speed: 530 MB/s, Data transfer rate: 6 Gbit/s, Component for: PC/n
-Product 2: Title: WD 250GB Blue Series m.2 SSD WDS250G2B0B
-Description: HDSSD00250WDC003
-
-Answer with 'True' or 'False'.",False.,False,False,NONE,80%,85%,,"
-
-[{""attribute"":""brand"",""importance"":""0.2"",""values"":[""WD"",""WD""]},
-{""attribute"":""model"",""importance"":""0.8"",""values"":[""Blue 3D"",""250GB Blue Series""]},
-{""attribute"":""capacity"",""importance"":""0.1"",""values"":[""2048 GB"",""250 GB""]},
-{""attribute"":""form factor"",""importance"":""0.05"",""values"":[""M.2"",""m.2""]},
-{""attribute"":""read speed"",""importance"":""0.15"",""values"":[""560 MB/s"",""missing""]},
-{""attribute"":""write speed"",""importance"":""0.15"",""values"":[""530 MB/s"",""missing""]},
-{""attribute"":""data transfer rate"",""importance"":""0.1"",""values"":[""6 Gbit/s"",""missing""]},
-{""attribute"":""component"",""importance"":""0.05"",""values"":[""PC/n"",""missing""]}]","
-
-[{""attribute"":""brand"",""importance"":""0.2"",""values"":[""WD"",""WD""]},
-{""attribute"":""model"",""importance"":""0.8"",""values"":[""Blue 3D - 2048 GB - M.2 - 560 MB/s - 6 Gbit/s WDS200T2B0B"",""250GB Blue Series m.2 SSD WDS250G2B0B""]},
-{""attribute"":""capacity"",""importance"":""0.1"",""values"":[""2048 GB"",""250GB""]},
-{""attribute"":""form factor"",""importance"":""0.1"",""values"":[""M.2"",""m.2""]},
-{""attribute"":""read speed"",""importance"":""0.2"",""values"":[""560 MB/s"",""missing""]},
-{""attribute"":""write speed"",""importance"":""0.2"",""values"":[""530 MB/s"",""missing""]},
-{""attribute"":""data transfer rate"",""importance"":""0.1"",""values"":[""6 Gbit/s"",""missing""]},
-{""attribute"":""component"",""importance"":""0.1"",""values"":[""PC/n"",""missing""]}]"
-91,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:05:07.841Z,2023-10-22T13:05:08.309Z,"Are the following two products the same?
-Product 1: Title: Seagate EXOS 10TB 3.5\"" SATA Enterprise HDD/Hard Drive 7200rpm
-Description: 10TB Seagate EXOS ST10000NM0016, 3.5\"" Enterprise HDD, SATA III - 6GB/s, 7200rpm, 256MB Cache, 512E, 4.16ms, OEM
-Product 2: Title: [Fujifilm]100 Sheet Fujifilm Instax Square Plain White Instant Polaroid Film for SQ 10 Camera | SP3 Printer
-Description: 100 sheet instax Square Film
-
-Answer with 'True' or 'False'.",False.,False,False,NONE,30%,80%,,"
-
-[{""attribute"":""brand"",""importance"":""0.05"",""values"":[""Seagate"",""Fujifilm""]},
-{""attribute"":""model"",""importance"":""0.95"",""values"":[""EXOS ST10000NM0016"",""missing""]},
-{""attribute"":""color"",""importance"":""0.00"",""values"":[""missing"",""Plain White""]}]","
-
-[{""attribute"":""brand"",""importance"":""0.05"",""values"":[""Seagate"",""Fujifilm""]},
-{""attribute"":""model"",""importance"":""0.95"", ""values"":[""EXOS ST10000NM0016"",""missing""]},
-{""attribute"":""color"",""importance"":""0.00"", ""values"":[""missing"",""Plain White""]}]"
-102,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:05:00.662Z,2023-10-22T13:05:01.116Z,"Are the following two products the same?
-Product 1: Title: Zebra Black Monochrome Ribbon 800011-101 - 1000 Prints
-Description: none
-Product 2: Title: Fujifilm 16531958 instant picture film 54 x 86 mm 10 pc(s)
-Description: This single pack of FUJIFILM INSTAX Mini Monochrome Instant Film contains 10 sheets of instant black & white film that is compatible for use with the FUJIFILM INSTAX Mini series of cameras or INSTAX SHARE printers. This film features neutral gray ton
-
-Answer with 'True' or 'False'.",False.,False,False,NONE,10%,40%,,"
-
-[{""attribute"":""brand"",""importance"":""0.05"",""values"":[""Zebra"",""Fujifilm""]},{""attribute"":""model"",""importance"":""0.95"",""values"":[""800011-101"",""16531958""]},{""attribute"":""color"",""importance"":""0.00"",""values"":[""Black"",""missing""]}]","
-
-[{""attribute"":""brand"",""importance"":""0.05"",""values"":[""Zebra"",""Fujifilm""]},
-{""attribute"":""model"",""importance"":""0.95"", ""values"":[""800011-101"",""16531958""]},
-{""attribute"":""color"",""importance"":""0.00"", ""values"":[""Black"",""missing""]},
-{""attribute"":""prints"",""importance"":""0.00"", ""values"":[""1000"",""missing""]},
-{""attribute"":""film type"",""importance"":""0.95"", ""values"":[""Monochrome"",""Instant""]},
-{""attribute"":""film size"",""importance"":""0.95"", ""values"":[""54 x 86 mm"",""missing""]},
-{""attribute"":""film quantity"",""importance"":""0.95"", ""values"":[""10"",""missing""]}]"
+[{""attribute"":""brand"",""importance"":""0.5"",""values"":[""Seagate"",""Western Digital""]},
+{""attribute"":""model"",""importance"":""0.3"",""values"":[""IronWolf PRO ST8000NE001"",""missing""]},
+{""attribute"":""capacity"",""importance"":""0.1"",""values"":[""8TB"",""2TB""]},
+{""attribute"":""form factor"",""importance"":""0.05"",""values"":[""3.5\"""",""M.2""]},
+{""attribute"":""interface"",""importance"":""0.05"",""values"":[""SATA III 6Gb/s"",""missing""]},
+{""attribute"":""rpm"",""importance"":""0.0"",""values"":[""7200"",""missing""]},
+{""attribute"":""cache"",""importance"":""0.0"",""values"":[""256MB"",""missing""]},
+{""attribute"":""type"",""importance"":""0.0"",""values"":[""HDD"",""SSD""]},
+{""attribute"":""color"",""importance"":""0.0"",""values"":[""missing"",""Blue 3D NAND""]}]","[{""attribute"":""brand"",""importance"":""1"",""values"":[""Seagate"",""Western Digital""]},{""attribute"":""model"",""importance"":""1"", ""values"":[""IronWolf PRO 8TB NAS 3.5\"" SATA HDD/Hard Drive"",""SSD M.22TB Blue 3D NAND""]},{""attribute"":""type"",""importance"":""1"", ""values"":[""HDD"",""SSD""]},{""attribute"":""capacity"",""importance"":""0.5"", ""values"":[""8TB"",""2TB""]},{""attribute"":""interface"",""importance"":""0.5"", ""values"":[""SATA III 6Gb/s"",""missing""]},{""attribute"":""rpm"",""importance"":""0.25"", ""values"":[""7200rpm"",""missing""]},{""attribute"":""cache"",""importance"":""0.25"", ""values"":[""256MB Cache"",""missing""]}]","I made my decision based on the fact that the two products have different titles, descriptions, and specifications. The first product is a Seagate IronWolf PRO 8TB NAS hard drive with a 3.5"" form factor, SATA III 6Gb/s interface, 7200rpm speed, 256MB cache, and OEM packaging. The second product is a Western Digital SSD with a 2TB capacity, M.2 form factor, Blue 3D NAND technology, and no description of its interface, speed, or cache. Therefore, the two products are not the same and have different attributes and values."
 105,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:04:58.735Z,2023-10-22T13:04:59.743Z,"Are the following two products the same?
 Product 1: Title: Fujifilm Instax Square Film for SQ10 Hybrid Cameras 20 Shot Pack
 Description: EXTRA VALUE 2x 10 Shot Packs (giving you 20 shots in total). FRESH UK STOCKS AND LONG DATED. Fujifilm Instax \""SQUARE\"" film is for use in only square format instant print cameras such as the new SQ10, SQ6 cameras...Note: Not for use in Fuji Instax \
@@ -280,7 +158,7 @@ Answer with 'True' or 'False'.",True,True,False,FP,90%,80%,,"
 {""attribute"":""model"",""importance"":""0.95"",""values"":[""Instax Square Film for SQ10 Hybrid Cameras"",""Instax Square Film Twin Pack""]},
 {""attribute"":""color"",""importance"":""0.00"",""values"":[""missing"",""missing""]}]","
 
-[{""attribute"":""brand"",""importance"":""0.05"",""values"":[""Fujifilm"",""Fujifilm""]},{""attribute"":""model"",""importance"":""0.95"", ""values"":[""Instax Square Film for SQ10 Hybrid Cameras 20 Shot Pack"",""Instax Square Film Twin Pack 20 Shots""]},{""attribute"":""color"",""importance"":""0.00"", ""values"":[""missing"",""missing""]}]"
+[{""attribute"":""brand"",""importance"":""0.05"",""values"":[""Fujifilm"",""Fujifilm""]},{""attribute"":""model"",""importance"":""0.95"", ""values"":[""Instax Square Film for SQ10 Hybrid Cameras 20 Shot Pack"",""Instax Square Film Twin Pack 20 Shots""]},{""attribute"":""color"",""importance"":""0.00"", ""values"":[""missing"",""missing""]}]","[{""attribute"":""brand"",""importance"":""0.5"",""values"":[""Fujifilm"",""Fujifilm""]},{""attribute"":""film type"",""importance"":""0.3"", ""values"":[""Instax Square"",""Instax Square""]},{""attribute"":""compatible model"",""importance"":""0.1"", ""values"":[""SQ10 Hybrid Cameras, SQ6"",""SQ6""]},{""attribute"":""pack size"",""importance"":""0.1"", ""values"":[""20 Shot Pack"",""20 Shots""]}]","I made my decision based on the fact that both products have 20 shots and are designed for Fujifilm Instax Square cameras. The only difference is that Product 1 is marketed as an ""extra value"" pack with two 10-shot packs, while Product 2 is marketed as a twin pack. However, both products have the same professional high quality found in all Instax films. Therefore, I concluded that the two products are the same."
 125,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:04:48.492Z,2023-10-22T13:04:48.976Z,"Are the following two products the same?
 Product 1: Title: WD Blue 3D NAND 250GB Internal SSD - SATA III 6Gb/s M.2 2280 Solid State Drive - WDS250G2B0B
 Description: WD Blue 3D NAND 250GB Internal SSD - SATA III 6Gb/s M.2 2280 Solid State Drive - WDS250G2B0B
@@ -305,33 +183,7 @@ Answer with 'True' or 'False'.",True,True,False,FP,100%,100%,,"
 {""attribute"":""capacity"",""importance"":""0.7"",""values"":[""250GB"",""250GB""]},
 {""attribute"":""interface"",""importance"":""0.1"",""values"":[""SATA III 6Gb/s M.2 2280"",""missing""]},
 {""attribute"":""brand name"",""importance"":""0.1"",""values"":[""Western Digital"",""Western Digital""]},
-{""attribute"":""model number"",""importance"":""0.8"",""values"":[""WDS250G2B0B"",""WDS250G1B0A""]}]"
-150,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:04:33.162Z,2023-10-22T13:04:33.655Z,"Are the following two products the same?
-Product 1: Title: SanDisk Extreme PRO 300MBs UHSII Class 10 U3 SDHC Card 32GB
-Description: SanDisk Extreme PRO 300MBs UHS-II Class 10 U3 SDHC Card - 32GB has speeds of up to 300 MB/s, and write speeds of up to 260 MB/s
-Product 2: Title: WD Blue 3D - 2048 GB - M.2 - 560 MB/s - 6 Gbit/s WDS200T2B0B
-Description: WD Blue 3D - 2048 GB - M.2 - 560 MB/s - 6 Gbit/s TB - M.2 - SATA 6Gb/s - 560/530 MB/s Western Digital Blue 3D. SSD capacity: 2048 GB, SSD form factor: M.2, Read speed: 560 MB/s, Write speed: 530 MB/s, Data transfer rate: 6 Gbit/s, Component for: PC/n
-
-Answer with 'True' or 'False'.",False.,False,False,NONE,20%,50%,,"
-
-[{""attribute"":""brand"",""importance"":""0.1"",""values"":[""SanDisk"",""WD""]},
-{""attribute"":""model"",""importance"":""0.9"",""values"":[""Extreme PRO 300MBs UHSII Class 10 U3 SDHC Card 32GB"",""Blue 3D - 2048 GB - M.2 - 560 MB/s - 6 Gbit/s WDS200T2B0B""]},
-{""attribute"":""capacity"",""importance"":""0.05"",""values"":[""32GB"",""2048 GB""]},
-{""attribute"":""form factor"",""importance"":""0.05"",""values"":[""SDHC"",""M.2""]},
-{""attribute"":""read speed"",""importance"":""0.2"",""values"":[""300 MB/s"",""560 MB/s""]},
-{""attribute"":""write speed"",""importance"":""0.2"",""values"":[""260 MB/s"",""530 MB/s""]},
-{""attribute"":""data transfer rate"",""importance"":""0.1"",""values"":[""missing"",""6 Gbit/s""]},
-{""attribute"":""component"",""importance"":""0.05"",""values"":[""PC/n"",""missing""]},
-{""attribute"":""color"",""importance"":""0.00"",""values"":[""missing"",""missing""]}]","
-
-[{""attribute"":""brand"",""importance"":""0.1"",""values"":[""SanDisk"",""WD""]},
-{""attribute"":""model"",""importance"":""0.9"",""values"":[""Extreme PRO 300MBs UHSII Class 10 U3 SDHC Card 32GB"",""Blue 3D - 2048 GB - M.2 - 560 MB/s - 6 Gbit/s WDS200T2B0B""]},
-{""attribute"":""capacity"",""importance"":""0.2"",""values"":[""32GB"",""2048 GB""]},
-{""attribute"":""form factor"",""importance"":""0.1"",""values"":[""SDHC"",""M.2""]},
-{""attribute"":""read speed"",""importance"":""0.3"",""values"":[""300 MB/s"",""560 MB/s""]},
-{""attribute"":""write speed"",""importance"":""0.3"",""values"":[""260 MB/s"",""530 MB/s""]},
-{""attribute"":""data transfer rate"",""importance"":""0.2"",""values"":[""missing"",""6 Gbit/s""]},
-{""attribute"":""component"",""importance"":""0.1"",""values"":[""missing"",""PC/n""]}]"
+{""attribute"":""model number"",""importance"":""0.8"",""values"":[""WDS250G2B0B"",""WDS250G1B0A""]}]","[{""attribute"":""brand"",""importance"":""0.2"",""values"":[""WD"",""WD""]},{""attribute"":""model"",""importance"":""0.7"", ""values"":[""Blue 3D NAND 250GB Internal SSD - SATA III 6Gb/s M.2 2280 Solid State Drive - WDS250G2B0B"",""Blue 250GB - [WDS250G1B0A] SSD""]},{""attribute"":""capacity"",""importance"":""0.1"", ""values"":[""250GB"",""250GB""]}]","I made my decision based on the fact that both products have the same brand (WD Blue), storage capacity (250GB), and type (SSD). The only difference is in the model number and form factor. Product 1 is an M.2 2280 form factor with model number WDS250G2B0B, while Product 2 is a 2.5"" form factor with model number WDS250G1B0A. However, both products have the same SATA III 6Gb/s interface and are from the same manufacturer (Western Digital). Therefore, I concluded that both products are the same."
 159,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:04:28.371Z,2023-10-22T13:04:28.781Z,"Are the following two products the same?
 Product 1: Title: Fujifilm Instax Square Instant Film - 10 Exposures
 Description: INSTAX Square Instant Film contains 10 sheets of instant color film that is compatible for use with INSTAX SQUARE cameras. This film features vivid color reproduction with natural skin tones, and its refined grain structure provides high image sharpn
@@ -342,53 +194,7 @@ Answer with 'True' or 'False'.",True,True,False,FP,90%,95%,,"
 
 [{""attribute"":""brand"",""importance"":""0.05"",""values"":[""Fujifilm"",""Fujifilm""]},{""attribute"":""model"",""importance"":""0.95"",""values"":[""Instax Square Instant Film"",""Instax Square Film Twin Pack""]},{""attribute"":""color"",""importance"":""0.00"",""values"":[""missing"",""missing""]}]","
 
-[{""attribute"":""brand"",""importance"":""0.05"",""values"":[""Fujifilm"",""Fujifilm""]},{""attribute"":""model"",""importance"":""0.95"", ""values"":[""Instax Square Instant Film"",""Instax Square Film Twin Pack""]},{""attribute"":""color"",""importance"":""0.00"", ""values"":[""missing"",""missing""]}]"
-165,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:04:24.822Z,2023-10-22T13:04:25.308Z,"Are the following two products the same?
-Product 1: Title: Fujifilm FUJINON XF56mm F1.2 R APD
-Description: none
-Product 2: Title: Fujifilm Instax Square Film for SQ10 Hybrid Cameras 20 Shot Pack
-Description: EXTRA VALUE 2x 10 Shot Packs (giving you 20 shots in total). FRESH UK STOCKS AND LONG DATED. Fujifilm Instax \""SQUARE\"" film is for use in only square format instant print cameras such as the new SQ10, SQ6 cameras...Note: Not for use in Fuji Instax \
-
-Answer with 'True' or 'False'.",False.,False,False,NONE,0%,50%,,"
-
-[{""attribute"":""brand"",""importance"":""0.05"",""values"":[""Fujifilm"",""Fujifilm""]},
-{""attribute"":""model"",""importance"":""0.95"",""values"":[""XF56mm F1.2 R APD"",""Instax Square Film for SQ10 Hybrid Cameras""]},
-{""attribute"":""color"",""importance"":""0.00"",""values"":[""missing"",""missing""]}]","
-
-[{""attribute"":""brand"",""importance"":""0.5"",""values"":[""Fujifilm"",""Fujifilm""]},{""attribute"":""model"",""importance"":""0.3"", ""values"":[""XF56mm F1.2 R APD"",""Instax Square Film""]},{""attribute"":""color"",""importance"":""0.2"", ""values"":[""missing"",""White""]}]"
-180,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:04:16.582Z,2023-10-22T13:04:17.070Z,"Are the following two products the same?
-Product 1: Title: Instax Mini Rainbow Film 10 Pack
-Description: Brighten the place up with this pack of rainbow coloured film! Top tip: one of these would look fab in our Instax Mini Acrylic Photo Block!Includes pack of 10 shots
-Product 2: Title: MAIN ASUS ROG STRIX Z390-I GAMING
-Description: LGA1151 socket for 9th/ 8th Gen Intel® Core™ desktop processorsAura Sync RGB: Synchronize LED lighting with a vast portfolio of compatible PC gear, including addressable RGB stripsComprehensive cooling: Integrated I/O shield and VRM heatsink, Double 
-
-Answer with 'True' or 'False'.",False.,False,False,NONE,0%,0% ,,"
-
-[{""attribute"":""brand"",""importance"":""0.05"",""values"":[""Fujifilm"",""Asus""]},
-{""attribute"":""model"",""importance"":""0.95"",""values"":[""Instax Mini Rainbow Film 10 Pack"",""ROG STRIX Z390-I GAMING""]},
-{""attribute"":""color"",""importance"":""0.50"",""values"":[""Rainbow"",""missing""]},
-{""attribute"":""compatible devices"",""importance"":""0.75"",""values"":[""Instax Mini Acrylic Photo Block"",""Aura Sync RGB""]},
-{""attribute"":""cooling system"",""importance"":""0.80"",""values"":[""Double"",""Integrated I/O shield and VRM heatsink""]}]","
-
-[{""attribute"":""brand"",""importance"":""0.05"",""values"":[""Fujifilm"",""Asus""]},
-{""attribute"":""model"",""importance"":""0.95"", ""values"":[""Instax Mini Rainbow Film 10 Pack"",""ROG STRIX Z390-I GAMING""]},
-{""attribute"":""color"",""importance"":""0.50"", ""values"":[""Rainbow"",""missing""]},
-{""attribute"":""compatibility"",""importance"":""0.75"", ""values"":[""Instax Mini Acrylic Photo Block"",""9th/ 8th Gen Intel® Core™ desktop processors""]},
-{""attribute"":""lighting"",""importance"":""0.25"", ""values"":[""Rainbow"",""Aura Sync RGB""]},
-{""attribute"":""cooling"",""importance"":""0.50"", ""values"":[""Integrated I/O shield and VRM heatsink"",""missing""]}]"
-187,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:04:12.352Z,2023-10-22T13:04:12.869Z,"Are the following two products the same?
-Product 1: Title: Traveler's Company Traveler's Company Notebook Accessories
-Description: none
-Product 2: Title: Traveler's Refills: MD Paper - 002 / grid
-Description: These notebooks aremade in Japan, where there is a rich tradition of elevating basic craft to perfected art form. MD Paper is no exception,meticulously engineered for the finest writing experience. There is no detail overlooked: the paper is made fro
-
-Answer with 'True' or 'False'.",False.,False,False,NONE,40%,80%,,"
-
-[{""attribute"":""brand"",""importance"":""0.05"",""values"":[""Traveler's Company"",""Traveler's Company""]},
-{""attribute"":""model"",""importance"":""0.95"",""values"":[""Notebook Accessories"",""Refills: MD Paper - 002 / grid""]},
-{""attribute"":""color"",""importance"":""0.00"",""values"":[""missing"",""missing""]}]","
-
-[{""attribute"":""brand"",""importance"":""0.5"",""values"":[""Traveler's Company"",""Traveler's Company""]},{""attribute"":""model"",""importance"":""0.3"", ""values"":[""Notebook Accessories"",""Refills: MD Paper - 002 / grid""]},{""attribute"":""color"",""importance"":""0.2"", ""values"":[""missing"",""missing""]}]"
+[{""attribute"":""brand"",""importance"":""0.05"",""values"":[""Fujifilm"",""Fujifilm""]},{""attribute"":""model"",""importance"":""0.95"", ""values"":[""Instax Square Instant Film"",""Instax Square Film Twin Pack""]},{""attribute"":""color"",""importance"":""0.00"", ""values"":[""missing"",""missing""]}]","[{""attribute"":""brand"",""importance"":""1"",""values"":[""Fujifilm"",""Fujifilm""]},{""attribute"":""type"",""importance"":""0.8"", ""values"":[""Instax Square Instant Film"",""Instax Square Film""]},{""attribute"":""quantity"",""importance"":""0.9"", ""values"":[""10 Exposures"",""20 Shots""]},{""attribute"":""compatibility"",""importance"":""0.7"", ""values"":[""INSTAX SQUARE cameras"",""Fujifilm Instax Square SQ6 instant camera""]},{""attribute"":""quality"",""importance"":""0.6"", ""values"":[""high image sharpness"",""professional high quality""]}]","I made my decision based on the titles and descriptions of the two products. Both products are Fujifilm Instax Square film, but Product 1 contains 10 exposures while Product 2 contains 20 exposures in a twin pack. However, both products are compatible with INSTAX SQUARE cameras and feature vivid color reproduction with natural skin tones and high image sharpness. Therefore, I concluded that the two products are essentially the same, with the only difference being the quantity of film included."
 196,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:04:07.229Z,2023-10-22T13:04:07.692Z,"Are the following two products the same?
 Product 1: Title: Jabra Biz 2400 II Mono 3-in-1 Noise Canceling Mono Headset
 Description: Jabra Biz 2400 II Mono 3-in-1 Noise Canceling Mono Headset
@@ -403,7 +209,7 @@ Answer with 'True' or 'False'.",True,True,False,FP,100%,100%,,"
 
 [{""attribute"":""brand"",""importance"":""0.2"",""values"":[""Jabra"",""Jabra""]},
 {""attribute"":""model"",""importance"":""0.8"",""values"":[""Biz 2400 II Mono 3-in-1"",""BIZ 2400 II Mono 3-in-1""]},
-{""attribute"":""color"",""importance"":""0.0"",""values"":[""missing"",""missing""]}]"
+{""attribute"":""color"",""importance"":""0.0"",""values"":[""missing"",""missing""]}]","[{""attribute"":""brand"",""importance"":""1"",""values"":[""Jabra"",""Jabra""]},{""attribute"":""model"",""importance"":""1"", ""values"":[""Biz 2400 II Mono 3-in-1"",""BIZ 2400 II Mono 3-in-1""]},{""attribute"":""feature"",""importance"":""0.5"", ""values"":[""Noise Canceling Mono Headset"",""Wideband""]},{""attribute"":""part code"",""importance"":""0.00"", ""values"":[""missing"",""2486-820-209""]}]","I made my decision based on the titles and descriptions of the two products. Both products have the same model number ""Jabra Biz 2400 II Mono 3-in-1"" and the same feature of ""Noise Canceling Mono Headset"". The only difference is that the second product has an additional feature of ""Wideband"" and is being sold by a specific retailer with a part code of ""2486-820-209"". However, these additional attributes do not change the fact that both products are the same Jabra Biz 2400 II Mono 3-in-1 Noise Canceling Mono Headset."
 207,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:04:01.269Z,2023-10-22T13:04:01.843Z,"Are the following two products the same?
 Product 1: Title: [Fujifilm]100 Sheet Fujifilm Instax Square Plain White Instant Polaroid Film for SQ 10 Camera | SP3 Printer
 Description: 100 sheet instax Square Film
@@ -418,21 +224,102 @@ Answer with 'True' or 'False'.",True.,True,False,FP,80%,90%,,"
 
 [{""attribute"":""brand"",""importance"":""0.05"",""values"":[""Fujifilm"",""Fujifilm""]},
 {""attribute"":""model"",""importance"":""0.95"", ""values"":[""SQ 10 Camera | SP3 Printer"",""SQ10 Hybrid Cameras""]},
-{""attribute"":""color"",""importance"":""0.00"", ""values"":[""missing"",""missing""]}]"
-210,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:03:59.152Z,2023-10-22T13:03:59.629Z,"Are the following two products the same?
-Product 1: Title: Tp-Link Wireless N USB Adapter 300Mbps
+{""attribute"":""color"",""importance"":""0.00"", ""values"":[""missing"",""missing""]}]","[{""attribute"":""brand"",""importance"":""1"",""values"":[""Fujifilm"",""Fujifilm""]},{""attribute"":""model"",""importance"":""1"", ""values"":[""SQ 10 Camera | SP3 Printer"",""SQ10 Hybrid Cameras""]},{""attribute"":""number of sheets"",""importance"":""0.5"", ""values"":[""100"",""20""]},{""attribute"":""compatible camera"",""importance"":""0.5"", ""values"":[""SQ 10 Camera | SP3 Printer"",""SQ10, SQ6 cameras""]}]","I made my decision by comparing the titles and descriptions of the two products. Both products are Fujifilm Instax Square film, but Product 1 has 100 sheets while Product 2 has 20 shots (2x 10 shot packs). Additionally, Product 1 is compatible with both the SQ 10 camera and SP3 printer, while Product 2 is specifically for use with the SQ10 hybrid camera. Therefore, I concluded that the two products are not exactly the same, but they are similar in that they both offer Fujifilm Instax Square film. The attributes that had a high influence on my decision were the number of sheets/shots and the compatibility with different cameras/printers."
+215,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:03:56.537Z,2023-10-22T13:03:57.021Z,"Are the following two products the same?
+Product 1: Title: TAG Heuer Formula 1 Chronograph 43mm CAZ1010.FT8024
 Description: none
-Product 2: Title: Kingston Canvas Select Plus MicroSD 100MBs Class 10 128GB
-Description: The Kingston Canvas Select Plus MicroSDXC Class 10 128GB with SD Adapter included has a Read Speed of 100MB/s and is compatible with Android devices
+Product 2: Title: Sony 30mm f/3.5 Macro Lens
+Description: Offers excellent optical sharpness and clarity as well as bokeh effect– whether you’re shooting portraits, street scenes or Full HD video .
 
-Answer with 'True' or 'False'.",False.,False,False,NONE,0%,50%,,"
+Answer with 'True' or 'False'.",False.,False,False,NONE,0%,0% ,,"
 
-[{""attribute"":""brand"",""importance"":""0.05"",""values"":[""Tp-Link"",""Kingston""]},
-{""attribute"":""model"",""importance"":""0.95"",""values"":[""Wireless N USB Adapter 300Mbps"",""Canvas Select Plus MicroSD 100MBs Class 10 128GB""]},
-{""attribute"":""color"",""importance"":""0.00"",""values"":[""missing"",""missing""]},
-{""attribute"":""read speed"",""importance"":""0.90"",""values"":[""missing"",""100MB/s""]},
-{""attribute"":""compatibility"",""importance"":""0.10"",""values"":[""missing"",""Android devices""]}]","
+[{""attribute"":""brand"",""importance"":""0.5"",""values"":[""TAG Heuer"",""Sony""]},{""attribute"":""model"",""importance"":""0.5"",""values"":[""Formula 1 Chronograph 43mm CAZ1010.FT8024"",""30mm f/3.5 Macro Lens""]},{""attribute"":""color"",""importance"":""0.0"",""values"":[""missing"",""missing""]}]","
 
-[{""attribute"":""brand"",""importance"":""0.05"",""values"":[""Tp-Link"",""Kingston""]},
-{""attribute"":""model"",""importance"":""0.95"", ""values"":[""Wireless N USB Adapter 300Mbps"",""Canvas Select Plus MicroSD 100MBs Class 10 128GB""]},
-{""attribute"":""color"",""importance"":""0.00"", ""values"":[""missing"",""missing""]}]"
+[{""attribute"":""brand"",""importance"":""0.5"",""values"":[""TAG Heuer"",""Sony""]},
+{""attribute"":""model"",""importance"":""0.5"",""values"":[""Formula 1 Chronograph 43mm CAZ1010.FT8024"",""30mm f/3.5 Macro Lens""]},
+{""attribute"":""color"",""importance"":""0.0"",""values"":[""missing"",""missing""]}]","[{""attribute"":""brand"",""importance"":""0.5"",""values"":[""TAG Heuer"",""Sony""]},{""attribute"":""model"",""importance"":""0.5"", ""values"":[""Formula 1 Chronograph 43mm CAZ1010.FT8024"",""30mm f/3.5 Macro Lens""]},{""attribute"":""description"",""importance"":""0.00"", ""values"":[""missing"",""Offers excellent optical sharpness and clarity as well as bokeh effect– whether you’re shooting portraits, street scenes or Full HD video .""]}]","I made my decision based on the fact that the two products have different titles and descriptions. The first product is a TAG Heuer Formula 1 Chronograph watch, while the second product is a Sony 30mm f/3.5 Macro Lens. The attributes that influenced my decision were the titles and descriptions of the products, which clearly indicate that they are different items."
+9,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:05:54.849Z,2023-10-22T13:05:55.245Z,"Are the following two products the same?
+Product 1: Title: WIRELESS AC600 DUAL BAND TP-LINK ARCHER T2U NANO USB2.0 150MBPS A 2.4GHZ + 433MBPS A 5GHZ 802.11AC/A/B/G/N
+Description: none
+Product 2: Title: ADATT. WIFI TP-LINK AC600 NANO WRLS USB
+Description: none
+
+Answer with 'True' or 'False'.",True,True,True,NONE,90%,95%,,"
+
+[{""attribute"":""brand"",""importance"":""0.5"",""values"":[""TP-LINK"",""TP-LINK""]},{""attribute"":""model"",""importance"":""0.3"",""values"":[""ARCHER T2U NANO"",""AC600 NANO""]},{""attribute"":""color"",""importance"":""0.2"",""values"":[""missing"",""missing""]}]","
+
+[{""attribute"":""brand"",""importance"":""0.5"",""values"":[""TP-LINK"",""TP-LINK""]},{""attribute"":""model"",""importance"":""0.3"", ""values"":[""ARCHER T2U NANO"",""AC600 NANO""]},{""attribute"":""color"",""importance"":""0.2"", ""values"":[""missing"",""missing""]}]","[{""attribute"":""brand"",""importance"":""1"",""values"":[""TP-LINK"",""TP-LINK""]},{""attribute"":""model"",""importance"":""1"", ""values"":[""AC600"",""AC600""]},{""attribute"":""type"",""importance"":""1"", ""values"":[""Wireless Nano USB"",""Wireless Nano USB""]},{""attribute"":""band"",""importance"":""0.5"", ""values"":[""Dual Band"",""missing""]},{""attribute"":""speed"",""importance"":""0.5"", ""values"":[""150Mbps at 2.4GHz + 433Mbps at 5GHz"",""missing""]},{""attribute"":""standard"",""importance"":""0.5"", ""values"":[""802.11ac/a/b/g/n"",""missing""]}]","I made my decision based on the titles of the two products. Both products have the same brand (TP-LINK) and model (AC600 Nano Wireless USB). The only difference is in the additional details provided in the title. Product 1 mentions the dual-band feature with specific speeds for each band, while Product 2 only mentions the AC600 standard. However, both products have the same AC600 standard, so the dual-band feature is the only attribute that distinguishes them. Therefore, I concluded that the two products are the same."
+31,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:05:43.711Z,2023-10-22T13:05:44.208Z,"Are the following two products the same?
+Product 1: Title: SanDisk Extreme PRO UHS-II SD Card Reader USB 3.0
+Description: Maximize workflow efficiencyThe SanDisk Extreme PRO® SDTM UHS-II Card Reader/Writer is designed to increase workflow efficiency for professional photographers and videographers. Small enough for fieldwork, the compact reader is built to handle the hi
+Product 2: Title: Shimano BB-MT800 Threaded Bottom Bracket
+Description: Genuine Shimano HollowTech II bottom bracket; enjoy maintenance free performance from this XT MT800 Bottom Bracket that has sealed cups to prevent water and mud ingress.Features:Set includes left and right hand cups, spacers, inner cover, and inner O
+
+Answer with 'True' or 'False'.",False.,False,False,NONE,10%,40%,,"
+
+[{""attribute"":""brand"",""importance"":""0.05"",""values"":[""SanDisk"",""Shimano""]},
+{""attribute"":""model"",""importance"":""0.95"",""values"":[""Extreme PRO UHS-II SD Card Reader USB 3.0"",""BB-MT800 Threaded Bottom Bracket""]},
+{""attribute"":""color"",""importance"":""0.00"",""values"":[""missing"",""missing""]}]","
+
+[{""attribute"":""brand"",""importance"":""0.5"",""values"":[""SanDisk"",""Shimano""]},{""attribute"":""model"",""importance"":""0.3"", ""values"":[""Extreme PRO UHS-II SD Card Reader USB 3.0"",""BB-MT800 Threaded Bottom Bracket""]},{""attribute"":""color"",""importance"":""0.2"", ""values"":[""missing"",""missing""]}]","[{""attribute"":""brand"",""importance"":""0.5"",""values"":[""SanDisk"",""Shimano""]},{""attribute"":""product type"",""importance"":""0.5"", ""values"":[""SD Card Reader"",""Threaded Bottom Bracket""]},{""attribute"":""specific feature"",""importance"":""0.0"", ""values"":[""USB 3.0"",""HollowTech II""]}]","I made my decision based on the fact that the two products have different titles, descriptions, and features. The first product is a SanDisk Extreme PRO UHS-II SD Card Reader USB 3.0 designed for professional photographers and videographers to maximize workflow efficiency. The second product is a Shimano BB-MT800 Threaded Bottom Bracket designed for maintenance-free performance with sealed cups to prevent water and mud ingress. The attributes and values that influenced my decision were the product titles, descriptions, and features."
+2,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:05:57.825Z,2023-10-22T13:05:58.212Z,"Are the following two products the same?
+Product 1: Title: Traveler's Company 014. CRAFT PAPER (64PG) MIDORI TRAVELER'S NOTEBOOK
+Description: none
+Product 2: Title: Refill #014: Kraft Paper Notebook
+Description: Cardboard Paper notebook refill for the Traveler's Notebook.Various cuttings, stickers, photos, scribbles and more sophisticated drawings suit it well.Contains 64 pages and its dimensions (210 x 110 mm) make it suitable for the classic version, not f
+
+Answer with 'True' or 'False'.",True,True,True,NONE,100%,90%,,"
+
+[{""attribute"":""brand"",""importance"":""0.05"",""values"":[""Traveler's Company"",""missing""]},
+{""attribute"":""model"",""importance"":""0.95"",""values"":[""014. CRAFT PAPER (64PG) MIDORI TRAVELER'S NOTEBOOK"",""Refill #014: Kraft Paper Notebook""]},
+{""attribute"":""color"",""importance"":""0.00"",""values"":[""missing"",""missing""]}]","
+
+[{""attribute"":""brand"",""importance"":""0.05"",""values"":[""Traveler's Company"",""missing""]},
+{""attribute"":""model"",""importance"":""0.95"", ""values"":[""014. CRAFT PAPER (64PG) MIDORI TRAVELER'S NOTEBOOK"",""Refill #014: Kraft Paper Notebook""]},
+{""attribute"":""color"",""importance"":""0.00"", ""values"":[""missing"",""missing""]}]","[{""attribute"":""brand"",""importance"":""0.7"",""values"":[""Traveler's Company"",""Traveler's Notebook""]},{""attribute"":""model"",""importance"":""0.2"", ""values"":[""014. CRAFT PAPER (64PG)"",""Refill #014: Kraft Paper Notebook""]},{""attribute"":""page count"",""importance"":""0.1"", ""values"":[""64"",""64""]}]","I made my decision based on the titles and descriptions of the two products. Both products have the same number (#014) and name (Kraft Paper Notebook) in their titles, and the description of Product 2 explicitly mentions that it is a refill for the Traveler's Notebook. Additionally, both products have the same number of pages (64) and similar dimensions (210 x 110 mm). Therefore, I concluded that the two products are the same."
+86,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:05:10.697Z,2023-10-22T13:05:11.285Z,"Are the following two products the same?
+Product 1: Title: Jabra BIZ 2400 II Duo Wideband Corded Headset
+Description: Jabra BIZ 2400 II Duo Wideband Corded Headset from Headset Store. Next Day Delivery. Part Code:2489-820-209
+Product 2: Title: Jabra BIZ 2400 II Mono 3-in-1 Wideband
+Description: Jabra BIZ 2400 II Mono 3-in-1 Wideband from Headset Store. Next Day Delivery. Part Code:2486-820-209
+
+Answer with 'True' or 'False'.",False.,False,False,NONE,60%,80%,,"
+
+[{""attribute"":""brand"",""importance"":""0.05"",""values"":[""Jabra"",""Jabra""]},
+{""attribute"":""model"",""importance"":""0.95"",""values"":[""BIZ 2400 II Duo Wideband Corded Headset"",""BIZ 2400 II Mono 3-in-1 Wideband""]},
+{""attribute"":""color"",""importance"":""0.00"",""values"":[""missing"",""missing""]}]","
+
+[{""attribute"":""brand"",""importance"":""0.2"",""values"":[""Jabra"",""Jabra""]},
+{""attribute"":""model"",""importance"":""0.8"",""values"":[""BIZ 2400 II Duo Wideband Corded Headset"",""BIZ 2400 II Mono 3-in-1 Wideband""]},
+{""attribute"":""color"",""importance"":""0.0"",""values"":[""missing"",""missing""]}]","[{""attribute"":""brand"",""importance"":""0.05"",""values"":[""Jabra"",""Jabra""]},{""attribute"":""model"",""importance"":""0.95"", ""values"":[""BIZ 2400 II Duo Wideband Corded Headset"",""BIZ 2400 II Mono 3-in-1 Wideband""]},{""attribute"":""part code"",""importance"":""0.00"", ""values"":[""2489-820-209"",""2486-820-209""]}]","I made my decision based on the fact that the two products have different titles and descriptions, as well as different part codes. The first product is a Jabra BIZ 2400 II Duo Wideband Corded Headset, while the second product is a Jabra BIZ 2400 II Mono 3-in-1 Wideband. The first product has a duo design, while the second product has a mono design. Additionally, the part codes for the two products are different. These attributes and values had a high influence on my decision."
+10,19817c50-cbc5-48b5-bf93-e6c45825d48b,gpt-3.5-turbo-0301,2023-10-22T13:05:54.434Z,2023-10-22T13:05:54.847Z,"Are the following two products the same?
+Product 1: Title: Fujifilm Instax Mini Instant Film - Monochrome (10 Shots)
+Description: Monochrome (Black & White) Instant Film for Fujifilm Mini Instant Cameras10 Shots per PackISO 800High Gloss FinishSuperb Grain QualityFast Image FormationGreater Resistance to Age-Induced ChangesSingle-plastic Composition for Easier Disposal
+Product 2: Title: Fujifilm 16531958 instant picture film 54 x 86 mm 10 pc(s)
+Description: This single pack of FUJIFILM INSTAX Mini Monochrome Instant Film contains 10 sheets of instant black & white film that is compatible for use with the FUJIFILM INSTAX Mini series of cameras or INSTAX SHARE printers. This film features neutral gray ton
+
+Answer with 'True' or 'False'.",True,True,True,NONE,95%,90%,,"
+
+[{""attribute"":""brand"",""importance"":""0.05"",""values"":[""Fujifilm"",""Fujifilm""]},
+{""attribute"":""model"",""importance"":""0.95"",""values"":[""Instax Mini Instant Film"",""16531958 instant picture film""]},
+{""attribute"":""color"",""importance"":""0.00"",""values"":[""Monochrome"",""missing""]},
+{""attribute"":""shots per pack"",""importance"":""0.10"",""values"":[""10"",""10""]},
+{""attribute"":""ISO"",""importance"":""0.15"",""values"":[""800"",""missing""]},
+{""attribute"":""finish"",""importance"":""0.05"",""values"":[""High Gloss"",""missing""]},
+{""attribute"":""grain quality"",""importance"":""0.10"",""values"":[""Superb"",""missing""]},
+{""attribute"":""image formation speed"",""importance"":""0.10"",""values"":[""Fast"",""missing""]},
+{""attribute"":""age resistance"",""importance"":""0.10"",""values"":[""Greater Resistance"",""missing""]},
+{""attribute"":""composition"",""importance"":""0.05"",""values"":[""Single-plastic"",""missing""]},
+{""attribute"":""compatibility"",""importance"":""0.15"",""values"":[""Fujifilm Mini Instant Cameras or INSTAX SHARE printers"",""Fujifilm INSTAX Mini series","
+
+[{""attribute"":""brand"",""importance"":""0.05"",""values"":[""Fujifilm"",""Fujifilm""]},
+{""attribute"":""model"",""importance"":""0.95"", ""values"":[""Instax Mini Instant Film"",""16531958 instant picture film""]},
+{""attribute"":""color"",""importance"":""0.00"", ""values"":[""Monochrome"",""missing""]},
+{""attribute"":""shots per pack"",""importance"":""0.10"", ""values"":[""10"",""10""]},
+{""attribute"":""ISO"",""importance"":""0.15"", ""values"":[""800"",""missing""]},
+{""attribute"":""finish"",""importance"":""0.05"", ""values"":[""High Gloss"",""missing""]},
+{""attribute"":""grain quality"",""importance"":""0.10"", ""values"":[""Superb"",""missing""]},
+{""attribute"":""image formation speed"",""importance"":""0.10"", ""values"":[""Fast"",""missing""]},
+{""attribute"":""age resistance"",""importance"":""0.10"", ""values"":[""Greater"",""missing""]},
+{""attribute"":""composition"",""importance"":""0.10"", ""values"":[""Single-plastic"",""missing""]},
+{""attribute"":""compatibility"",""importance"":""0.10"", ""values"":[""Fujifilm Mini Instant Cameras or INSTAX SHARE printers","[{""attribute"":""brand"",""importance"":""0.2"",""values"":[""Fujifilm"",""Fujifilm""]},{""attribute"":""type"",""importance"":""0.2"", ""values"":[""Instax Mini Instant Film - Monochrome"",""INSTAX Mini Monochrome Instant Film""]},{""attribute"":""quantity"",""importance"":""0.2"", ""values"":[""10 Shots"",""10 pc(s)""]},{""attribute"":""compatibility"",""importance"":""0.2"", ""values"":[""Fujifilm Mini Instant Cameras"",""FUJIFILM INSTAX Mini series of cameras or INSTAX SHARE printers""]},{""attribute"":""color"",""importance"":""0.2"", ""values"":[""Black & White"",""Black & White""]}]","I made my decision based on the titles and descriptions of the two products. Both products are Fujifilm Instax Mini Instant Film, but Product 1 is specifically labeled as Monochrome (Black & White) with 10 shots per pack and ISO 800. Product 2 is labeled as Monochrome Instant Film with 10 sheets per pack and compatible with Fujifilm Instax Mini series of cameras or INSTAX SHARE printers. The attributes that had a high influence on my decision were the number of shots/sheets per pack, compatibility with specific cameras/printers, and the specific type of film (Monochrome/Black & White)."
