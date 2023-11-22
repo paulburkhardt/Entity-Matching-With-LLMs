@@ -11,6 +11,7 @@ Product 2: {p2}
 Please answer my question only with True or False."""
 )
 
+# prompt I used as a baseline
 prompt1_en_short = PromptTemplate(
     input_variables=["p1", "p2"],
     template=

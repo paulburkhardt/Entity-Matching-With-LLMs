@@ -5,3 +5,7 @@ openAI - gpt-3.5-turbo-0301,match_prompt_manual_fewshot_1_eval2_temp_0_gpt3.5_03
  [ 10  30]]",GoogleAmazon,2023-10-23 11:53:13.652323
 openAI - gpt-3.5-turbo-0301,prompt1_en_short_temp_0_gpt3.5-0301_temp_0_gpt3.5_0301_maxtok-15,0.9175,0.5522388059701493,0.925,0.6915887850467289,"[[330  30]
  [  3  37]]",GoogleAmazon,2023-11-12 16:32:15.779012
+openAI - gpt-4-0613,prompt1_en_short_temp_0_gpt4_0613_maxtok-15,0.9575,0.7090909090909091,0.975,0.8210526315789474,"[[344  16]
+ [  1  39]]",GoogleAmazon,2023-11-22 13:52:18.634084
+openAI - gpt-3.5-turbo-0301,prompt1_en_short_temp_0_gpt3.5-0301_v2_maxtok-15,0.9175,0.5522388059701493,0.925,0.6915887850467289,"[[330  30]
+ [  3  37]]",GoogleAmazon,2023-11-22 13:59:55.158583
