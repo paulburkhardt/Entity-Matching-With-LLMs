@@ -18,6 +18,7 @@ langfuse = "^1.0.30"
 llamaapi = "^0.1.36"
 langchain-experimental = "^0.0.29"
 matplotlib = "^3.8.1"
+cohere = "^4.36"
 
 
 

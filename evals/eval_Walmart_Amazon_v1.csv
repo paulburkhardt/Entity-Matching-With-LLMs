@@ -17,3 +17,5 @@ openAI - gpt-3.5-turbo-0301,match_prompt_basic_zeroshot_1_eval2_temp_0_gpt3.5_03
  [ 12  28]]",WalmartAmazon,2023-11-22 18:14:59.317177
 openAI - gpt3.5_0301,match_prompt_basic_zeroshot_2_eval2_temp_0_gpt3.5_0301_maxtok-15,0.9358024691358025,0.8181818181818182,0.45,0.5806451612903226,"[[361   4]
  [ 22  18]]",WalmartAmazon,2023-11-23 11:24:32.772014
+openAI - gpt-3.5-turbo-instruct,prompt1_instruct_temp_0_gpt-3.5-turbo-instruct_maxtok-15,0.928395061728395,1.0,0.275,0.4313725490196079,"[[365   0]
+ [ 29  11]]",WalmartAmazon,2023-11-23 15:45:30.417315

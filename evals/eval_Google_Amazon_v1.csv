@@ -11,3 +11,9 @@ openAI - gpt-3.5-turbo-0301,prompt1_en_short_temp_0_gpt3.5-0301_v2_maxtok-15,0.9
  [  3  37]]",GoogleAmazon,2023-11-22 13:59:55.158583
 openAI - gpt-3.5-turbo-0301,match_prompt_basic_zeroshot_1_eval2_temp_0_gpt3.5_0301_maxtok-15,0.9175,0.5573770491803278,0.85,0.6732673267326733,"[[333  27]
  [  6  34]]",GoogleAmazon,2023-11-22 20:01:35.219557
+openAI - gpt-3.5-turbo-0301,match_prompt_manual_fewshot_1_eval2_temp_0_gpt3.5_0301_maxtok-15,0.92,0.5645161290322581,0.875,0.6862745098039217,"[[333  27]
+ [  5  35]]",GoogleAmazon,2023-11-23 12:22:25.244073
+openAI - gpt-3.5-turbo-0301,match_prompt_basic_zeroshot_2_eval2_temp_0_gpt3.5_0301_maxtok-15,0.9025,0.5087719298245614,0.725,0.5979381443298969,"[[332  28]
+ [ 11  29]]",GoogleAmazon,2023-11-23 15:01:05.159234
+openAI - gpt-3.5-turbo-instruct,prompt1_instruct_temp_0_gpt-3.5-turbo-instruct_maxtok-15,0.8625,0.4050632911392405,0.8,0.5378151260504201,"[[313  47]
+ [  8  32]]",GoogleAmazon,2023-11-23 15:59:35.879301

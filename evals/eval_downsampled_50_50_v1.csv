@@ -53,5 +53,15 @@ openAI - gpt-3.5-turbo-instruct,prompt1_instruct_temp_0_gpt-3.5-turbo-instruct_m
  [  5  20]]",downsampled_50_50,2023-11-22 16:49:12.546379
 openAI - gpt-3.5-turbo-instruct,prompt1_en_short_instruct_temp_0_gpt-3.5-turbo-instruct_v2_maxtok-15,0.9004524886877828,0.7142857142857143,0.2,0.3125,"[[194   2]
  [ 20   5]]",downsampled_50_50,2023-11-22 16:51:24.826972
-openAI - gpt-3.5-turbo-0301,match_prompt_basic_zeroshot_1_eval2_temp_0_gpt3.5-0301__maxtok-15,0.9049773755656109,0.6,0.48,0.5333333333333332,"[[188   8]
+openAI - gpt-3.5-turbo-0301,match_prompt_basic_zeroshot_1_eval2_temp_0_gpt3.5-0301__maxtok-15,0.9049773755656108,0.6,0.48,0.5333333333333332,"[[188   8]
  [ 13  12]]",downsampled_50_50,2023-11-22 20:49:41.228493
+openAI - gpt-3.5-turbo-1106,prompt1_en_short_temp_0_gpt-3.5-turbo-1106_maxtok-15,0.9321266968325792,0.7272727272727273,0.64,0.6808510638297872,"[[190   6]
+ [  9  16]]",downsampled_50_50,2023-11-23 18:58:18.537038
+openAI - gpt-4-1106-preview,prompt1_en_short_temp_0_gpt-4-1106-preview_maxtok-15,0.9366515837104072,0.8235294117647058,0.56,0.6666666666666666,"[[193   3]
+ [ 11  14]]",downsampled_50_50,2023-11-23 19:02:04.165447
+cohere - command,prompt1_en_short_temp_0_cohere_maxtok-15,0.8642533936651584,0.0,0.0,0.0,"[[191   5]
+ [ 25   0]]",downsampled_50_50,2023-11-23 19:19:28.532056
+cohere - command,match_prompt_basic_zeroshot_1_eval2_temp_0_cohere_maxtok-15,0.8959276018099548,0.5416666666666666,0.52,0.5306122448979592,"[[185  11]
+ [ 12  13]]",downsampled_50_50,2023-11-24 09:17:16.612653
+cohere - command,match_prompt_manual_fewshot_1_eval2_temp_0_cohere_maxtok-15,0.9049773755656109,0.5714285714285714,0.64,0.6037735849056605,"[[184  12]
+ [  9  16]]",downsampled_50_50,2023-11-24 09:31:46.335835
