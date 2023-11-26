@@ -63,5 +63,15 @@ cohere - command,prompt1_en_short_temp_0_cohere_maxtok-15,0.8642533936651584,0.0
  [ 25   0]]",downsampled_50_50,2023-11-23 19:19:28.532056
 cohere - command,match_prompt_basic_zeroshot_1_eval2_temp_0_cohere_maxtok-15,0.8959276018099548,0.5416666666666666,0.52,0.5306122448979592,"[[185  11]
  [ 12  13]]",downsampled_50_50,2023-11-24 09:17:16.612653
-cohere - command,match_prompt_manual_fewshot_1_eval2_temp_0_cohere_maxtok-15,0.9049773755656109,0.5714285714285714,0.64,0.6037735849056605,"[[184  12]
+cohere - command,match_prompt_manual_fewshot_1_eval2_temp_0_cohere_maxtok-15,0.9049773755656108,0.5714285714285714,0.64,0.6037735849056605,"[[184  12]
  [  9  16]]",downsampled_50_50,2023-11-24 09:31:46.335835
+cohere - command,prompt1_instruct_temp_0_cohere_maxtok-15,0.8733031674208145,0.3333333333333333,0.12,0.1764705882352941,"[[190   6]
+ [ 22   3]]",downsampled_50_50,2023-11-24 10:55:13.707974
+gpt-3.5-turbo-instruct,match_prompt_basic_zeroshot_1_eval2_temp_0_instruct,0.8597285067873304,0.4117647058823529,0.56,0.4745762711864407,"[[176  20]
+ [ 11  14]]",downsampled_50_50,2023-11-24 11:19:29.143449
+gpt-3.5-turbo-0301 and -instruct,match_prompt_basic_zeroshot_1_eval2_instruct_temp_0_gpt3.5-0301,0.9004524886877828,0.5652173913043478,0.52,0.5416666666666667,"[[186  10]
+ [ 12  13]]",downsampled_50_50,2023-11-24 11:53:32.380700
+gpt3.5-1106,match_prompt_basic_zeroshot_2_eval2_temp_0_gpt3.5-1106,0.9095022624434388,0.7272727272727273,0.32,0.4444444444444444,"[[193   3]
+ [ 17   8]]",downsampled_50_50,2023-11-24 13:17:13.599047
+gpt3.5-1106,match_prompt_manual_fewshot_1_eval2_temp_0_gpt3.5-1106,0.9230769230769231,0.6428571428571429,0.72,0.6792452830188679,"[[186  10]
+ [  7  18]]",downsampled_50_50,2023-11-24 13:35:11.586456
