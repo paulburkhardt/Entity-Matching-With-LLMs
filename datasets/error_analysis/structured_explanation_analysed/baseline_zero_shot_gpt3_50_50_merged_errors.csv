@@ -1,0 +1,25 @@
+attribute,count,average importance,variance of importance
+brand,11,0.44090909090909086,0.1544628099173554
+model,7,0.6571428571428571,0.09959183673469388
+type,2,0.7,0.010000000000000005
+number of sheets,2,0.675,0.030624999999999996
+part code,2,0.05,0.0025000000000000005
+description,2,0.3,0.04
+feature,1,0.5,0.0
+quality,1,0.6,0.0
+compatibility,1,0.7,0.0
+quantity,1,0.9,0.0
+capacity,1,0.1,0.0
+pack size,1,0.1,0.0
+compatible model,1,0.1,0.0
+film type,1,0.3,0.0
+title,1,0.5,0.0
+antenna,1,0.4,0.0
+number of shots,1,1.0,0.0
+compatible cameras,1,0.5,0.0
+film format,1,0.95,0.0
+management,1,0.0,0.0
+PoE standard,1,0.05,0.0
+number of uplink ports,1,0.45,0.0
+number of PoE ports,1,0.45,0.0
+compatible camera,1,0.5,0.0

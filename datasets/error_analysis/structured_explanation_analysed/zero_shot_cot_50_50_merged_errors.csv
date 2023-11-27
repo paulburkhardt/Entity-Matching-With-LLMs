@@ -1,0 +1,63 @@
+attribute,count,average importance,variance of importance
+brand,17,0.6147058823529411,0.1387543252595156
+model,10,0.63,0.10159999999999998
+product type,4,0.5874999999999999,0.06546874999999999
+compatibility,4,0.5875,0.12796875000000002
+color,3,0.11666666666666668,0.0038888888888888896
+interface,3,0.4666666666666666,0.08222222222222224
+warranty,2,0.07500000000000001,0.0006250000000000001
+film type,2,0.9,0.009999999999999995
+Brand,2,0.1,0.0024999999999999996
+number of shots,2,0.8500000000000001,0.0024999999999999988
+delivery,2,0.1,0.0
+storage capacity,2,0.4,0.039999999999999994
+part code,2,0.1,0.0
+size,2,0.1,0.0
+description,2,0.0,0.0
+frequency,2,0.5,0.09000000000000001
+compatible camera model,1,0.6,0.0
+package details,1,0.5,0.0
+data transfer rate,1,0.15,0.0
+type,1,0.2,0.0
+product line,1,0.9,0.0
+read speed,1,0.4,0.0
+color reproduction,1,0.2,0.0
+grain structure,1,0.1,0.0
+border,1,0.1,0.0
+number of sheets/shots,1,0.8,0.0
+pack size,1,0.7,0.0
+Model,1,0.25,0.0
+Tire Size,1,0.2,0.0
+seller,1,0.1,0.0
+Technology,1,0.1,0.0
+feature,1,0.5,0.0
+border color,1,0.3,0.0
+Rubber Compound,1,0.15,0.0
+Casing,1,0.1,0.0
+Wide Trail Option,1,0.05,0.0
+quality,1,0.4,0.0
+form factor,1,0.1,0.0
+Data Transfer Rate,1,0.7,0.0
+quantity,1,0.9,0.0
+noise cancelling,1,0.5,0.0
+wireless speed,1,0.2,0.0
+support for 802.11bgn,1,0.05,0.0
+WPS support,1,0.05,0.0
+number of ports,1,0.2,0.0
+number of PoE ports,1,0.2,0.0
+uplink port speed,1,0.15,0.0
+total power output,1,0.15,0.0
+maximum distance,1,0.1,0.0
+PoE standards,1,0.05,0.0
+microphone,1,0.5,0.0
+Power Output,1,0.4,0.0
+functionality,1,0.1,0.0
+speed,1,0.9,0.0
+antenna,1,0.5,0.0
+extra features,1,0.1,0.0
+restrictions,1,0.05,0.0
+edition,1,0.1,0.0
+Type,1,1.0,0.0
+Chipset,1,0.5,0.0
+Antenna,1,0.3,0.0
+stock details,1,0.1,0.0

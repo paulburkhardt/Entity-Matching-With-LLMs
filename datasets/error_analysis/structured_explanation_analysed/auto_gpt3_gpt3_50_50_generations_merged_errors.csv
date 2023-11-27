@@ -1,0 +1,39 @@
+attribute,count,average importance,variance of importance
+brand,12,0.4416666666666666,0.09743055555555553
+model,8,0.48750000000000004,0.08359375
+size,3,0.2333333333333333,0.008888888888888887
+product type,3,0.6666666666666666,0.05555555555555555
+description,3,0.4666666666666666,0.0022222222222222214
+interface,2,0.15,0.0225
+paper thickness,1,0.7,0.0
+quantity,1,0.9,0.0
+pack type,1,0.4,0.0
+film type,1,0.5,0.0
+storage capacity,1,0.2,0.0
+type,1,0.3,0.0
+perforation,1,0.0,0.0
+suitability,1,0.7,0.0
+page count,1,0.0,0.0
+Chipset,1,0.05,0.0
+type of paper,1,0.4,0.0
+TPI,1,0.15,0.0
+casing,1,0.1,0.0
+compound,1,0.1,0.0
+Antenna,1,0.05,0.0
+Model,1,0.3,0.0
+Speed,1,0.1,0.0
+Type,1,0.2,0.0
+Brand,1,0.3,0.0
+color,1,0.1,0.0
+package content,1,0.6,0.0
+compatibility,1,0.7,0.0
+number of shots,1,0.9,0.0
+technology,1,0.5,0.0
+PoE standard,1,0.1,0.0
+uplink port speed,1,0.1,0.0
+type of switch,1,0.2,0.0
+number of ports,1,0.4,0.0
+frequency,1,0.0,0.0
+wireless speed,1,0.0,0.0
+line interval,1,0.2,0.0
+tread design,1,0.05,0.0

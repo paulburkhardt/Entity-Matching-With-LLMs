@@ -1,0 +1,164 @@
+attribute,count,average importance,variance of importance
+brand,192,0.39270833333333305,0.0808843315972222
+model,115,0.6478260869565224,0.09936483931947068
+product type,93,0.8456989247311829,0.048906231934327665
+color,45,0.08444444444444449,0.010091358024691357
+type,36,0.6833333333333333,0.10888888888888887
+capacity,29,0.36206896551724127,0.08597502972651606
+description,26,0.13653846153846153,0.060299556213017746
+speed,24,0.5041666666666668,0.09894097222222221
+storage capacity,23,0.4021739130434783,0.10858223062381853
+size,21,0.40952380952380957,0.07848072562358276
+interface,20,0.29500000000000004,0.071475
+compatibility,14,0.3678571428571428,0.0941454081632653
+frequency,12,0.3125,0.12546875
+quantity,10,0.18000000000000002,0.037599999999999995
+read speed,8,0.30625,0.0852734375
+film type,8,0.69375,0.06527343749999999
+page count,7,0.15,0.007857142857142858
+write speed,7,0.33571428571428574,0.09051020408163266
+warranty,7,0.10714285714285714,0.013163265306122449
+compatible devices,7,0.40714285714285714,0.03744897959183673
+technology,7,0.3,0.09071428571428572
+number of shots,6,0.5416666666666666,0.07701388888888888
+cache,5,0.21000000000000002,0.0364
+number of ports,5,0.76,0.0314
+warranty period,5,0.16,0.0344
+casing,5,0.53,0.06760000000000001
+Type,4,1.0,0.0
+data transfer rate,4,0.1625,0.039218750000000004
+use,4,0.3,0.045000000000000005
+rpm,4,0.3125,0.012968749999999998
+title,4,0.375,0.006875000000000001
+data rate,4,0.3875,0.10296875
+compound,4,0.4875,0.07546875000000001
+origin,4,0.15,0.007499999999999999
+form factor,4,0.2125,0.08046874999999998
+material,4,0.45,0.007500000000000001
+ports,3,0.6333333333333333,0.0005555555555555566
+Speed,3,0.6333333333333333,0.008888888888888885
+number of exposures,3,0.10000000000000002,0.006666666666666668
+wireless speed,3,0.8833333333333334,0.00722222222222222
+antenna,3,0.19999999999999998,0.04666666666666667
+usage,3,0.3,0.08666666666666667
+compatible camera model,3,0.8833333333333333,0.0005555555555555566
+number of sheets,3,0.39999999999999997,0.10166666666666667
+additional features,3,0.3666666666666667,0.06888888888888889
+Chipset,3,0.3666666666666667,0.03555555555555556
+read/write speed,3,0.06666666666666667,0.0022222222222222222
+part code,3,0.0,0.0
+Antenna,3,0.3,0.04666666666666666
+Brand,3,0.35000000000000003,0.045000000000000005
+pack size,3,0.16666666666666666,0.0022222222222222222
+frequency band,2,0.7,0.0
+Size,2,0.1,0.0
+ethernet,2,0.55,0.0024999999999999988
+Interface,2,0.3,0.04
+model number,2,0.55,0.0024999999999999988
+connection type,2,0.25,0.0625
+design,2,0.4,0.010000000000000002
+Ethernet ports,2,0.25,0.0625
+Model,2,0.725,0.05062499999999999
+film size,2,0.2,0.009999999999999998
+USB version,2,0.05,0.0
+tire size,2,0.7749999999999999,0.0056250000000000015
+VPN support,2,0.45,0.0024999999999999988
+product function,2,0.75,0.0625
+paper type,2,0.85,0.022500000000000006
+resolution,2,0.25,0.0625
+product code,2,0.3,0.04
+number of items in package,2,0.15000000000000002,0.0025000000000000005
+print capacity,2,0.55,0.0024999999999999988
+standard,2,0.275,0.050625
+antenna type,2,0.35000000000000003,0.09000000000000001
+tubeless ready,2,0.5,0.0
+volume,2,0.25,0.0625
+band,2,0.6,0.009999999999999995
+additional feature,1,0.6,0.0
+capacity/speed,1,0.0,0.0
+compatible models,1,0.1,0.0
+page yield,1,0.2,0.0
+WPS Support,1,0.1,0.0
+Wireless Capability,1,0.1,0.0
+Supported Systems,1,0.1,0.0
+support for WPS,1,0.1,0.0
+case,1,0.15,0.0
+operating system support,1,0.1,0.0
+broadband port,1,0.6,0.0
+exposures,1,0.1,0.0
+border color,1,0.1,0.0
+recovery service plan,1,0.1,0.0
+buffer,1,0.2,0.0
+mounting,1,0.5,0.0
+case material,1,0.1,0.0
+interface/OS,1,0.8,0.0
+network port,1,0.6,0.0
+diameter,1,0.0,0.0
+security feature,1,0.1,0.0
+tread,1,0.8,0.0
+product features,1,0.5,0.0
+frame,1,0.3,0.0
+Operating System Support,1,0.1,0.0
+Frequency,1,0.5,0.0
+type of ports,1,0.95,0.0
+function,1,0.9,0.0
+product number,1,0.5,0.0
+class,1,0.1,0.0
+Standard,1,0.7,0.0
+aperture,1,0.5,0.0
+weatherproof,1,0.65,0.0
+uplink,1,0.5,0.0
+image sensor,1,0.5,0.0
+lens,1,0.5,0.0
+contact surface,1,0.0,0.0
+feature,1,0.05,0.0
+earpiece type,1,0.0,0.0
+tread design,1,0.6,0.0
+tire type,1,0.7,0.0
+PoE adapter included,1,0.6,0.0
+chipset,1,0.5,0.0
+power standard,1,0.5,0.0
+SFP,1,0.3,0.0
+uplink speed,1,0.4,0.0
+RPM Class,1,0.0,0.0
+data transmission speed,1,0.85,0.0
+power capacity,1,0.5,0.0
+interface port,1,0.5,0.0
+volume/capacity,1,0.0,0.0
+rack height,1,0.5,0.0
+part number,1,0.0,0.0
+wheel size,1,0.85,0.0
+pump type,1,0.0,0.0
+radiator surface area,1,0.0,0.0
+RGB,1,0.0,0.0
+software support,1,0.5,0.0
+Title,1,0.3,0.0
+Type of Notebook,1,0.7,0.0
+Page Count,1,0.0,0.0
+Page Type,1,0.0,0.0
+product speed,1,0.0,0.0
+compatible socket,1,0.0,0.0
+Suitability for Media,1,0.0,0.0
+Mode,1,0.4,0.0
+part code / model number,1,0.0,0.0
+page feature,1,0.7,0.0
+print count,1,0.8,0.0
+movement,1,0.0,0.0
+PoE standard,1,0.0,0.0
+Uplink,1,0.0,0.0
+page quality,1,0.7,0.0
+tubeless,1,0.05,0.0
+binding,1,0.3,0.0
+target audience,1,0.1,0.0
+intended use,1,0.6,0.0
+transfer rate,1,0.0,0.0
+page type,1,0.85,0.0
+operating modes,1,0.6,0.0
+Ethernet Port,1,0.6,0.0
+wireless transmission rate,1,0.7,0.0
+specific feature,1,0.0,0.0
+SFP ports,1,0.5,0.0
+forwarding rate,1,0.6,0.0
+switching capacity,1,0.6,0.0
+power consumption,1,0.8,0.0
+weight,1,0.0,0.0
